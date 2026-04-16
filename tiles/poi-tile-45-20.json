@@ -1,0 +1,102 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 45,
+    "lon": 20,
+    "bounds": {
+      "south": 45,
+      "north": 46,
+      "west": 20,
+      "east": 21
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-13287698264",
+      "name": "Charge&GO",
+      "type": "charging_station",
+      "lat": 45.378307,
+      "lon": 20.355228,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13310874259",
+      "name": "Orion - Naplatna stanica Stara Pazova",
+      "type": "charging_station",
+      "lat": 45.005298,
+      "lon": 20.201351,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Orion",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13506214755",
+      "name": "Ladestation Eldrive",
+      "type": "charging_station",
+      "lat": 45.793323,
+      "lon": 20.722203,
+      "operator": "Eldrive",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

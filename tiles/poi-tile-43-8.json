@@ -1,0 +1,790 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 43,
+    "lon": 8,
+    "bounds": {
+      "south": 43,
+      "north": 44,
+      "west": 8,
+      "east": 9
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 28,
+  "pois": [
+    {
+      "id": "osm-2341814881",
+      "name": "Repower - DINAclub",
+      "type": "charging_station",
+      "lat": 43.973869,
+      "lon": 8.158465,
+      "operator": "Repower",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "DINAclub",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-2341821497",
+      "name": "DINAclub - Stazione di Ricarica e-Bike",
+      "type": "charging_station",
+      "lat": 43.921443,
+      "lon": 8.098368,
+      "operator": "Repower",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "DINAclub",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10766674421",
+      "name": "Ladestation Duferco Energia",
+      "type": "charging_station",
+      "lat": 43.920136,
+      "lon": 8.097347,
+      "operator": "Duferco Energia",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10766753233",
+      "name": "Ladestation Duferco Energia",
+      "type": "charging_station",
+      "lat": 43.921218,
+      "lon": 8.101005,
+      "operator": "Duferco Energia",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7062657664",
+      "name": "Ladestation Enel X Way",
+      "type": "charging_station",
+      "lat": 43.964689,
+      "lon": 8.136972,
+      "operator": "Enel X Way",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8296199094",
+      "name": "Imperia Supercharger",
+      "type": "charging_station",
+      "lat": 43.892556,
+      "lon": 8.039096,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 10
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 10
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11503722027",
+      "name": "Enel",
+      "type": "charging_station",
+      "lat": 43.892111,
+      "lon": 8.039448,
+      "operator": "Enel",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9933841127",
+      "name": "IONITY Rinovo Nord",
+      "type": "charging_station",
+      "lat": 43.959155,
+      "lon": 8.134233,
+      "operator": "IONITY",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12995749420",
+      "name": "Plenitude - Plenitude",
+      "type": "charging_station",
+      "lat": 43.957544,
+      "lon": 8.139869,
+      "operator": "Plenitude",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Plenitude",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10768000717",
+      "name": "Ladestation Comune di Andora",
+      "type": "charging_station",
+      "lat": 43.951315,
+      "lon": 8.151507,
+      "operator": "Comune di Andora",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12318989254",
+      "name": "Ladestation Be Charge",
+      "type": "charging_station",
+      "lat": 43.953224,
+      "lon": 8.147905,
+      "operator": "Be Charge",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10996600758",
+      "name": "Repower - DINAclub",
+      "type": "charging_station",
+      "lat": 43.932348,
+      "lon": 8.098089,
+      "operator": "Repower",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "DINAclub",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11357838938",
+      "name": "Repower - DINAclub",
+      "type": "charging_station",
+      "lat": 43.981581,
+      "lon": 8.156214,
+      "operator": "Repower",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "DINAclub",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13020446483",
+      "name": "DUEENERGIE - DUEENERGIE",
+      "type": "charging_station",
+      "lat": 43.979701,
+      "lon": 8.157921,
+      "operator": "DUEENERGIE",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "DUEENERGIE",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11503722026",
+      "name": "Enel",
+      "type": "charging_station",
+      "lat": 43.88587,
+      "lon": 8.028376,
+      "operator": "Enel",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11520120932",
+      "name": "Eni - eni",
+      "type": "charging_station",
+      "lat": 43.895929,
+      "lon": 8.038898,
+      "operator": "Eni",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "eni",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11528593143",
+      "name": "Ewiva - ewiva",
+      "type": "charging_station",
+      "lat": 43.898292,
+      "lon": 8.033857,
+      "operator": "Ewiva",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ewiva",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11569013151",
+      "name": "Enel",
+      "type": "charging_station",
+      "lat": 43.878504,
+      "lon": 8.006446,
+      "operator": "Enel",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11582180206",
+      "name": "Enel",
+      "type": "charging_station",
+      "lat": 43.871892,
+      "lon": 8.001155,
+      "operator": "Enel",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11821313029",
+      "name": "GaraGeeks - Comune di Andora",
+      "type": "charging_station",
+      "lat": 43.982217,
+      "lon": 8.129421,
+      "operator": "GaraGeeks",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Comune di Andora",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12320528839",
+      "name": "Repower - RePower",
+      "type": "charging_station",
+      "lat": 43.884667,
+      "lon": 8.029077,
+      "operator": "Repower",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "RePower",
+        "network": "DINAclub",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12416032319",
+      "name": "Enel",
+      "type": "charging_station",
+      "lat": 43.8788,
+      "lon": 8.014165,
+      "operator": "Enel",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12500658819",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 43.888388,
+      "lon": 8.043436,
+      "operator": "Enel X",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Enel X",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12744564799",
+      "name": "Ladestation Mennekes",
+      "type": "charging_station",
+      "lat": 43.967159,
+      "lon": 8.091561,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Mennekes",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12996352669",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 43.924157,
+      "lon": 8.110633,
+      "operator": "Enel X",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Enel X",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13297148775",
+      "name": "Ladestation Peq Agri",
+      "type": "charging_station",
+      "lat": 43.962643,
+      "lon": 8.142636,
+      "operator": "Peq Agri",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-13298125560",
+      "name": "Ladestation clorofilla",
+      "type": "charging_station",
+      "lat": 43.946913,
+      "lon": 8.138854,
+      "operator": "clorofilla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1190039093",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.923454,
+      "lon": 8.067462,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 34,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 34,
+      "east": 35
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-11011596277",
+      "name": "DriveEnergy - Атан",
+      "type": "charging_station",
+      "lat": 44.981876,
+      "lon": 34.086839,
+      "operator": "DriveEnergy",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Атан",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Credit Cards",
+          "Debit Cards"
+        ],
+        "fee": true
+      }
+    }
+  ]
+}

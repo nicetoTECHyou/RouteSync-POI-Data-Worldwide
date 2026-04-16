@@ -1,0 +1,54 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": -124,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": -124,
+      "east": -123
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-35258",
+      "name": "LINCOLN CITY TAFT DUAL 1",
+      "type": "charging_station",
+      "lat": 44.928439,
+      "lon": -124.015824,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "1226 SW 50th St",
+        "city": "Lincoln City",
+        "state": "OR",
+        "postcode": "97367",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    }
+  ]
+}

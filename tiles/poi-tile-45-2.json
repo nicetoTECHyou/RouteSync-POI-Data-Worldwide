@@ -1,0 +1,80 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 45,
+    "lon": 2,
+    "bounds": {
+      "south": 45,
+      "north": 46,
+      "west": 2,
+      "east": 3
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-1347312261",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.281173,
+      "lon": 2.660044,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1450730848",
+      "name": "Ladestation e-totem",
+      "type": "charging_station",
+      "lat": 45.213906,
+      "lon": 2.347905,
+      "operator": "e-totem",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "e-totem",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1452460894",
+      "name": "Ladestation Aldi",
+      "type": "charging_station",
+      "lat": 45.212713,
+      "lon": 2.349298,
+      "operator": "Aldi",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

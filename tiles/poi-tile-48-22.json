@@ -1,0 +1,84 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 48,
+    "lon": 22,
+    "bounds": {
+      "south": 48,
+      "north": 49,
+      "west": 22,
+      "east": 23
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-1463197122",
+      "name": "Mobiliti",
+      "type": "charging_station",
+      "lat": 48.232782,
+      "lon": 22.065672,
+      "operator": "Mobiliti",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Mobiliti",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1484337255",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.233709,
+      "lon": 22.062467,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

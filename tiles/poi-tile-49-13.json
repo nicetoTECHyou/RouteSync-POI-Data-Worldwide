@@ -1,0 +1,72 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 49,
+    "lon": 13,
+    "bounds": {
+      "south": 49,
+      "north": 50,
+      "west": 13,
+      "east": 14
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-1422334409",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 49.003402,
+      "lon": 13.220103,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1422334412",
+      "name": "Ladestation Aldi",
+      "type": "charging_station",
+      "lat": 49.00142,
+      "lon": 13.219583,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Aldi",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

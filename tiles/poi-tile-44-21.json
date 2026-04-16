@@ -1,0 +1,89 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 21,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 21,
+      "east": 22
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-8821114619",
+      "name": "Charge&GO - BS Gazprom Velika Plana",
+      "type": "charging_station",
+      "lat": 44.345325,
+      "lon": 21.078353,
+      "operator": "Газпром",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "charge&GO",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-13317124915",
+      "name": "Ladestation Charge&Go",
+      "type": "charging_station",
+      "lat": 44.20669,
+      "lon": 21.105932,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Charge&Go",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cards"
+        ],
+        "fee": true
+      }
+    }
+  ]
+}

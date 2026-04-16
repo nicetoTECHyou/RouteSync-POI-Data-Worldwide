@@ -1,0 +1,614 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 14,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 14,
+      "east": 15
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 21,
+  "pois": [
+    {
+      "id": "osm-3866958433",
+      "name": "Senj Supercharger",
+      "type": "charging_station",
+      "lat": 44.98932,
+      "lon": 14.897587,
+      "operator": "Tesla",
+      "address": {
+        "street": "Obala Dr. Franje Tudjmana",
+        "postcode": "52370",
+        "city": "Senj",
+        "country": "HR"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5922956091",
+      "name": "T-Mobile - T-Mobile",
+      "type": "charging_station",
+      "lat": 44.96249,
+      "lon": 14.397349,
+      "operator": "T-Mobile",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "T-Mobile",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8485213637",
+      "name": "(Under construction)",
+      "type": "charging_station",
+      "lat": 44.75636,
+      "lon": 14.764267,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8485980644",
+      "name": "Arbiana hotel",
+      "type": "charging_station",
+      "lat": 44.754679,
+      "lon": 14.762055,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 11,
+        "sockets": [
+          {
+            "type": "Tesla Destination",
+            "kw": 11,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10042573154",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.756285,
+      "lon": 14.761798,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8485980642",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.761991,
+      "lon": 14.758176,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8485980643",
+      "name": "Hotel Imperial",
+      "type": "charging_station",
+      "lat": 44.761151,
+      "lon": 14.758477,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8485980645",
+      "name": "Apartment Resort Kaldana",
+      "type": "charging_station",
+      "lat": 44.763672,
+      "lon": 14.74951,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Tesla Destination",
+            "kw": 11.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8485980646",
+      "name": "AC Marina",
+      "type": "charging_station",
+      "lat": 44.803237,
+      "lon": 14.726006,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "Tesla Destination",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8485980647",
+      "name": "ELEN Trajektna luka LOPAR",
+      "type": "charging_station",
+      "lat": 44.835791,
+      "lon": 14.725371,
+      "operator": "ELEN",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9098286573",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.971663,
+      "lon": 14.755579,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9170518029",
+      "name": "Ladestation Absolute",
+      "type": "charging_station",
+      "lat": 44.969041,
+      "lon": 14.763986,
+      "operator": "Absolute",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12065103395",
+      "name": "Chargeport - Chargeport",
+      "type": "charging_station",
+      "lat": 44.95365,
+      "lon": 14.690231,
+      "operator": "Chargeport",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Chargeport",
+        "network": "Chargeport",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12186499041",
+      "name": "Jadranka turizam - Hotel Aurora",
+      "type": "charging_station",
+      "lat": 44.522218,
+      "lon": 14.459755,
+      "operator": "Hrvatski Telekom",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Hrvatski Telekom",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12186499042",
+      "name": "Losinj",
+      "type": "charging_station",
+      "lat": 44.533556,
+      "lon": 14.464491,
+      "operator": "Hrvatski Telekom",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Hrvatski Telekom",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12186499043",
+      "name": "Losinj Shipyard",
+      "type": "charging_station",
+      "lat": 44.541207,
+      "lon": 14.464351,
+      "operator": "Hrvatski Telekom",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Hrvatski Telekom",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12852966146",
+      "name": "Parkiraliste Melin bb, Cres",
+      "type": "charging_station",
+      "lat": 44.960261,
+      "lon": 14.405345,
+      "operator": "ELEN",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "HEP ELEN",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13072538935",
+      "name": "Ladestation Terra Park d.o.o.",
+      "type": "charging_station",
+      "lat": 44.580517,
+      "lon": 14.852049,
+      "operator": "Terra Park d.o.o.",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "visitors",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13113090554",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.960474,
+      "lon": 14.39773,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13113103229",
+      "name": "T-Mobile - T-Mobile",
+      "type": "charging_station",
+      "lat": 44.960705,
+      "lon": 14.398429,
+      "operator": "T-Mobile",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "T-Mobile",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13428825481",
+      "name": "Ladestation Hotel Manora",
+      "type": "charging_station",
+      "lat": 44.655315,
+      "lon": 14.394547,
+      "operator": "Hotel Manora",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permit",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

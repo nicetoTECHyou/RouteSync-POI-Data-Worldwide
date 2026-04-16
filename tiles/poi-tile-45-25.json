@@ -1,0 +1,2029 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 45,
+    "lon": 25,
+    "bounds": {
+      "south": 45,
+      "north": 46,
+      "west": 25,
+      "east": 26
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 74,
+  "pois": [
+    {
+      "id": "osm-4235486662",
+      "name": "Ecomobility",
+      "type": "charging_station",
+      "lat": 45.645144,
+      "lon": 25.594391,
+      "operator": "Scame electric solutions",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10051853938",
+      "name": "EVconnect",
+      "type": "charging_station",
+      "lat": 45.646316,
+      "lon": 25.594201,
+      "operator": "EVconnect",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4235488114",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.350855,
+      "lon": 25.534906,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4235488336",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.596232,
+      "lon": 25.550994,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4235489640",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.529735,
+      "lon": 25.375311,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4235498534",
+      "name": "Punct de Carburanți",
+      "type": "charging_station",
+      "lat": 45.150393,
+      "lon": 25.695764,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7300223000",
+      "name": "Hotel Peștera",
+      "type": "charging_station",
+      "lat": 45.393593,
+      "lon": 25.442553,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8380081717",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.635004,
+      "lon": 25.636825,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9860106327",
+      "name": "Ladestation EVBox",
+      "type": "charging_station",
+      "lat": 45.632482,
+      "lon": 25.636685,
+      "operator": "EVBox",
+      "address": {},
+      "power": {
+        "max_kw": 160.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 160.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9880511500",
+      "name": "Ladestation Eldrive",
+      "type": "charging_station",
+      "lat": 45.631923,
+      "lon": 25.638693,
+      "operator": "Eldrive",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12098224290",
+      "name": "Ladestation EN+GO Green Motion",
+      "type": "charging_station",
+      "lat": 45.633203,
+      "lon": 25.632599,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.5,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "EN+GO Green Motion",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12098224293",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.632753,
+      "lon": 25.632804,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12098224295",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.632463,
+      "lon": 25.632218,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12106138122",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.634853,
+      "lon": 25.6358,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12718367482",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.632821,
+      "lon": 25.63344,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1301699107",
+      "name": "Ladestation Hermes Flow",
+      "type": "charging_station",
+      "lat": 45.632236,
+      "lon": 25.637982,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 8
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Hermes Flow",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8588771617",
+      "name": "Renovatio e-Charge Penny Bușteni",
+      "type": "charging_station",
+      "lat": 45.409536,
+      "lon": 25.534868,
+      "operator": "Renovatio e-charge",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9574630723",
+      "name": "Hotel Smart",
+      "type": "charging_station",
+      "lat": 45.352742,
+      "lon": 25.5414,
+      "operator": "AIK Energy",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "AIK Energy",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9849853022",
+      "name": "Ladestation Lidl",
+      "type": "charging_station",
+      "lat": 45.658451,
+      "lon": 25.56534,
+      "operator": "Lidl",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12106209099",
+      "name": "Ladestation EN+GO Green Motion",
+      "type": "charging_station",
+      "lat": 45.659098,
+      "lon": 25.569194,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.5,
+            "count": 3
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "EN+GO Green Motion",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9918751386",
+      "name": "Kaufland - Kaufland",
+      "type": "charging_station",
+      "lat": 45.667131,
+      "lon": 25.611481,
+      "operator": "Kaufland",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Kaufland",
+        "network": "Kaufland",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 07:00-21:00"
+      }
+    },
+    {
+      "id": "osm-11773498242",
+      "name": "Coresi Avantgarden 4",
+      "type": "charging_station",
+      "lat": 45.668198,
+      "lon": 25.618136,
+      "operator": "E.ON",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12094762579",
+      "name": "Ladestation Qosmo",
+      "type": "charging_station",
+      "lat": 45.669708,
+      "lon": 25.614811,
+      "operator": "Qosmo",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9918793898",
+      "name": "Ladestation Renovatio e-charge",
+      "type": "charging_station",
+      "lat": 45.658207,
+      "lon": 25.588716,
+      "operator": "Renovatio e-charge",
+      "address": {},
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11099125535",
+      "name": "Plugpoint - Ma Cocotte",
+      "type": "charging_station",
+      "lat": 45.656332,
+      "lon": 25.588453,
+      "operator": "Plugpoint",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9945329849",
+      "name": "Stație încărcare mașini electrice",
+      "type": "charging_station",
+      "lat": 45.519023,
+      "lon": 25.365487,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10083179641",
+      "name": "Lidl",
+      "type": "charging_station",
+      "lat": 45.673021,
+      "lon": 25.587937,
+      "operator": "Lidl",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12989820276",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.672807,
+      "lon": 25.590042,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10736846241",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.581301,
+      "lon": 25.449239,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10964880965",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.693889,
+      "lon": 25.518329,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11056573548",
+      "name": "Ladestation E-Charge",
+      "type": "charging_station",
+      "lat": 45.591977,
+      "lon": 25.556672,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "E-Charge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11056808001",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.589881,
+      "lon": 25.55024,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11230592453",
+      "name": "Plugpoint - StarCharge",
+      "type": "charging_station",
+      "lat": 45.671924,
+      "lon": 25.619616,
+      "operator": "Plugpoint",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 18
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 6
+          }
+        ],
+        "capacity": 36
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "StarCharge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11330542521",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.670727,
+      "lon": 25.612302,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11381349089",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.671569,
+      "lon": 25.615297,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11276900123",
+      "name": "Penny Brasov",
+      "type": "charging_station",
+      "lat": 45.67537,
+      "lon": 25.605818,
+      "operator": "E.ON",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "eon",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11329115714",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.674601,
+      "lon": 25.598565,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11801788129",
+      "name": "Terminal Gară",
+      "type": "charging_station",
+      "lat": 45.66068,
+      "lon": 25.61278,
+      "operator": "RAT Brașov",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "RAT Brașov",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11846334699",
+      "name": "Ladestation EN+GO Green Motion",
+      "type": "charging_station",
+      "lat": 45.660379,
+      "lon": 25.613517,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.5,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "EN+GO Green Motion",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11938304146",
+      "name": "ABB - ABB",
+      "type": "charging_station",
+      "lat": 45.661473,
+      "lon": 25.61132,
+      "operator": "ABB",
+      "address": {},
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "ABB",
+        "network": "eldrive",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11806550865",
+      "name": "Altex Caramidariei - Polyfazer by axionet",
+      "type": "charging_station",
+      "lat": 45.658065,
+      "lon": 25.563141,
+      "operator": "Altex Caramidariei",
+      "address": {},
+      "power": {
+        "max_kw": 160.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 160.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 160.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Polyfazer by axionet",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11806550866",
+      "name": "Eliana Mall - EVMag",
+      "type": "charging_station",
+      "lat": 45.657578,
+      "lon": 25.561687,
+      "operator": "Eliana Mall",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "EVMag",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11840524564",
+      "name": "Ladestation EN+GO Green Motion",
+      "type": "charging_station",
+      "lat": 45.681644,
+      "lon": 25.61483,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.5,
+            "count": 3
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "EN+GO Green Motion",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11840524565",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.687147,
+      "lon": 25.61573,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11868839096",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.665747,
+      "lon": 25.590111,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11868839097",
+      "name": "Ladestation Kaufland",
+      "type": "charging_station",
+      "lat": 45.664918,
+      "lon": 25.590049,
+      "operator": "Kaufland",
+      "address": {},
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12218688432",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.666546,
+      "lon": 25.595081,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12036365016",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.669293,
+      "lon": 25.637146,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12056778696",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.630288,
+      "lon": 25.639434,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12071112411",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.629401,
+      "lon": 25.637675,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12782459405",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.631449,
+      "lon": 25.636588,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12074728214",
+      "name": "Ladestation Petrom",
+      "type": "charging_station",
+      "lat": 45.678876,
+      "lon": 25.586416,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Petrom",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12082850802",
+      "name": "Ladestation EVconnect",
+      "type": "charging_station",
+      "lat": 45.656919,
+      "lon": 25.598899,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "EVconnect",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12082850803",
+      "name": "Ladestation EVconnect",
+      "type": "charging_station",
+      "lat": 45.654555,
+      "lon": 25.602273,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "EVconnect",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12082875760",
+      "name": "Ladestation EVconnect",
+      "type": "charging_station",
+      "lat": 45.658987,
+      "lon": 25.62946,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "EVconnect",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12082936313",
+      "name": "Ladestation EVconnect",
+      "type": "charging_station",
+      "lat": 45.665938,
+      "lon": 25.605221,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "EVconnect",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12093481716",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.643622,
+      "lon": 25.599514,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12093481717",
+      "name": "Ladestation EVconnect",
+      "type": "charging_station",
+      "lat": 45.647261,
+      "lon": 25.619481,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "EVconnect",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12093481718",
+      "name": "Ladestation EVconnect",
+      "type": "charging_station",
+      "lat": 45.660022,
+      "lon": 25.585895,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "EVconnect",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12093481720",
+      "name": "Ladestation EVconnect",
+      "type": "charging_station",
+      "lat": 45.66203,
+      "lon": 25.58459,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "EVconnect",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12093481721",
+      "name": "Ladestation EVconnect",
+      "type": "charging_station",
+      "lat": 45.614299,
+      "lon": 25.631544,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "EVconnect",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12106209085",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.675381,
+      "lon": 25.647486,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12106209087",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.675845,
+      "lon": 25.647978,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12106209095",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.659851,
+      "lon": 25.56961,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12106209100",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.627492,
+      "lon": 25.622501,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12676864846",
+      "name": "MegaImage - ppc blue",
+      "type": "charging_station",
+      "lat": 45.679049,
+      "lon": 25.60655,
+      "operator": "MegaImage",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "ppc blue",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12857006920",
+      "name": "Ladestation Electric UP",
+      "type": "charging_station",
+      "lat": 45.673617,
+      "lon": 25.63583,
+      "operator": "Electric UP",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13536051655",
+      "name": "Ladestation Kaufland",
+      "type": "charging_station",
+      "lat": 45.869923,
+      "lon": 25.801026,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Kaufland",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13536079680",
+      "name": "Plugpoint - Plugpoint",
+      "type": "charging_station",
+      "lat": 45.868728,
+      "lon": 25.801681,
+      "operator": "Plugpoint",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 75
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Plugpoint",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13536079682",
+      "name": "Renovatio - E-Charge",
+      "type": "charging_station",
+      "lat": 45.870184,
+      "lon": 25.799368,
+      "operator": "Renovatio",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "E-Charge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13536079683",
+      "name": "Renovatio - E-Charge",
+      "type": "charging_station",
+      "lat": 45.870006,
+      "lon": 25.798661,
+      "operator": "Renovatio",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 22
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "E-Charge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13536079685",
+      "name": "Polyfazer - Polyfazer",
+      "type": "charging_station",
+      "lat": 45.862994,
+      "lon": 25.779831,
+      "operator": "Polyfazer",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Polyfazer",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1493663866",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.983736,
+      "lon": 25.306334,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1493663869",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.984079,
+      "lon": 25.306839,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

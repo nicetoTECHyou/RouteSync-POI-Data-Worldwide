@@ -1,0 +1,2628 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 3,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 3,
+      "east": 4
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 76,
+  "pois": [
+    {
+      "id": "osm-1375546532",
+      "name": "Kärcher",
+      "type": "charging_station",
+      "lat": 44.091157,
+      "lon": 3.066356,
+      "operator": "e-Totem",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 4
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Kärcher",
+        "network": "Réseau e-Totem Infrastructures",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9574703036",
+      "name": "Ladestation Renault",
+      "type": "charging_station",
+      "lat": 44.091931,
+      "lon": 3.065653,
+      "operator": "Renault",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9312640591",
+      "name": "IONITY La Garde",
+      "type": "charging_station",
+      "lat": 44.87061,
+      "lon": 3.253302,
+      "operator": "IONITY",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12433392201",
+      "name": "Izivia - Izivia",
+      "type": "charging_station",
+      "lat": 44.870079,
+      "lon": 3.252551,
+      "operator": "Izivia",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Izivia",
+        "network": "Izivia",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-2189923970",
+      "name": "SPBR1 - eborn",
+      "type": "charging_station",
+      "lat": 44.651235,
+      "lon": 3.955444,
+      "operator": "SPBR1",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "eborn",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-4422023696",
+      "name": "SDE07 - E Born",
+      "type": "charging_station",
+      "lat": 44.803128,
+      "lon": 3.970763,
+      "operator": "SDE07",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "E Born",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-4485191763",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.661465,
+      "lon": 3.047197,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5209262671",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.333424,
+      "lon": 3.898195,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5219767091",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.24517,
+      "lon": 3.92356,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5340833495",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.191365,
+      "lon": 3.207182,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5552541263",
+      "name": "Aire de la Lozère",
+      "type": "charging_station",
+      "lat": 44.871496,
+      "lon": 3.248683,
+      "operator": "Sodetrel Mobilité",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Corri-dor",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5552541264",
+      "name": "Station de charge rapide Total",
+      "type": "charging_station",
+      "lat": 44.329311,
+      "lon": 3.079742,
+      "operator": "TotalEnergies",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 175.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 175.0,
+            "count": 6
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "TotalEnergies",
+        "network": "TotalEnergies",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12923724426",
+      "name": "Supercharger Aire de l'Aveyron",
+      "type": "charging_station",
+      "lat": 44.329116,
+      "lon": 3.08034,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 20
+          }
+        ],
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6214578274",
+      "name": "Revéo - EVlink",
+      "type": "charging_station",
+      "lat": 44.118833,
+      "lon": 3.068231,
+      "operator": "Revéo",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EVlink",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6486400112",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.09185,
+      "lon": 3.5459,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6613033722",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.782758,
+      "lon": 3.631864,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6681171878",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.384392,
+      "lon": 3.939679,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6688054074",
+      "name": "Bouygues E&S - Reveo",
+      "type": "charging_station",
+      "lat": 44.023031,
+      "lon": 3.301982,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Reveo",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6690856348",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.435558,
+      "lon": 3.933439,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6694160612",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.363906,
+      "lon": 3.746396,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6710296660",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.348796,
+      "lon": 3.949797,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6780846577",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.04292,
+      "lon": 3.859919,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6780850037",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.118093,
+      "lon": 3.763395,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6780855763",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.052568,
+      "lon": 3.986267,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6780858256",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.080558,
+      "lon": 3.636173,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6815963674",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.245126,
+      "lon": 3.353938,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041365649",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.326581,
+      "lon": 3.596225,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041379439",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.155206,
+      "lon": 3.685328,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041395302",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.591402,
+      "lon": 3.905583,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041406136",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.309184,
+      "lon": 3.174011,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 36.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041412950",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.727715,
+      "lon": 3.857839,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041421630",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.479163,
+      "lon": 3.17174,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041427382",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.552025,
+      "lon": 3.292987,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041484788",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.55417,
+      "lon": 3.287471,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041448141",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.52478,
+      "lon": 3.264588,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041490920",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.507254,
+      "lon": 3.662243,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041518298",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.490562,
+      "lon": 3.73779,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041519885",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.477826,
+      "lon": 3.496274,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041520361",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.536108,
+      "lon": 3.54844,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041793855",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.856692,
+      "lon": 3.332818,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041819636",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.659878,
+      "lon": 3.754962,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041833084",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.515576,
+      "lon": 3.497768,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041855471",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.465402,
+      "lon": 3.346662,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041856760",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.721745,
+      "lon": 3.28475,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041856976",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.519371,
+      "lon": 3.498946,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 36.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041861682",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.802889,
+      "lon": 3.273254,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041881508",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.771616,
+      "lon": 3.045842,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7041896279",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.802856,
+      "lon": 3.277346,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 36.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7184491596",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.300913,
+      "lon": 3.320573,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7272597503",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.430697,
+      "lon": 3.214352,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7428828444",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.101794,
+      "lon": 3.883923,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7928335662",
+      "name": "Arsac en Velay",
+      "type": "charging_station",
+      "lat": 44.99138,
+      "lon": 3.943319,
+      "operator": "SPBR1",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "eborn",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8204885536",
+      "name": "Bouygues Energies & Services - Révéo",
+      "type": "charging_station",
+      "lat": 44.009121,
+      "lon": 3.153172,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8204940137",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.32389,
+      "lon": 3.057318,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8204941260",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.445214,
+      "lon": 3.110359,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9021371340",
+      "name": "Châteauneuf de Randon - Place Du Guesclin",
+      "type": "charging_station",
+      "lat": 44.641045,
+      "lon": 3.675481,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9064613317",
+      "name": "Condamine",
+      "type": "charging_station",
+      "lat": 44.100572,
+      "lon": 3.076215,
+      "operator": "Révéo",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9578029768",
+      "name": "Mandarous",
+      "type": "charging_station",
+      "lat": 44.099704,
+      "lon": 3.078194,
+      "operator": "Révéo",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9578029769",
+      "name": "Bion-Malavagne",
+      "type": "charging_station",
+      "lat": 44.102122,
+      "lon": 3.077438,
+      "operator": "Révéo",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13183475727",
+      "name": "Ladestation Ville de Millau",
+      "type": "charging_station",
+      "lat": 44.099593,
+      "lon": 3.079113,
+      "operator": "Ville de Millau",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9064617917",
+      "name": "Parking E.leclerc",
+      "type": "charging_station",
+      "lat": 44.080487,
+      "lon": 3.041081,
+      "operator": "E.Leclerc Energie",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "E.Leclerc Energie",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9735396897",
+      "name": "SPBR1 - eborn",
+      "type": "charging_station",
+      "lat": 44.606966,
+      "lon": 3.969265,
+      "operator": "SPBR1",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "eborn",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9752628344",
+      "name": "Ladestation Révéo",
+      "type": "charging_station",
+      "lat": 44.164808,
+      "lon": 3.841477,
+      "operator": "Révéo",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10101389142",
+      "name": "SPBR1 - eborn",
+      "type": "charging_station",
+      "lat": 44.769869,
+      "lon": 3.883724,
+      "operator": "SPBR1",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "eborn",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10117150564",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.14503,
+      "lon": 3.017827,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10162654460",
+      "name": "Bouygues E&S - Révéo",
+      "type": "charging_station",
+      "lat": 44.129935,
+      "lon": 3.384467,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10685726949",
+      "name": "Ladestation SDEE de la Lozère",
+      "type": "charging_station",
+      "lat": 44.779168,
+      "lon": 3.384082,
+      "operator": "SDEE de la Lozère",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11769410214",
+      "name": "Borne de charge rapide",
+      "type": "charging_station",
+      "lat": 44.514616,
+      "lon": 3.475943,
+      "operator": "PowerDot",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 160.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 160.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Account Cards",
+          "App",
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11783018260",
+      "name": "SPBR1 - eborn",
+      "type": "charging_station",
+      "lat": 44.730311,
+      "lon": 3.89793,
+      "operator": "SPBR1",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "eborn",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11813779820",
+      "name": "SPBR1 - eborn",
+      "type": "charging_station",
+      "lat": 44.95926,
+      "lon": 3.549114,
+      "operator": "SPBR1",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "eborn",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11813790654",
+      "name": "SPBR1 - eborn",
+      "type": "charging_station",
+      "lat": 44.860699,
+      "lon": 3.487874,
+      "operator": "SPBR1",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "eborn",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11813807921",
+      "name": "SPBR1 - eborn",
+      "type": "charging_station",
+      "lat": 44.894119,
+      "lon": 3.849817,
+      "operator": "SPBR1",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "eborn",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12504935092",
+      "name": "Soleil évasion",
+      "type": "charging_station",
+      "lat": 44.020953,
+      "lon": 3.303241,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12809674094",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.440615,
+      "lon": 3.197904,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13398042588",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.085912,
+      "lon": 3.061495,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13716782323",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.008874,
+      "lon": 3.152692,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

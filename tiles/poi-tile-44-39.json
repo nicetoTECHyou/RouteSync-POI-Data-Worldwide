@@ -1,0 +1,110 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 39,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 39,
+      "east": 40
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 4,
+  "pois": [
+    {
+      "id": "osm-12452622282",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.651581,
+      "lon": 39.153207,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12452622283",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.65164,
+      "lon": 39.150885,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12454127838",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.096706,
+      "lon": 39.073105,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13584079317",
+      "name": "Ladestation НЭСК",
+      "type": "charging_station",
+      "lat": 44.226922,
+      "lon": 39.903737,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "НЭСК",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

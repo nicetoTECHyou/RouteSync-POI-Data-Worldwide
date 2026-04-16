@@ -1,0 +1,174 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 50,
+    "lon": 22,
+    "bounds": {
+      "south": 50,
+      "north": 51,
+      "west": 22,
+      "east": 23
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 6,
+  "pois": [
+    {
+      "id": "osm-1276076864",
+      "name": "Powerdot",
+      "type": "charging_station",
+      "lat": 50.708877,
+      "lon": 22.418716,
+      "operator": "PowerDot",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1356472423",
+      "name": "Powerdot",
+      "type": "charging_station",
+      "lat": 50.44543,
+      "lon": 22.253882,
+      "operator": "Powerdot",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Powerdot",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1412529964",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.316572,
+      "lon": 22.339167,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1432739086",
+      "name": "Ladestation GreenWay",
+      "type": "charging_station",
+      "lat": 50.038498,
+      "lon": 22.066612,
+      "operator": "GreenWay",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1453569564",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.068983,
+      "lon": 22.021166,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 16
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1453676771",
+      "name": "Powerdot",
+      "type": "charging_station",
+      "lat": 50.060432,
+      "lon": 22.480195,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

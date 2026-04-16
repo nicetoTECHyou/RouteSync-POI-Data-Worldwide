@@ -1,0 +1,105 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 50,
+    "lon": 21,
+    "bounds": {
+      "south": 50,
+      "north": 51,
+      "west": 21,
+      "east": 22
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 4,
+  "pois": [
+    {
+      "id": "osm-1287028453",
+      "name": "Ladestation ITA Tools",
+      "type": "charging_station",
+      "lat": 50.312101,
+      "lon": 21.459497,
+      "operator": "ITA Tools",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permit",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1295284191",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.01295,
+      "lon": 21.021622,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1416562934",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.80296,
+      "lon": 21.419039,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1453654651",
+      "name": "Ladestation i-charging",
+      "type": "charging_station",
+      "lat": 50.241131,
+      "lon": 21.764547,
+      "operator": "i-charging",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

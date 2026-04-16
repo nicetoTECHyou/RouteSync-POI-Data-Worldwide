@@ -1,0 +1,87 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 49,
+    "lon": 14,
+    "bounds": {
+      "south": 49,
+      "north": 50,
+      "west": 14,
+      "east": 15
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-1354738794",
+      "name": "Ladestation Innogy",
+      "type": "charging_station",
+      "lat": 49.388804,
+      "lon": 14.693722,
+      "operator": "Innogy",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 10
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1418853827",
+      "name": "Vestec Supercharger",
+      "type": "charging_station",
+      "lat": 49.98987,
+      "lon": 14.490493,
+      "operator": "Tesla",
+      "address": {
+        "street": "Vídeňská 360",
+        "postcode": "25242"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

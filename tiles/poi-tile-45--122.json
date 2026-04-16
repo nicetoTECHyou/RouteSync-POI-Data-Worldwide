@@ -1,0 +1,246 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 45,
+    "lon": -122,
+    "bounds": {
+      "south": 45,
+      "north": 46,
+      "west": -122,
+      "east": -121
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 6,
+  "pois": [
+    {
+      "id": "nrel-33378",
+      "name": "Oregon Museum of Science and Industry (OMSI) - South Parking Lot",
+      "type": "charging_station",
+      "lat": 45.508396,
+      "lon": -122.664667,
+      "operator": "P",
+      "address": {
+        "street": "1945 SE Water Ave",
+        "city": "Portland",
+        "state": "OR",
+        "postcode": "97214",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-15",
+            "kw": 1.4,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-37651",
+      "name": "Oregon Museum of Science and Industry (OMSI) - North Parking Lot",
+      "type": "charging_station",
+      "lat": 45.509326,
+      "lon": -122.666392,
+      "operator": "P",
+      "address": {
+        "street": "1945 SE Water Ave",
+        "city": "Portland",
+        "state": "OR",
+        "postcode": "97214",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; for customer use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; for customer use only",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-34859",
+      "name": "Nike - LA Garage",
+      "type": "charging_station",
+      "lat": 45.508795,
+      "lon": -122.8249,
+      "operator": "P",
+      "address": {
+        "street": "1 Bowerman Dr",
+        "city": "Beaverton",
+        "state": "OR",
+        "postcode": "97006",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For employee use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "amenities": {
+        "opening_hours": "For employee use only"
+      }
+    },
+    {
+      "id": "nrel-35557",
+      "name": "OEG",
+      "type": "charging_station",
+      "lat": 45.545898,
+      "lon": -122.707102,
+      "operator": "P",
+      "address": {
+        "street": "3200 NW Yeon Ave",
+        "city": "Portland",
+        "state": "OR",
+        "postcode": "97210",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Employee use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "Employee use only"
+      }
+    },
+    {
+      "id": "nrel-37170",
+      "name": "HILLSBORO OR MAIN ST 1",
+      "type": "charging_station",
+      "lat": 45.522609,
+      "lon": -122.988535,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "150 E Main St",
+        "city": "Hillsboro",
+        "state": "OR",
+        "postcode": "97123",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    },
+    {
+      "id": "nrel-37171",
+      "name": "HILLSBORO OR ITF EV-8",
+      "type": "charging_station",
+      "lat": 45.520533,
+      "lon": -122.978089,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "253 SE 8th Ave",
+        "city": "Hillsboro",
+        "state": "OR",
+        "postcode": "97123",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    }
+  ]
+}

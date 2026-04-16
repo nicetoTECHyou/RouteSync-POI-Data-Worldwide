@@ -1,0 +1,3112 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 48,
+    "lon": 4,
+    "bounds": {
+      "south": 48,
+      "north": 49,
+      "west": 4,
+      "east": 5
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 99,
+  "pois": [
+    {
+      "id": "osm-2451942381",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.292165,
+      "lon": 4.13046,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1417502560",
+      "name": "Troyes - Saint-Parres-aux-Tertres Supercharger",
+      "type": "charging_station",
+      "lat": 48.293246,
+      "lon": 4.130335,
+      "operator": "Tesla",
+      "address": {
+        "street": "Zone commerciale de Saint-Parres-aux-Tertres",
+        "postcode": "10410",
+        "city": "Saint-Parres-aux-Tertres",
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 16
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 10
+          }
+        ],
+        "capacity": 26
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-4572017537",
+      "name": "Aire de Sommesous",
+      "type": "charging_station",
+      "lat": 48.729803,
+      "lon": 4.229383,
+      "operator": "Sodetrel Mobilité",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Corri-dor",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-4738648221",
+      "name": "Ladestation stralog",
+      "type": "charging_station",
+      "lat": 48.282861,
+      "lon": 4.094248,
+      "operator": "stralog",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4765161190",
+      "name": "Aire de Châteauvillain-Est",
+      "type": "charging_station",
+      "lat": 48.056541,
+      "lon": 4.960916,
+      "operator": "Sodetrel Mobilité",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Corri-dor",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5536390269",
+      "name": "Sodetrel Mobilité - Corri-dor",
+      "type": "charging_station",
+      "lat": 48.055539,
+      "lon": 4.960948,
+      "operator": "Sodetrel Mobilité",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Corri-dor",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11059270709",
+      "name": "ENGIE Châteauvillain Valmarnay",
+      "type": "charging_station",
+      "lat": 48.057439,
+      "lon": 4.95908,
+      "operator": "Engie",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 10
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 90.0,
+            "count": 1
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Engie",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11818719010",
+      "name": "ENGIE Châteauvillain Orges",
+      "type": "charging_station",
+      "lat": 48.057682,
+      "lon": 4.960467,
+      "operator": "Engie",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 10
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 90.0,
+            "count": 1
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Engie",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5016403738",
+      "name": "Ladestation Renault",
+      "type": "charging_station",
+      "lat": 48.97191,
+      "lon": 4.35682,
+      "operator": "Renault",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-19:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-19:00",
+        "authentication": "none",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5016412465",
+      "name": "Ladestation Leclerc",
+      "type": "charging_station",
+      "lat": 48.730089,
+      "lon": 4.600657,
+      "operator": "Leclerc",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Sa 08:00-20:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 08:00-20:00",
+        "authentication": "none",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5265461085",
+      "name": "Ladestation Lidl",
+      "type": "charging_station",
+      "lat": 48.731394,
+      "lon": 4.599848,
+      "operator": "Lidl",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5016413341",
+      "name": "Ladestation Renault",
+      "type": "charging_station",
+      "lat": 48.730119,
+      "lon": 4.604418,
+      "operator": "Renault",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-18:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "authentication": "none",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5016421690",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.623366,
+      "lon": 4.965135,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12800614201",
+      "name": "St Dizier Supercharger",
+      "type": "charging_station",
+      "lat": 48.623641,
+      "lon": 4.963326,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1489935800",
+      "name": "Electra - Electra",
+      "type": "charging_station",
+      "lat": 48.622938,
+      "lon": 4.96307,
+      "operator": "Electra",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Electra",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5536390261",
+      "name": "Relais Troyes Fresnoy",
+      "type": "charging_station",
+      "lat": 48.211707,
+      "lon": 4.241604,
+      "operator": "Total Energies",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Corri-dor",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5536390262",
+      "name": "Relais Troyes Fresnoy Le Plessis",
+      "type": "charging_station",
+      "lat": 48.214002,
+      "lon": 4.241389,
+      "operator": "Total Energies",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Corri-dor",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5595328187",
+      "name": "INEO TINEA - SDEA10",
+      "type": "charging_station",
+      "lat": 48.297105,
+      "lon": 4.577524,
+      "operator": "INEO TINEA",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SDEA10",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5701579822",
+      "name": "Cité Administrative",
+      "type": "charging_station",
+      "lat": 48.726139,
+      "lon": 4.591451,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Alizé Liberté",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-5701590321",
+      "name": "Place d'Armes",
+      "type": "charging_station",
+      "lat": 48.725353,
+      "lon": 4.585575,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Alizé Liberté",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-5860633102",
+      "name": "Place de la Halle",
+      "type": "charging_station",
+      "lat": 48.727652,
+      "lon": 4.584425,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Alizé Liberté",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-5860633100",
+      "name": "Lucien Herr",
+      "type": "charging_station",
+      "lat": 48.727197,
+      "lon": 4.576485,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Alizé Liberté",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-5860633101",
+      "name": "Gare",
+      "type": "charging_station",
+      "lat": 48.718436,
+      "lon": 4.587501,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Alizé Liberté",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-5860633103",
+      "name": "Centre Commercial du Hamois",
+      "type": "charging_station",
+      "lat": 48.732558,
+      "lon": 4.587025,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Alizé Liberté",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-5860633104",
+      "name": "Hôpital",
+      "type": "charging_station",
+      "lat": 48.715525,
+      "lon": 4.597945,
+      "operator": "Bouygues E&S",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Alizé Liberté",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-6246529648",
+      "name": "INEO TINEA - SDEA10",
+      "type": "charging_station",
+      "lat": 48.301603,
+      "lon": 4.335254,
+      "operator": "INEO TINEA",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SDEA10",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6249452333",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.323783,
+      "lon": 4.304757,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7116993235",
+      "name": "INEO TINEA - SDEA10",
+      "type": "charging_station",
+      "lat": 48.392725,
+      "lon": 4.529992,
+      "operator": "INEO TINEA",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SDEA10",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7116993236",
+      "name": "INEO TINEA - SDEA10",
+      "type": "charging_station",
+      "lat": 48.391515,
+      "lon": 4.527915,
+      "operator": "INEO TINEA",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SDEA10",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7117235624",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.626173,
+      "lon": 4.96425,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7772224540",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.671429,
+      "lon": 4.196972,
+      "operator": "Unbekannt",
+      "address": {
+        "street": "Rue du Général de Gaulle 36",
+        "postcode": "10230",
+        "city": "Mailly-le-Camp"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7794243059",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.053822,
+      "lon": 4.395823,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7912186706",
+      "name": "Borne de Recharge",
+      "type": "charging_station",
+      "lat": 48.951636,
+      "lon": 4.363065,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11070811294",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.954192,
+      "lon": 4.361629,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7912199107",
+      "name": "Borne de Recharge",
+      "type": "charging_station",
+      "lat": 48.9418,
+      "lon": 4.389746,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7912308815",
+      "name": "Borne de Recharge",
+      "type": "charging_station",
+      "lat": 48.959974,
+      "lon": 4.319055,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8143022960",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.329634,
+      "lon": 4.101109,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 17.3,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 17.3,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12999643174",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 48.330964,
+      "lon": 4.099112,
+      "operator": "Freshmile",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12999643175",
+      "name": "Electra - Electra",
+      "type": "charging_station",
+      "lat": 48.330478,
+      "lon": 4.099617,
+      "operator": "Electra",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 8
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Electra",
+        "network": "Electra",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none"
+      }
+    },
+    {
+      "id": "osm-8168312146",
+      "name": "Station de Recharge - Rue du Parc",
+      "type": "charging_station",
+      "lat": 48.036012,
+      "lon": 4.921316,
+      "operator": "SDED 52",
+      "address": {
+        "street": "Rue du Parc et du 24 Août 1944 9",
+        "postcode": "52120",
+        "city": "Châteauvillain"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards",
+          "Mastercard",
+          "Visa"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8168312147",
+      "name": "Station de Recharge - Route de Chatillon",
+      "type": "charging_station",
+      "lat": 48.031321,
+      "lon": 4.913055,
+      "operator": "SDED 52",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards",
+          "Mastercard",
+          "Visa"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8851345619",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.312037,
+      "lon": 4.069574,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9103788774",
+      "name": "Ladestation SDEA - l'Aube",
+      "type": "charging_station",
+      "lat": 48.236154,
+      "lon": 4.702232,
+      "operator": "SDEA - l'Aube",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9256648369",
+      "name": "Borne recharge batterie vélo",
+      "type": "charging_station",
+      "lat": 48.553558,
+      "lon": 4.767108,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9363552059",
+      "name": "Ladestation Syndicat Départemental d'Energie de l'Aube",
+      "type": "charging_station",
+      "lat": 48.269322,
+      "lon": 4.073481,
+      "operator": "Syndicat Départemental d'Energie de l'Aube",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-9811900418",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.317996,
+      "lon": 4.104371,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10010061298",
+      "name": "Ladestation SIEM",
+      "type": "charging_station",
+      "lat": 48.97572,
+      "lon": 4.468066,
+      "operator": "SIEM",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10577651891",
+      "name": "IONITY Troyes Sud",
+      "type": "charging_station",
+      "lat": 48.225468,
+      "lon": 4.13316,
+      "operator": "IONITY",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Ionity",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-10680752946",
+      "name": "Power Dot - Bricomarché - Châlons en Champagne",
+      "type": "charging_station",
+      "lat": 48.978501,
+      "lon": 4.356605,
+      "operator": "Powerdot",
+      "address": {
+        "street": "Le Mont Héry",
+        "postcode": "51000",
+        "city": "Châlons en Champagne",
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171242",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 48.980809,
+      "lon": 4.354645,
+      "operator": "Freshmile",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12965832375",
+      "name": "e-Totem - e totem",
+      "type": "charging_station",
+      "lat": 48.977766,
+      "lon": 4.356896,
+      "operator": "e-Totem",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "e totem",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10846692381",
+      "name": "Borne de recharge",
+      "type": "charging_station",
+      "lat": 48.227316,
+      "lon": 4.719692,
+      "operator": "Lidl",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11013815589",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.34854,
+      "lon": 4.532081,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11109171217",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.952699,
+      "lon": 4.343837,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171218",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 48.948834,
+      "lon": 4.392764,
+      "operator": "Freshmile",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "Mo-Sa 09:00-18:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171221",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.945237,
+      "lon": 4.390331,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171222",
+      "name": "Ladestation 638a0f9abb23fb6dc695ab59",
+      "type": "charging_station",
+      "lat": 48.943368,
+      "lon": 4.39603,
+      "operator": "638a0f9abb23fb6dc695ab59",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "638a0f9abb23fb6dc695ab59",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171223",
+      "name": "Ladestation SARRY - 41698 - Rue Basse",
+      "type": "charging_station",
+      "lat": 48.917944,
+      "lon": 4.404936,
+      "operator": "SARRY - 41698 - Rue Basse",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SARRY - 41698 - Rue Basse",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171224",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.944917,
+      "lon": 4.369991,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171225",
+      "name": "Ladestation BLANCS COTEAUX - 40985 - Boulebard Jean Brion",
+      "type": "charging_station",
+      "lat": 48.906003,
+      "lon": 4.005171,
+      "operator": "BLANCS COTEAUX - 40985 - Boulebard Jean Brion",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "BLANCS COTEAUX - 40985 - Boulebard Jean Brion",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109171226",
+      "name": "Ladestation AVIZE - 43907 - Rue du bourg Joli",
+      "type": "charging_station",
+      "lat": 48.971941,
+      "lon": 4.009818,
+      "operator": "AVIZE - 43907 - Rue du bourg Joli",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "AVIZE - 43907 - Rue du bourg Joli",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109171241",
+      "name": "Ladestation Châlons-en-Champagne | Rue du Flocmagny",
+      "type": "charging_station",
+      "lat": 48.95772,
+      "lon": 4.36678,
+      "operator": "Châlons-en-Champagne | Rue du Flocmagny",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Châlons-en-Champagne | Rue du Flocmagny",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11659346988",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.957002,
+      "lon": 4.364429,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171258",
+      "name": "Ladestation SERMAIZE LES BAINS - 40907 - Rue de Saint Dizier",
+      "type": "charging_station",
+      "lat": 48.783972,
+      "lon": 4.912567,
+      "operator": "SERMAIZE LES BAINS - 40907 - Rue de Saint Dizier",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SERMAIZE LES BAINS - 40907 - Rue de Saint Dizier",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171262",
+      "name": "Ladestation THIEBLEMONT-FAREMONT - 42689 - Rue Laurent Gerard",
+      "type": "charging_station",
+      "lat": 48.691364,
+      "lon": 4.730889,
+      "operator": "THIEBLEMONT-FAREMONT - 42689 - Rue Laurent Gerard",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "THIEBLEMONT-FAREMONT - 42689 - Rue Laurent Gerard",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171397",
+      "name": "Ladestation CGED CGED ST DIZIER",
+      "type": "charging_station",
+      "lat": 48.648549,
+      "lon": 4.959916,
+      "operator": "CGED CGED ST DIZIER",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "CGED CGED ST DIZIER",
+        "opening_hours": "Mo 06:30-19:00,Tu 06:30-19:00,We 06:30-19:00,Th 06:30-19:00,Fr 06:30-19:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo 06:30-19:00,Tu 06:30-19:00,We 06:30-19:00,Th 06:30-19:00,Fr 06:30-19:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171450",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.624835,
+      "lon": 4.111696,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109171452",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.635996,
+      "lon": 4.112504,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109171455",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.592374,
+      "lon": 4.232003,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171473",
+      "name": "Ladestation Ste MARIE DU LAC - 42657 - Rue de Nuisement",
+      "type": "charging_station",
+      "lat": 48.606594,
+      "lon": 4.774333,
+      "operator": "Ste MARIE DU LAC - 42657 - Rue de Nuisement",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Ste MARIE DU LAC - 42657 - Rue de Nuisement",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171476",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.589547,
+      "lon": 4.865491,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171482",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.47764,
+      "lon": 4.770701,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171486",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.418127,
+      "lon": 4.658171,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171489",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.380433,
+      "lon": 4.620832,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171491",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.503592,
+      "lon": 4.274361,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171493",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 48.519751,
+      "lon": 4.290038,
+      "operator": "Freshmile",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109171495",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.531443,
+      "lon": 4.194289,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171496",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.501568,
+      "lon": 4.385165,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11466685902",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.332565,
+      "lon": 4.125948,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11659585467",
+      "name": "Ladestation Armes de Champagne",
+      "type": "charging_station",
+      "lat": 48.977688,
+      "lon": 4.468835,
+      "operator": "Armes de Champagne",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11818795258",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.722593,
+      "lon": 4.592793,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12089386573",
+      "name": "Ladestation SDEA",
+      "type": "charging_station",
+      "lat": 48.166834,
+      "lon": 4.246466,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "SDEA",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-12108059008",
+      "name": "Ladestation powerdot",
+      "type": "charging_station",
+      "lat": 48.626484,
+      "lon": 4.966117,
+      "operator": "powerdot",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12603984639",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.717248,
+      "lon": 4.6251,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12677547532",
+      "name": "INEO TINEA - SDEA10",
+      "type": "charging_station",
+      "lat": 48.297804,
+      "lon": 4.517087,
+      "operator": "INEO TINEA",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SDEA10",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12912861692",
+      "name": "Ladestation SDEA",
+      "type": "charging_station",
+      "lat": 48.302686,
+      "lon": 4.076142,
+      "operator": "SDEA",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13127661647",
+      "name": "Ladestation SDEA",
+      "type": "charging_station",
+      "lat": 48.302338,
+      "lon": 4.079847,
+      "operator": "SDEA",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12912954368",
+      "name": "Ladestation SDEA",
+      "type": "charging_station",
+      "lat": 48.302471,
+      "lon": 4.075759,
+      "operator": "SDEA",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12918893679",
+      "name": "Ladestation Wellborne",
+      "type": "charging_station",
+      "lat": 48.312758,
+      "lon": 4.073807,
+      "operator": "Wellborne",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12993678902",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.294749,
+      "lon": 4.038539,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13119361763",
+      "name": "Ladestation SDEA",
+      "type": "charging_station",
+      "lat": 48.298079,
+      "lon": 4.068897,
+      "operator": "SDEA",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13369646414",
+      "name": "Ladestation SDEA",
+      "type": "charging_station",
+      "lat": 48.298222,
+      "lon": 4.072058,
+      "operator": "SDEA",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13237845149",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.222932,
+      "lon": 4.886261,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13375667635",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.23947,
+      "lon": 4.466378,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13426190768",
+      "name": "Syndicat Départemental Énergie Aube - SDEA 10",
+      "type": "charging_station",
+      "lat": 48.302026,
+      "lon": 4.143596,
+      "operator": "Syndicat Départemental Énergie Aube",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SDEA 10",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13426256816",
+      "name": "R3 - SPV COM",
+      "type": "charging_station",
+      "lat": 48.29599,
+      "lon": 4.129823,
+      "operator": "R3",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 4
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SPV COM",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1417506085",
+      "name": "Magnant Supercharger",
+      "type": "charging_station",
+      "lat": 48.180805,
+      "lon": 4.434382,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 56
+          }
+        ],
+        "capacity": 56
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1458952015",
+      "name": "Syndicat Départemental Énergie Aube - SDEA 10",
+      "type": "charging_station",
+      "lat": 48.235699,
+      "lon": 4.110294,
+      "operator": "Syndicat Départemental Énergie Aube",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "SDEA 10",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1459834777",
+      "name": "Châlons-en-Champagne Supercharger",
+      "type": "charging_station",
+      "lat": 48.991987,
+      "lon": 4.245343,
+      "operator": "Tesla",
+      "address": {
+        "street": "Route Nationale 8",
+        "postcode": "51510",
+        "city": "Matougues",
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

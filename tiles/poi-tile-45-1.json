@@ -1,0 +1,410 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 45,
+    "lon": 1,
+    "bounds": {
+      "south": 45,
+      "north": 46,
+      "west": 1,
+      "east": 2
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 13,
+  "pois": [
+    {
+      "id": "osm-1082266308",
+      "name": "Izivia - LIMOGES Métropole",
+      "type": "charging_station",
+      "lat": 45.831589,
+      "lon": 1.252754,
+      "operator": "Izivia",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 3
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "LIMOGES Métropole",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1339430240",
+      "name": "Ladestation Aldi",
+      "type": "charging_station",
+      "lat": 45.96023,
+      "lon": 1.404989,
+      "operator": "Aldi",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1339493434",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.88618,
+      "lon": 1.395247,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1339808394",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.959342,
+      "lon": 1.171273,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1389342248",
+      "name": "DRIVECO - Carrefour Energie",
+      "type": "charging_station",
+      "lat": 45.848487,
+      "lon": 1.261426,
+      "operator": "DRIVECO",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Carrefour Energie",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1408212007",
+      "name": "Limoges Supercharger",
+      "type": "charging_station",
+      "lat": 45.8677,
+      "lon": 1.271173,
+      "operator": "Tesla",
+      "address": {
+        "street": "Avenue d'Uzurat 2",
+        "postcode": "87280",
+        "city": "Limoges",
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1422739567",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.805989,
+      "lon": 1.393044,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1424073625",
+      "name": "Mobive | Lissac-Sur-Couze | Plan d'Eau",
+      "type": "charging_station",
+      "lat": 45.100317,
+      "lon": 1.454562,
+      "operator": "Mobive",
+      "address": {
+        "street": "Route de la Base Nautique",
+        "postcode": "19600",
+        "city": "Lissac-sur-Couze"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1424098243",
+      "name": "Mobive | Brive | Parking du 15 Août",
+      "type": "charging_station",
+      "lat": 45.160438,
+      "lon": 1.530697,
+      "operator": "Mobive",
+      "address": {
+        "street": "Avenue Victor Hugo",
+        "postcode": "19100",
+        "city": "Brive-la-Gaillarde"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "CPO CITEOS Mobive",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1424677455",
+      "name": "Mobive | Brive | Place Thiers",
+      "type": "charging_station",
+      "lat": 45.156591,
+      "lon": 1.533369,
+      "operator": "Mobive",
+      "address": {
+        "street": "Avenue Édouard Herriot 2",
+        "postcode": "19100",
+        "city": "Brive-la-Gaillarde"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1425467724",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.713102,
+      "lon": 1.605954,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1453407728",
+      "name": "Superchargeur Brive la Gaillarde 2",
+      "type": "charging_station",
+      "lat": 45.146801,
+      "lon": 1.480088,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 9
+          }
+        ],
+        "capacity": 9
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Tesla Supercharger",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1498400422",
+      "name": "Superchargeur Limoges Centre",
+      "type": "charging_station",
+      "lat": 45.844495,
+      "lon": 1.288547,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 9
+          }
+        ],
+        "capacity": 9
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

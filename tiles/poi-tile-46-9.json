@@ -1,0 +1,432 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 46,
+    "lon": 9,
+    "bounds": {
+      "south": 46,
+      "north": 47,
+      "west": 9,
+      "east": 10
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 14,
+  "pois": [
+    {
+      "id": "osm-1254661123",
+      "name": "Ladestation Energie 360°",
+      "type": "charging_station",
+      "lat": 46.7288,
+      "lon": 9.555305,
+      "operator": "Energie 360°",
+      "address": {
+        "country": "AT"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1309483765",
+      "name": "GOFAST Viamala",
+      "type": "charging_station",
+      "lat": 46.712684,
+      "lon": 9.446001,
+      "operator": "GOFAST",
+      "address": {
+        "country": "AT"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 16
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 16
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "GOFAST",
+        "network": "Swisscharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless",
+          "Nfc"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1323418861",
+      "name": "Supercharger Arbedo-Castione",
+      "type": "charging_station",
+      "lat": 46.232721,
+      "lon": 9.03999,
+      "operator": "Tesla",
+      "address": {
+        "street": "Via S. Gottardo 24a",
+        "postcode": "6532",
+        "city": "Arbedo-Castione"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 7
+          }
+        ],
+        "capacity": 7
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1385970263",
+      "name": "Landquart Supercharger",
+      "type": "charging_station",
+      "lat": 46.965959,
+      "lon": 9.552654,
+      "operator": "Tesla",
+      "address": {
+        "street": "Tardisstrasse 20a",
+        "postcode": "7302",
+        "city": "Landquart"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 20
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 250.0,
+            "count": 20
+          }
+        ],
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1389924862",
+      "name": "GOFAST Ilanz",
+      "type": "charging_station",
+      "lat": 46.775484,
+      "lon": 9.190749,
+      "operator": "GOFAST",
+      "address": {
+        "country": "AT"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1390207876",
+      "name": "GOFAST Bellinzona Süd",
+      "type": "charging_station",
+      "lat": 46.182105,
+      "lon": 9.001812,
+      "operator": "GOFAST",
+      "address": {
+        "country": "AT"
+      },
+      "power": {
+        "max_kw": 80.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 80.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 80.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Swisscharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1390208348",
+      "name": "GOFAST Bellinzona Nord",
+      "type": "charging_station",
+      "lat": 46.209448,
+      "lon": 9.026597,
+      "operator": "GOFAST",
+      "address": {
+        "country": "AT"
+      },
+      "power": {
+        "max_kw": 80.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 80.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Swisscharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-1412981621",
+      "name": "Sondrio Supercharger",
+      "type": "charging_station",
+      "lat": 46.164607,
+      "lon": 9.677338,
+      "operator": "Tesla",
+      "address": {
+        "country": "AT"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 8
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1412981625",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.164753,
+      "lon": 9.675235,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "AT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1416969404",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.855823,
+      "lon": 9.506243,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "AT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1418040703",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.851083,
+      "lon": 9.504922,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "AT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1418042244",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.847519,
+      "lon": 9.501589,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "AT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1484122354",
+      "name": "Ladestation Migrol",
+      "type": "charging_station",
+      "lat": 46.210503,
+      "lon": 9.038929,
+      "operator": "Migrol",
+      "address": {
+        "country": "AT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1494210725",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.788674,
+      "lon": 9.226095,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "AT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

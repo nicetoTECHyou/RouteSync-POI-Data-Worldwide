@@ -1,0 +1,59 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": -92,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": -92,
+      "east": -91
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-38887",
+      "name": "3M",
+      "type": "charging_station",
+      "lat": 44.95121,
+      "lon": -92.9952,
+      "operator": "P",
+      "address": {
+        "street": "3M Center Dr",
+        "city": "St. Paul",
+        "state": "MN",
+        "postcode": "55117",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Employee use only; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 44
+      },
+      "amenities": {
+        "opening_hours": "Employee use only; Drivers must bring their own J1772 cordset for Level 1 charging"
+      }
+    }
+  ]
+}

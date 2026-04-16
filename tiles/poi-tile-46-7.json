@@ -1,0 +1,802 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 46,
+    "lon": 7,
+    "bounds": {
+      "south": 46,
+      "north": 47,
+      "west": 7,
+      "east": 8
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 25,
+  "pois": [
+    {
+      "id": "osm-541075896",
+      "name": "Ladestation für Batteriebusse",
+      "type": "charging_station",
+      "lat": 46.921212,
+      "lon": 7.424993,
+      "operator": "Bernmobil",
+      "address": {
+        "street": "Spiegelstrasse 5b",
+        "postcode": "3095",
+        "city": "Spiegel b. Bern",
+        "country": "CH"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1198059142",
+      "name": "SOCAR Charge Dents de Morcles",
+      "type": "charging_station",
+      "lat": 46.184545,
+      "lon": 7.026481,
+      "operator": "SOCAR",
+      "address": {
+        "country": "CH"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "SOCAR",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1254400879",
+      "name": "evpass - evpass",
+      "type": "charging_station",
+      "lat": 46.673389,
+      "lon": 7.871923,
+      "operator": "evpass",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "evpass",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1293518484",
+      "name": "GOFAST Matran",
+      "type": "charging_station",
+      "lat": 46.779041,
+      "lon": 7.089395,
+      "operator": "GOFAST",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Swisscharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1300575098",
+      "name": "Ladestation Enalpin",
+      "type": "charging_station",
+      "lat": 46.28121,
+      "lon": 7.815817,
+      "operator": "Enalpin",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1308276800",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.288527,
+      "lon": 7.8015,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1352975732",
+      "name": "Fastned - Fastned",
+      "type": "charging_station",
+      "lat": 46.961022,
+      "lon": 7.210667,
+      "operator": "Fastned",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Fastned",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1352975733",
+      "name": "Fastned - Fastned",
+      "type": "charging_station",
+      "lat": 46.963045,
+      "lon": 7.226231,
+      "operator": "Fastned",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Fastned",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1360570420",
+      "name": "Ladestation Eni",
+      "type": "charging_station",
+      "lat": 46.879383,
+      "lon": 7.044115,
+      "operator": "Eni",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1385944582",
+      "name": "Westside Supercharger",
+      "type": "charging_station",
+      "lat": 46.943424,
+      "lon": 7.370555,
+      "operator": "Tesla",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1385946850",
+      "name": "Bulle Supercharger",
+      "type": "charging_station",
+      "lat": 46.624983,
+      "lon": 7.037397,
+      "operator": "Tesla",
+      "address": {
+        "street": "Rue de l'Industrie 31",
+        "postcode": "1630",
+        "city": "Bulle",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 16
+          }
+        ],
+        "capacity": 16
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1386290492",
+      "name": "Martigny Supercharger",
+      "type": "charging_station",
+      "lat": 46.126615,
+      "lon": 7.060975,
+      "operator": "Tesla",
+      "address": {
+        "postcode": "1920",
+        "city": "Martigny",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 20
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 250.0,
+            "count": 20
+          }
+        ],
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1386290502",
+      "name": "Martigny Supercharger",
+      "type": "charging_station",
+      "lat": 46.127727,
+      "lon": 7.059923,
+      "operator": "Tesla",
+      "address": {
+        "postcode": "1920",
+        "city": "Martigny",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 20
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 250.0,
+            "count": 20
+          }
+        ],
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1386300360",
+      "name": "Rubigen Supercharger",
+      "type": "charging_station",
+      "lat": 46.891903,
+      "lon": 7.54276,
+      "operator": "Tesla",
+      "address": {
+        "street": "Belpstrasse 103",
+        "postcode": "3113",
+        "city": "Rubigen",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 16
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 16
+          }
+        ],
+        "capacity": 16
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1386303646",
+      "name": "Steg-Hohtenn Supercharger",
+      "type": "charging_station",
+      "lat": 46.310366,
+      "lon": 7.749534,
+      "operator": "Tesla",
+      "address": {
+        "street": "Besche Mattenstrasse 1",
+        "postcode": "3940",
+        "city": "Steg-Hohtenn",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 125.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 125.0,
+            "count": 8
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 125.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1390039705",
+      "name": "GOFAST Brig",
+      "type": "charging_station",
+      "lat": 46.306733,
+      "lon": 7.96111,
+      "operator": "GOFAST",
+      "address": {
+        "country": "CH"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1390133089",
+      "name": "GOFAST Rossens",
+      "type": "charging_station",
+      "lat": 46.721204,
+      "lon": 7.08921,
+      "operator": "GOFAST",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Swisscharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1390212016",
+      "name": "IONITY Grauholz",
+      "type": "charging_station",
+      "lat": 46.990214,
+      "lon": 7.476033,
+      "operator": "IONITY",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 10
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1390702394",
+      "name": "Ladestation mobilecharge",
+      "type": "charging_station",
+      "lat": 46.398986,
+      "lon": 7.771364,
+      "operator": "mobilecharge",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1441634140",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.318787,
+      "lon": 7.991988,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1441638876",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.294538,
+      "lon": 7.907278,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1478423685",
+      "name": "GOFAST Murten McDonald's",
+      "type": "charging_station",
+      "lat": 46.940081,
+      "lon": 7.144867,
+      "operator": "GOFAST",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "GOFAST",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1484142955",
+      "name": "Ladestation Migrol",
+      "type": "charging_station",
+      "lat": 46.307611,
+      "lon": 7.966801,
+      "operator": "Migrol",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1484143180",
+      "name": "Ladestation evpass",
+      "type": "charging_station",
+      "lat": 46.307591,
+      "lon": 7.965063,
+      "operator": "evpass",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "evpass",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1488458821",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.894877,
+      "lon": 7.051236,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "CH"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 27,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 27,
+      "east": 28
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 7,
+  "pois": [
+    {
+      "id": "osm-487098809",
+      "name": "EV charging station",
+      "type": "charging_station",
+      "lat": 44.190538,
+      "lon": 27.354065,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8123876242",
+      "name": "EV charging station",
+      "type": "charging_station",
+      "lat": 44.192928,
+      "lon": 27.328883,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11053696074",
+      "name": "Ladestation Petrom Electric",
+      "type": "charging_station",
+      "lat": 44.56925,
+      "lon": 27.385151,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Petrom Electric",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13390094471",
+      "name": "Fines - Clean Park Sitovo",
+      "type": "charging_station",
+      "lat": 44.026671,
+      "lon": 27.01381,
+      "operator": "Финес Енерджи ООД",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13390287172",
+      "name": "Fines - Silistra",
+      "type": "charging_station",
+      "lat": 44.10717,
+      "lon": 27.251326,
+      "operator": "Финес Енерджи ООД",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13428795052",
+      "name": "E.ON - E.ON Drive",
+      "type": "charging_station",
+      "lat": 44.561679,
+      "lon": 27.34937,
+      "operator": "E.ON",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13680228567",
+      "name": "Electrip - Retail Park Silistra",
+      "type": "charging_station",
+      "lat": 44.11387,
+      "lon": 27.273104,
+      "operator": "Electrip",
+      "address": {
+        "city": "Силистра"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Electrip",
+        "network": "Electrip",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

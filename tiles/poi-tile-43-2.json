@@ -1,0 +1,367 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 43,
+    "lon": 2,
+    "bounds": {
+      "south": 43,
+      "north": 44,
+      "west": 2,
+      "east": 3
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 10,
+  "pois": [
+    {
+      "id": "osm-1079203965",
+      "name": "Bouygues Energies & Services - Reveo",
+      "type": "charging_station",
+      "lat": 43.537589,
+      "lon": 2.262089,
+      "operator": "Bouygues Energies & Services",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Reveo",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1228215306",
+      "name": "REVEO SYADEN | FR*RVE - Révéo",
+      "type": "charging_station",
+      "lat": 43.255255,
+      "lon": 2.174292,
+      "operator": "REVEO SYADEN | FR*RVE",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1235504413",
+      "name": "Borne de charge rapide IECharge",
+      "type": "charging_station",
+      "lat": 43.202539,
+      "lon": 2.318395,
+      "operator": "IECharge",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Carcassonne",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Account Cards",
+          "App",
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1250756028",
+      "name": "Ionity Corbières Nord",
+      "type": "charging_station",
+      "lat": 43.178302,
+      "lon": 2.543821,
+      "operator": "IONITY",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 9
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1391586446",
+      "name": "Albi Supercharger",
+      "type": "charging_station",
+      "lat": 43.957719,
+      "lon": 2.154929,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1417030864",
+      "name": "Révéo - Révéo",
+      "type": "charging_station",
+      "lat": 43.6928,
+      "lon": 2.424942,
+      "operator": "Révéo",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Révéo",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1417557709",
+      "name": "EDF - Izivia",
+      "type": "charging_station",
+      "lat": 43.925156,
+      "lon": 2.147536,
+      "operator": "EDF",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 4
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Izivia",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1434137908",
+      "name": "Borne de recharge des Cammazes",
+      "type": "charging_station",
+      "lat": 43.408875,
+      "lon": 2.081183,
+      "operator": "SDET (Révéo)",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 13.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "Le plein tarnais",
+        "network": "Révéo",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1463201548",
+      "name": "Narbonne Sud Supercharger",
+      "type": "charging_station",
+      "lat": 43.161746,
+      "lon": 2.982136,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 20
+          }
+        ],
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1473844476",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.497259,
+      "lon": 2.395028,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

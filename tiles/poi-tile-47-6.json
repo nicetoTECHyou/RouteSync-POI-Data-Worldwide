@@ -1,0 +1,320 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 47,
+    "lon": 6,
+    "bounds": {
+      "south": 47,
+      "north": 48,
+      "west": 6,
+      "east": 7
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 9,
+  "pois": [
+    {
+      "id": "osm-1064688940",
+      "name": "Territoire d'Énergie 90 - TE90",
+      "type": "charging_station",
+      "lat": 47.683357,
+      "lon": 6.813951,
+      "operator": "Territoire d'Énergie 90",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "TE90",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1334354610",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 47.10787,
+      "lon": 6.127183,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1334459720",
+      "name": "Station de charge rapide IECharge",
+      "type": "charging_station",
+      "lat": 47.247515,
+      "lon": 6.786907,
+      "operator": "IECharge",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 160.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 160.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Account Cards",
+          "App",
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1386293937",
+      "name": "Neuchâtel Supercharger",
+      "type": "charging_station",
+      "lat": 47.01196,
+      "lon": 6.996455,
+      "operator": "Tesla",
+      "address": {
+        "street": "Av. des Champs-Montants 2",
+        "postcode": "2074",
+        "city": "Neuchâtel",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 16
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 250.0,
+            "count": 16
+          }
+        ],
+        "capacity": 16
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1389392149",
+      "name": "Montbéliard Supercharger",
+      "type": "charging_station",
+      "lat": 47.500521,
+      "lon": 6.812293,
+      "operator": "Tesla",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 28
+          }
+        ],
+        "capacity": 28
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1390133881",
+      "name": "GOFAST La Chaux-de-Fonds",
+      "type": "charging_station",
+      "lat": 47.084089,
+      "lon": 6.796258,
+      "operator": "GOFAST",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Swisscharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1411250669",
+      "name": "Superchargeur Vesoul",
+      "type": "charging_station",
+      "lat": 47.631455,
+      "lon": 6.140269,
+      "operator": "Tesla",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Atlante - Vesoul - Cinéma Majestic",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-1415710160",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 47.047585,
+      "lon": 6.287157,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1482679255",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 47.885205,
+      "lon": 6.767776,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

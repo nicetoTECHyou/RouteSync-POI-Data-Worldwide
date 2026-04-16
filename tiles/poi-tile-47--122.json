@@ -1,0 +1,317 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 47,
+    "lon": -122,
+    "bounds": {
+      "south": 47,
+      "north": 48,
+      "west": -122,
+      "east": -121
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 8,
+  "pois": [
+    {
+      "id": "nrel-33717",
+      "name": "Seattle-Tacoma International Airport - General Parking",
+      "type": "charging_station",
+      "lat": 47.443377,
+      "lon": -122.296229,
+      "operator": "P",
+      "address": {
+        "street": "17801 Pacific Hwy S",
+        "city": "Seattle",
+        "state": "WA",
+        "postcode": "98188",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 68
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "$8.00 per hour parking fee; $37.00 per day parking fee",
+        "payment_methods": [
+          "A Cash CREDIT D Debit M V"
+        ]
+      }
+    },
+    {
+      "id": "nrel-37181",
+      "name": "BELLEVUE BELLEVUE CH 1",
+      "type": "charging_station",
+      "lat": 47.614744,
+      "lon": -122.193162,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "450 110th Ave NE",
+        "city": "Bellevue",
+        "state": "WA",
+        "postcode": "98004",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    },
+    {
+      "id": "nrel-38082",
+      "name": "KING COUNTY DES ISSAQUAH P&R 2",
+      "type": "charging_station",
+      "lat": 47.545324,
+      "lon": -122.0195,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "1755 Highlands Dr NE",
+        "city": "Issaquah",
+        "state": "WA",
+        "postcode": "98027",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    },
+    {
+      "id": "nrel-38083",
+      "name": "King County - King County Van Distribution Center",
+      "type": "charging_station",
+      "lat": 47.675897,
+      "lon": -122.091237,
+      "operator": "LG",
+      "address": {
+        "street": "18655 NE Union Hill Rd",
+        "city": "Redmond",
+        "state": "WA",
+        "postcode": "98052",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "Fleet use only"
+      }
+    },
+    {
+      "id": "nrel-38952",
+      "name": "UWB CASCADIA CC NORTH LEVEL 3 N",
+      "type": "charging_station",
+      "lat": 47.761878,
+      "lon": -122.191915,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "18500 Campus Way NE",
+        "city": "Bothell",
+        "state": "WA",
+        "postcode": "98011",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "Mon: 6:00am-10:00pm; Tue: 6:00am-10:00pm; Wed: 6:00am-10:00pm; Thu: 6:00am-10:00pm; Fri: 6:00am-10:00pm; Sat: 6:00am-10:00pm; Sun: 6:00am-10:00pm",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "Mon: 6:00am-10:00pm; Tue: 6:00am-10:00pm; Wed: 6:00am-10:00pm; Thu: 6:00am-10:00pm; Fri: 6:00am-10:00pm; Sat: 6:00am-10:00pm; Sun: 6:00am-10:00pm"
+      }
+    },
+    {
+      "id": "nrel-38959",
+      "name": "CITY OF REDMOND CITY HALL DUAL",
+      "type": "charging_station",
+      "lat": 47.679224,
+      "lon": -122.12995,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "15670 NE 85th St",
+        "city": "Redmond",
+        "state": "WA",
+        "postcode": "98052",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    },
+    {
+      "id": "nrel-38966",
+      "name": "CITY OF REDMOND MOC #1 PUBLIC",
+      "type": "charging_station",
+      "lat": 47.672359,
+      "lon": -122.099034,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "18080 NE 76th St",
+        "city": "Redmond",
+        "state": "WA",
+        "postcode": "98052",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    },
+    {
+      "id": "nrel-38976",
+      "name": "WILLOWS LODGE WILLOWS #2",
+      "type": "charging_station",
+      "lat": 47.734211,
+      "lon": -122.147041,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "14580 NE 145th St",
+        "city": "Woodinville",
+        "state": "WA",
+        "postcode": "98072",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    }
+  ]
+}

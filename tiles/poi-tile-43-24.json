@@ -1,0 +1,613 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 43,
+    "lon": 24,
+    "bounds": {
+      "south": 43,
+      "north": 44,
+      "west": 24,
+      "east": 25
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 18,
+  "pois": [
+    {
+      "id": "osm-8732040832",
+      "name": "PECO CORA OIL",
+      "type": "charging_station",
+      "lat": 43.78573,
+      "lon": 24.484605,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10570818358",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.756592,
+      "lon": 24.875335,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12146192592",
+      "name": "Fines - Hotel Balkan",
+      "type": "charging_station",
+      "lat": 43.411976,
+      "lon": 24.629742,
+      "operator": "Fines Charging",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12181980062",
+      "name": "Fines - Mikre",
+      "type": "charging_station",
+      "lat": 43.040054,
+      "lon": 24.53012,
+      "operator": "Финес Енерджи ООД",
+      "address": {},
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12182034366",
+      "name": "Fines - Agrola",
+      "type": "charging_station",
+      "lat": 43.426505,
+      "lon": 24.504618,
+      "operator": "Финес Енерджи ООД",
+      "address": {},
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12182088705",
+      "name": "Fines - Obnova",
+      "type": "charging_station",
+      "lat": 43.439498,
+      "lon": 24.992335,
+      "operator": "Фермер 2016 ООД",
+      "address": {
+        "street": "Възраждане",
+        "postcode": "5922",
+        "city": "Обнова",
+        "country": "BG"
+      },
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12184202943",
+      "name": "Fines - Lovech",
+      "type": "charging_station",
+      "lat": 43.163984,
+      "lon": 24.722824,
+      "operator": "Финес Енерджи ООД",
+      "address": {
+        "street": "Бул. Мизия 10",
+        "postcode": "5502",
+        "city": "Ловеч",
+        "country": "BG"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12344068718",
+      "name": "Avia Volt - Avia Volt",
+      "type": "charging_station",
+      "lat": 43.096569,
+      "lon": 24.151569,
+      "operator": "Avia Volt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Avia Volt",
+        "network": "Elfinity",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12404566341",
+      "name": "Ladestation Evpoint",
+      "type": "charging_station",
+      "lat": 43.214488,
+      "lon": 24.165471,
+      "operator": "Evpoint",
+      "address": {},
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12559137268",
+      "name": "Fines - Petrol Yablanitsa",
+      "type": "charging_station",
+      "lat": 43.023752,
+      "lon": 24.109257,
+      "operator": "Fines Charging",
+      "address": {
+        "street": "Автомагистрала Хемус",
+        "postcode": "5750",
+        "city": "Ябланица",
+        "country": "BG"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12647296250",
+      "name": "GigaCharger",
+      "type": "charging_station",
+      "lat": 43.376528,
+      "lon": 24.620814,
+      "operator": "Гигачарджър ЕООД",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "GigaCharger",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13394407061",
+      "name": "Eldrive - Avtotechnika Pleven",
+      "type": "charging_station",
+      "lat": 43.431309,
+      "lon": 24.583506,
+      "operator": "Eldrive",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "Eldrive",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13394407062",
+      "name": "Eldrive - Moto-Pfohe Pleven",
+      "type": "charging_station",
+      "lat": 43.431115,
+      "lon": 24.584814,
+      "operator": "Eldrive",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "Eldrive",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13394408726",
+      "name": "Eldrive - Praktiker Pleven",
+      "type": "charging_station",
+      "lat": 43.409756,
+      "lon": 24.637326,
+      "operator": "Eldrive",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "Eldrive",
+        "opening_hours": "Mo-Sa 08:30-20:30; Su 08:00-20:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 08:30-20:30; Su 08:00-20:00",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13394408727",
+      "name": "Eldrive - Technopolis Pleven",
+      "type": "charging_station",
+      "lat": 43.413941,
+      "lon": 24.632974,
+      "operator": "Eldrive",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "Eldrive",
+        "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:30-19:00; Su 10:00-19:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 09:30-20:00; Sa 09:30-19:00; Su 10:00-19:00",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13401978537",
+      "name": "Electrip - Tassy Methane station Dolni Dabnik",
+      "type": "charging_station",
+      "lat": 43.398559,
+      "lon": 24.433725,
+      "operator": "Electrip",
+      "address": {},
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Electrip",
+        "network": "Electrip",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13402053211",
+      "name": "Electrip - Shell 3040 Yablanitsa south",
+      "type": "charging_station",
+      "lat": 43.027421,
+      "lon": 24.115516,
+      "operator": "Electrip",
+      "address": {},
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Electrip",
+        "network": "Electrip",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13547388583",
+      "name": "Fines - T Market Storgozia",
+      "type": "charging_station",
+      "lat": 43.423924,
+      "lon": 24.598851,
+      "operator": "Fines Charging",
+      "address": {
+        "street": "Крали Марко 3",
+        "postcode": "5802",
+        "city": "Плевен"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

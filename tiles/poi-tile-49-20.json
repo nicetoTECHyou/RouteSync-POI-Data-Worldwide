@@ -1,0 +1,112 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 49,
+    "lon": 20,
+    "bounds": {
+      "south": 49,
+      "north": 50,
+      "west": 20,
+      "east": 21
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-976319888",
+      "name": "Ladestation OMV",
+      "type": "charging_station",
+      "lat": 49.074304,
+      "lon": 20.329973,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "OMV",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1413561763",
+      "name": "GreenWay - GreenWay",
+      "type": "charging_station",
+      "lat": 49.058701,
+      "lon": 20.266074,
+      "operator": "GreenWay",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "GreenWay",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1414377009",
+      "name": "GreenWay - GreenWay",
+      "type": "charging_station",
+      "lat": 49.128659,
+      "lon": 20.431162,
+      "operator": "GreenWay",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "GreenWay",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    }
+  ]
+}

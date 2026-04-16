@@ -1,0 +1,54 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": -73,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": -73,
+      "east": -72
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-27036",
+      "name": "Burlington International Airport",
+      "type": "charging_station",
+      "lat": 44.469281,
+      "lon": -73.154972,
+      "operator": "LG",
+      "address": {
+        "street": "1200 Airport Dr",
+        "city": "South Burlington",
+        "state": "VT",
+        "postcode": "05403",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 1.9,
+        "sockets": [
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot; Drivers must bring their own J1772 cordset for Level 1 charging"
+      }
+    }
+  ]
+}

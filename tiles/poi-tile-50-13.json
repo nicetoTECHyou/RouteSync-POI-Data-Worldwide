@@ -1,0 +1,507 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 50,
+    "lon": 13,
+    "bounds": {
+      "south": 50,
+      "north": 51,
+      "west": 13,
+      "east": 14
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 14,
+  "pois": [
+    {
+      "id": "osm-165287816",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.780196,
+      "lon": 13.440262,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1303680284",
+      "name": "Comfortcharge - Comfortcharge GmbH",
+      "type": "charging_station",
+      "lat": 50.971204,
+      "lon": 13.925704,
+      "operator": "Comfortcharge",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1313062782",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.898745,
+      "lon": 13.946112,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1383248631",
+      "name": "Ladestation SachsenEnergie",
+      "type": "charging_station",
+      "lat": 50.999121,
+      "lon": 13.828639,
+      "operator": "SachsenEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "SachsenEnergie",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1390802108",
+      "name": "Ladestation SachsenEnergie",
+      "type": "charging_station",
+      "lat": 50.961202,
+      "lon": 13.944323,
+      "operator": "SachsenEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 3.7,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ]
+      }
+    },
+    {
+      "id": "osm-1459163469",
+      "name": "Ladestation eliso",
+      "type": "charging_station",
+      "lat": 50.913729,
+      "lon": 13.045978,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "eliso",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1476888889",
+      "name": "Ladestation EDEKA",
+      "type": "charging_station",
+      "lat": 50.888873,
+      "lon": 13.667865,
+      "operator": "EDEKA",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1476888890",
+      "name": "Ladestation Lidl",
+      "type": "charging_station",
+      "lat": 50.888817,
+      "lon": 13.668686,
+      "operator": "Lidl",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Sa 06:45-21:15"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 06:45-21:15",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1476888892",
+      "name": "Ladestation Kaufland",
+      "type": "charging_station",
+      "lat": 50.897414,
+      "lon": 13.692913,
+      "operator": "Kaufland",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1476907440",
+      "name": "Ladestation SachsenEnergie",
+      "type": "charging_station",
+      "lat": 50.995589,
+      "lon": 13.79717,
+      "operator": "SachsenEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 3
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 10
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1476907441",
+      "name": "EnBW - EnBW HxperNetz",
+      "type": "charging_station",
+      "lat": 50.997174,
+      "lon": 13.797557,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "EnBW HxperNetz",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1476907443",
+      "name": "Ladestation MVV Energie",
+      "type": "charging_station",
+      "lat": 50.998401,
+      "lon": 13.798526,
+      "operator": "MVV Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Sa 07:00-20:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1476907442",
+      "name": "Ladestation SachsenEnergie",
+      "type": "charging_station",
+      "lat": 50.999318,
+      "lon": 13.79934,
+      "operator": "SachsenEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 5
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 3
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1479682310",
+      "name": "Ladepark Pirna",
+      "type": "charging_station",
+      "lat": 50.957073,
+      "lon": 13.915421,
+      "operator": "SachsenEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 12
+          }
+        ],
+        "capacity": 14
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    }
+  ]
+}

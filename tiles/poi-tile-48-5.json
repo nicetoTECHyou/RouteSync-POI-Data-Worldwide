@@ -1,0 +1,2884 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 48,
+    "lon": 5,
+    "bounds": {
+      "south": 48,
+      "north": 49,
+      "west": 5,
+      "east": 6
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 93,
+  "pois": [
+    {
+      "id": "osm-3988130190",
+      "name": "Renault Neufchâteau",
+      "type": "charging_station",
+      "lat": 48.347027,
+      "lon": 5.692645,
+      "operator": "Renault",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:30-12:00, 14:00-18:30"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:30-12:00, 14:00-18:30",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-3988130193",
+      "name": "Renault Vittel",
+      "type": "charging_station",
+      "lat": 48.203589,
+      "lon": 5.938859,
+      "operator": "Renault",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-12:00,14:00-17:00; Sa 08:00-12:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-12:00,14:00-17:00; Sa 08:00-12:00",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-3988378452",
+      "name": "Rollainville - Aire de service",
+      "type": "charging_station",
+      "lat": 48.361968,
+      "lon": 5.738789,
+      "operator": "Communauté de communes Bassin de Neufchâteau",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 3.7,
+        "sockets": [
+          {
+            "type": "CEE Blau (16A)",
+            "kw": 3.7,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Coins"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5126734016",
+      "name": "Ladestation Renault",
+      "type": "charging_station",
+      "lat": 48.766956,
+      "lon": 5.175309,
+      "operator": "Renault",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Sa 08:00-18:00; Mo-Fr 08:00-18:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 08:00-18:00; Mo-Fr 08:00-18:00",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11648801771",
+      "name": "Ladestation Stations-e",
+      "type": "charging_station",
+      "lat": 48.766473,
+      "lon": 5.175907,
+      "operator": "Stations-e",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Stations-e",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5126734018",
+      "name": "Ladestation modulo-energies.fr",
+      "type": "charging_station",
+      "lat": 48.610132,
+      "lon": 5.39693,
+      "operator": "modulo-energies.fr",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5126734019",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.67491,
+      "lon": 5.927736,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Su 05:00-22:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 05:00-22:00",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9053395319",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.673222,
+      "lon": 5.923927,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12064456213",
+      "name": "Ionity Dommartin",
+      "type": "charging_station",
+      "lat": 48.672849,
+      "lon": 5.92535,
+      "operator": "IONITY",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5536292940",
+      "name": "Relais Lorraine les Rappes",
+      "type": "charging_station",
+      "lat": 48.266966,
+      "lon": 5.863338,
+      "operator": "Total Energies",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 175.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 175.0,
+            "count": 5
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13325612741",
+      "name": "SPIE CityNetworks - e-Vadea",
+      "type": "charging_station",
+      "lat": 48.268131,
+      "lon": 5.860545,
+      "operator": "SPIE CityNetworks",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 5
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 6
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 5
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "e-Vadea",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-5536292941",
+      "name": "Aire de Lorraine Sandaucourt-la-Trelle",
+      "type": "charging_station",
+      "lat": 48.268771,
+      "lon": 5.860278,
+      "operator": "Sodetrel Mobilité",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Corri-dor",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5536450775",
+      "name": "TotalEnergies - alpitronic",
+      "type": "charging_station",
+      "lat": 48.659935,
+      "lon": 5.908127,
+      "operator": "TotalEnergies",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 150.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 16
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "alpitronic",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards",
+          "Debit Cards",
+          "Dkv"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5725910000",
+      "name": "Modulo",
+      "type": "charging_station",
+      "lat": 48.973307,
+      "lon": 5.511112,
+      "operator": "Virta",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "MODULO",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-5725980840",
+      "name": "Ladestation FUCLEM",
+      "type": "charging_station",
+      "lat": 48.976429,
+      "lon": 5.701714,
+      "operator": "FUCLEM",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5725980841",
+      "name": "Renault",
+      "type": "charging_station",
+      "lat": 48.979703,
+      "lon": 5.711869,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-6001077806",
+      "name": "Ladestation FUCLEM",
+      "type": "charging_station",
+      "lat": 48.766646,
+      "lon": 5.1592,
+      "operator": "FUCLEM",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6153884167",
+      "name": "Ladestation FUCLEM",
+      "type": "charging_station",
+      "lat": 48.780162,
+      "lon": 5.167616,
+      "operator": "FUCLEM",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6153884168",
+      "name": "Ladestation FUCLEM",
+      "type": "charging_station",
+      "lat": 48.776402,
+      "lon": 5.159686,
+      "operator": "FUCLEM",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6153884171",
+      "name": "Ladestation FUCLEM",
+      "type": "charging_station",
+      "lat": 48.775109,
+      "lon": 5.162311,
+      "operator": "FUCLEM",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6153884169",
+      "name": "Ladestation FUCLEM",
+      "type": "charging_station",
+      "lat": 48.773143,
+      "lon": 5.167,
+      "operator": "FUCLEM",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171400",
+      "name": "Ladestation BAR LE DUC - 81267 - Cinéma",
+      "type": "charging_station",
+      "lat": 48.768588,
+      "lon": 5.167409,
+      "operator": "BAR LE DUC - 81267 - Cinéma",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "BAR LE DUC - 81267 - Cinéma",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6283083279",
+      "name": "Virta - MODULO",
+      "type": "charging_station",
+      "lat": 48.892537,
+      "lon": 5.540539,
+      "operator": "Virta",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "MODULO",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-7067993169",
+      "name": "Ladestation modulo",
+      "type": "charging_station",
+      "lat": 48.684663,
+      "lon": 5.324928,
+      "operator": "modulo",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7067993170",
+      "name": "Ladestation modulo energies",
+      "type": "charging_station",
+      "lat": 48.690914,
+      "lon": 5.319391,
+      "operator": "modulo energies",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7117282216",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.69058,
+      "lon": 5.623032,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7117313900",
+      "name": "Virta - MODULO",
+      "type": "charging_station",
+      "lat": 48.821337,
+      "lon": 5.511858,
+      "operator": "Virta",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "MODULO",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-7196177406",
+      "name": "Citeos - eCharge54",
+      "type": "charging_station",
+      "lat": 48.528017,
+      "lon": 5.897905,
+      "operator": "Citeos",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "eCharge54",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7236649176",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.545805,
+      "lon": 5.908174,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7835282690",
+      "name": "Contrexéville - Aldi",
+      "type": "charging_station",
+      "lat": 48.188964,
+      "lon": 5.883368,
+      "operator": "Aldi",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Hager",
+        "network": "",
+        "opening_hours": "Mo-Sa 08:30-20:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 08:30-20:00",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7835289054",
+      "name": "Bulgnéville - Rue du Rhulemoine",
+      "type": "charging_station",
+      "lat": 48.209944,
+      "lon": 5.831317,
+      "operator": "Freshmile",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Mastercard",
+          "Visa"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8396210199",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.651196,
+      "lon": 5.871447,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9213011560",
+      "name": "Ladestation Fuclem-55",
+      "type": "charging_station",
+      "lat": 48.558643,
+      "lon": 5.270197,
+      "operator": "Fuclem-55",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9822762385",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.679034,
+      "lon": 5.887897,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12059988734",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.678795,
+      "lon": 5.881308,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12108068023",
+      "name": "Freshmile - freshmile",
+      "type": "charging_station",
+      "lat": 48.67839,
+      "lon": 5.879905,
+      "operator": "Freshmile",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384366687",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 48.675364,
+      "lon": 5.887289,
+      "operator": "Freshmile",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9830464371",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.091223,
+      "lon": 5.143728,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13049944708",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.088197,
+      "lon": 5.146441,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13049944710",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.087969,
+      "lon": 5.147166,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10159750804",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.679386,
+      "lon": 5.889232,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10240140450",
+      "name": "Vittel - Rue Robert de Flers",
+      "type": "charging_station",
+      "lat": 48.202512,
+      "lon": 5.944941,
+      "operator": "SDEV",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 25.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 25.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 25.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DBT",
+        "network": "Modulo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Mastercard",
+          "Visa"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10240140451",
+      "name": "Martigny - Avenue de la Gare",
+      "type": "charging_station",
+      "lat": 48.108264,
+      "lon": 5.825557,
+      "operator": "SDEV",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 25.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 25.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 25.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DBT",
+        "network": "Modulo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Mastercard",
+          "Visa"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10240255556",
+      "name": "Liffol-le-Grand - Place d'Armes",
+      "type": "charging_station",
+      "lat": 48.31745,
+      "lon": 5.58133,
+      "operator": "SDEV",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DBT",
+        "network": "Modulo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Mastercard",
+          "Visa"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10257789377",
+      "name": "Neufchâteau - Rue de la 1re Armée Française",
+      "type": "charging_station",
+      "lat": 48.356105,
+      "lon": 5.689785,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Scame",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-10775759988",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.354513,
+      "lon": 5.687013,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10589857830",
+      "name": "Modulo - Modulo",
+      "type": "charging_station",
+      "lat": 48.30312,
+      "lon": 5.834295,
+      "operator": "Modulo",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Modulo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11645587534",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 48.369644,
+      "lon": 5.703958,
+      "operator": "Freshmile",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 8
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 4
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13008786736",
+      "name": "Lidl Neufchâteau Leclerc",
+      "type": "charging_station",
+      "lat": 48.367982,
+      "lon": 5.703644,
+      "operator": "Lidl",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13533679723",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.370179,
+      "lon": 5.706965,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11003413099",
+      "name": "Power Dot",
+      "type": "charging_station",
+      "lat": 48.299573,
+      "lon": 5.84279,
+      "operator": "Powerdot",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 7
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12292715219",
+      "name": "Ladestation Vosgelis",
+      "type": "charging_station",
+      "lat": 48.299378,
+      "lon": 5.835181,
+      "operator": "Vosgelis",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11018742759",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.567546,
+      "lon": 5.738249,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11109171396",
+      "name": "Ladestation L'ISLE EN RIGAULT - 66259 - Rue Henri Chevalier",
+      "type": "charging_station",
+      "lat": 48.716915,
+      "lon": 5.046276,
+      "operator": "L'ISLE EN RIGAULT - 66259 - Rue Henri Chevalier",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "L'ISLE EN RIGAULT - 66259 - Rue Henri Chevalier",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171454",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 48.583754,
+      "lon": 5.039667,
+      "operator": "Freshmile",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171458",
+      "name": "Ladestation 55 ANCERVILLE-87 rue de st Dizier-66213",
+      "type": "charging_station",
+      "lat": 48.637806,
+      "lon": 5.017258,
+      "operator": "55 ANCERVILLE-87 rue de st Dizier-66213",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "55 ANCERVILLE-87 rue de st Dizier-66213",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171460",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 48.60593,
+      "lon": 5.04174,
+      "operator": "Freshmile",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171462",
+      "name": "Ladestation 55 DAMMARIE SUR SAULX-2 chemin des gendarmes-66300",
+      "type": "charging_station",
+      "lat": 48.593992,
+      "lon": 5.242708,
+      "operator": "55 DAMMARIE SUR SAULX-2 chemin des gendarmes-66300",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "55 DAMMARIE SUR SAULX-2 chemin des gendarmes-66300",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171464",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 48.524954,
+      "lon": 5.111945,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109171465",
+      "name": "Ladestation 55 BURE-rond point andra-66333",
+      "type": "charging_station",
+      "lat": 48.488338,
+      "lon": 5.354515,
+      "operator": "55 BURE-rond point andra-66333",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "55 BURE-rond point andra-66333",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109171472",
+      "name": "Ladestation 55 GONDRECOURT-rue de la grande fontaine-66326",
+      "type": "charging_station",
+      "lat": 48.513392,
+      "lon": 5.507144,
+      "operator": "55 GONDRECOURT-rue de la grande fontaine-66326",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "55 GONDRECOURT-rue de la grande fontaine-66326",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11269449413",
+      "name": "Ladestation Portes de Meuse",
+      "type": "charging_station",
+      "lat": 48.513869,
+      "lon": 5.504403,
+      "operator": "Portes de Meuse",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11190932193",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.490876,
+      "lon": 5.466709,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11369657530",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.683878,
+      "lon": 5.084447,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11645547861",
+      "name": "Renault",
+      "type": "charging_station",
+      "lat": 48.40789,
+      "lon": 5.743008,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11648754198",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.580795,
+      "lon": 5.460134,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11659385842",
+      "name": "Ladestation Lidl",
+      "type": "charging_station",
+      "lat": 48.89597,
+      "lon": 5.537503,
+      "operator": "Lidl",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 4
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11874545747",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.679705,
+      "lon": 5.87243,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1434632258",
+      "name": "Ladestation Izivia",
+      "type": "charging_station",
+      "lat": 48.679096,
+      "lon": 5.871733,
+      "operator": "Izivia",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 8
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12108054922",
+      "name": "Freshmile - freshmile",
+      "type": "charging_station",
+      "lat": 48.755456,
+      "lon": 5.193129,
+      "operator": "Freshmile",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 6
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12422767562",
+      "name": "Powerdot",
+      "type": "charging_station",
+      "lat": 48.366474,
+      "lon": 5.707628,
+      "operator": "Powerdot",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Powerdot",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12434339836",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.187145,
+      "lon": 5.903393,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13016791029",
+      "name": "Ladestation E. Leclerc",
+      "type": "charging_station",
+      "lat": 48.123791,
+      "lon": 5.151288,
+      "operator": "E. Leclerc",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "E. Leclerc",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13049944703",
+      "name": "Powerdot",
+      "type": "charging_station",
+      "lat": 48.086743,
+      "lon": 5.146024,
+      "operator": "Powerdot",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 160.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 160.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Powerdot",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13049944704",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.08679,
+      "lon": 5.147654,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13049944706",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.086326,
+      "lon": 5.146591,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13049944707",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.084725,
+      "lon": 5.145731,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13049960509",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.108368,
+      "lon": 5.139575,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13058247664",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.941355,
+      "lon": 5.716994,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13524714452",
+      "name": "Ladestation Eoliberty",
+      "type": "charging_station",
+      "lat": 48.075433,
+      "lon": 5.789152,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Eoliberty",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1341280963",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.423392,
+      "lon": 5.218082,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1370507685",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 48.978453,
+      "lon": 5.059764,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1384366658",
+      "name": "Powerdot France - Powerdot",
+      "type": "charging_station",
+      "lat": 48.664249,
+      "lon": 5.887959,
+      "operator": "Powerdot France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Powerdot",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384366662",
+      "name": "Freshmile France - Freshmile",
+      "type": "charging_station",
+      "lat": 48.681051,
+      "lon": 5.86118,
+      "operator": "Freshmile France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384366663",
+      "name": "Freshmile France - Freshmile",
+      "type": "charging_station",
+      "lat": 48.68224,
+      "lon": 5.862722,
+      "operator": "Freshmile France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384366664",
+      "name": "Freshmile France - Freshmile",
+      "type": "charging_station",
+      "lat": 48.673706,
+      "lon": 5.885888,
+      "operator": "Freshmile France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1384366665",
+      "name": "Ladestation Shell Recharge",
+      "type": "charging_station",
+      "lat": 48.669616,
+      "lon": 5.889889,
+      "operator": "Shell Recharge",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Shell Recharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384366668",
+      "name": "Lidl France - Lidl",
+      "type": "charging_station",
+      "lat": 48.67191,
+      "lon": 5.889759,
+      "operator": "Lidl France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Lidl",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384366686",
+      "name": "Freshmile France - Freshmile",
+      "type": "charging_station",
+      "lat": 48.671291,
+      "lon": 5.893423,
+      "operator": "Freshmile France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 18.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 18.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384366674",
+      "name": "Lidl France - Lidl",
+      "type": "charging_station",
+      "lat": 48.689405,
+      "lon": 5.901268,
+      "operator": "Lidl France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Lidl",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384366675",
+      "name": "Freshmile France - Freshmile",
+      "type": "charging_station",
+      "lat": 48.697484,
+      "lon": 5.908336,
+      "operator": "Freshmile France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384366681",
+      "name": "Freshmile France - Freshmile",
+      "type": "charging_station",
+      "lat": 48.699002,
+      "lon": 5.909658,
+      "operator": "Freshmile France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1384369087",
+      "name": "Powerdot France - Powerdot",
+      "type": "charging_station",
+      "lat": 48.68069,
+      "lon": 5.889427,
+      "operator": "Powerdot France",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Powerdot",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

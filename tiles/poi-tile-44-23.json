@@ -1,0 +1,172 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 23,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 23,
+      "east": 24
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 6,
+  "pois": [
+    {
+      "id": "osm-6311783299",
+      "name": "ChargePoint",
+      "type": "charging_station",
+      "lat": 44.300885,
+      "lon": 23.796648,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "ChargePoint",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11343133582",
+      "name": "Craiova Supercharger",
+      "type": "charging_station",
+      "lat": 44.328726,
+      "lon": 23.772216,
+      "operator": "Tesla",
+      "address": {},
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11931134499",
+      "name": "E.ON Drive - Craiova UFC 4",
+      "type": "charging_station",
+      "lat": 44.302631,
+      "lon": 23.796744,
+      "operator": "E.ON",
+      "address": {
+        "street": "Bulevardul 1 Mai 86",
+        "city": "Craiova"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13286912373",
+      "name": "Ladestation Eldrive",
+      "type": "charging_station",
+      "lat": 44.315197,
+      "lon": 23.932458,
+      "operator": "Eldrive",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13311251803",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.263636,
+      "lon": 23.788407,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13727220880",
+      "name": "Ladestation iHunt",
+      "type": "charging_station",
+      "lat": 44.308765,
+      "lon": 23.821815,
+      "operator": "iHunt",
+      "address": {},
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

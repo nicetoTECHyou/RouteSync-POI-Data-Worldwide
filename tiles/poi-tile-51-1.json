@@ -1,0 +1,2200 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 51,
+    "lon": 1,
+    "bounds": {
+      "south": 51,
+      "north": 52,
+      "west": 1,
+      "east": 2
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 80,
+  "pois": [
+    {
+      "id": "osm-3692600505",
+      "name": "Mill Lane Car Park Charger",
+      "type": "charging_station",
+      "lat": 51.3864,
+      "lon": 1.381919,
+      "operator": "Charge Your Car",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "07:00 - 19:00"
+      },
+      "amenities": {
+        "opening_hours": "07:00 - 19:00"
+      }
+    },
+    {
+      "id": "osm-3695870016",
+      "name": "Ladestation Pod Point;POD Point",
+      "type": "charging_station",
+      "lat": 51.356278,
+      "lon": 1.39427,
+      "operator": "Pod Point;POD Point",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8377012207",
+      "name": "Ladestation Pod Point",
+      "type": "charging_station",
+      "lat": 51.358969,
+      "lon": 1.392824,
+      "operator": "Pod Point",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-3993546500",
+      "name": "Folkestone - Eurotunnel Terminal Supercharger",
+      "type": "charging_station",
+      "lat": 51.096002,
+      "lon": 1.120928,
+      "operator": "Tesla",
+      "address": {
+        "street": "Ashford Road",
+        "postcode": "CT18 8XX",
+        "city": "Folkestone",
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 8
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5331390050",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.802368,
+      "lon": 1.158333,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6305448463",
+      "name": "East of England Co-op Supermarket",
+      "type": "charging_station",
+      "lat": 51.946794,
+      "lon": 1.061171,
+      "operator": "EV Driver",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Account Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6900159747",
+      "name": "Ladestation EV Dot",
+      "type": "charging_station",
+      "lat": 51.281616,
+      "lon": 1.070325,
+      "operator": "EV Dot",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "0.30",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7195296176",
+      "name": "Ladestation Swarco",
+      "type": "charging_station",
+      "lat": 51.95121,
+      "lon": 1.335267,
+      "operator": "Swarco",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7667243171",
+      "name": "Ladestation evolt",
+      "type": "charging_station",
+      "lat": 51.948273,
+      "lon": 1.286722,
+      "operator": "evolt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11953868477",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.947075,
+      "lon": 1.289675,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7667314522",
+      "name": "Trinity House",
+      "type": "charging_station",
+      "lat": 51.946529,
+      "lon": 1.285186,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7766299790",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.068275,
+      "lon": 1.066071,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7775010822",
+      "name": "St Radigunds Car Park",
+      "type": "charging_station",
+      "lat": 51.282814,
+      "lon": 1.080796,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8757862095",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.281387,
+      "lon": 1.077629,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11919270195",
+      "name": "Ladestation EVlink",
+      "type": "charging_station",
+      "lat": 51.283198,
+      "lon": 1.078638,
+      "operator": "EVlink",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7822676453",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.810691,
+      "lon": 1.142526,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7875413708",
+      "name": "Ladestation Eurotunnel",
+      "type": "charging_station",
+      "lat": 51.098094,
+      "lon": 1.138928,
+      "operator": "Eurotunnel",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7875413709",
+      "name": "Euroscan Charging Point",
+      "type": "charging_station",
+      "lat": 51.096957,
+      "lon": 1.118806,
+      "operator": "Eurotunnel",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8176987640",
+      "name": "Ladestation Pod Point",
+      "type": "charging_station",
+      "lat": 51.360416,
+      "lon": 1.411688,
+      "operator": "Pod Point",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8375925948",
+      "name": "Ladestation Swarco",
+      "type": "charging_station",
+      "lat": 51.388899,
+      "lon": 1.381442,
+      "operator": "Swarco",
+      "address": {
+        "street": "Market Street",
+        "postcode": "CT9 1ED",
+        "city": "Margate"
+      },
+      "power": {
+        "max_kw": 51.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 51.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 51.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8867577048",
+      "name": "Ladestation EV Dot",
+      "type": "charging_station",
+      "lat": 51.281214,
+      "lon": 1.08808,
+      "operator": "EV Dot",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "0.30",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9004475870",
+      "name": "GeniePoint - GeniePoint",
+      "type": "charging_station",
+      "lat": 51.965289,
+      "lon": 1.326663,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "GeniePoint",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9004606852",
+      "name": "Ladestation Plug-N-Go",
+      "type": "charging_station",
+      "lat": 51.966805,
+      "lon": 1.351555,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Plug-N-Go",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9160789120",
+      "name": "Chargemaster",
+      "type": "charging_station",
+      "lat": 51.293753,
+      "lon": 1.10926,
+      "operator": "BP Pulse",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "BP Pulse",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9160826638",
+      "name": "e-taxi recharging point",
+      "type": "charging_station",
+      "lat": 51.277699,
+      "lon": 1.082611,
+      "operator": "Swarco",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9482093612",
+      "name": "e-taxi recharging point",
+      "type": "charging_station",
+      "lat": 51.276345,
+      "lon": 1.080913,
+      "operator": "Swarco",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9211275060",
+      "name": "Fastned Spitfire Way",
+      "type": "charging_station",
+      "lat": 51.287922,
+      "lon": 1.338322,
+      "operator": "Fastned",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Fastned",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9367032082",
+      "name": "Ladestation Connected Kerb",
+      "type": "charging_station",
+      "lat": 51.123935,
+      "lon": 1.314653,
+      "operator": "Connected Kerb",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9629838269",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.124758,
+      "lon": 1.314904,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9631149233",
+      "name": "Ladestation Connected Kerb",
+      "type": "charging_station",
+      "lat": 51.122105,
+      "lon": 1.314409,
+      "operator": "Connected Kerb",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 3
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9387690932",
+      "name": "Ladestation MFG",
+      "type": "charging_station",
+      "lat": 51.270948,
+      "lon": 1.062316,
+      "operator": "MFG",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ]
+      }
+    },
+    {
+      "id": "osm-9387690972",
+      "name": "Ladestation Pod Point",
+      "type": "charging_station",
+      "lat": 51.272674,
+      "lon": 1.065422,
+      "operator": "Pod Point",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11879620768",
+      "name": "Ladestation EVlink",
+      "type": "charging_station",
+      "lat": 51.271303,
+      "lon": 1.061287,
+      "operator": "EVlink",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1446788702",
+      "name": "EV Power",
+      "type": "charging_station",
+      "lat": 51.270238,
+      "lon": 1.063319,
+      "operator": "mfg",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "mfg",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9387690971",
+      "name": "Ladestation Swarco",
+      "type": "charging_station",
+      "lat": 51.273422,
+      "lon": 1.067291,
+      "operator": "Swarco",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11013477910",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.275322,
+      "lon": 1.075931,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9629666250",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.287616,
+      "lon": 1.012303,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9631332989",
+      "name": "Ladestation Connected Kerb",
+      "type": "charging_station",
+      "lat": 51.080861,
+      "lon": 1.185673,
+      "operator": "Connected Kerb",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11020278860",
+      "name": "Ladestation Connected Kerb",
+      "type": "charging_station",
+      "lat": 51.076557,
+      "lon": 1.177874,
+      "operator": "Connected Kerb",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9660269727",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.0725,
+      "lon": 1.076026,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9688215585",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.093712,
+      "lon": 1.181303,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9688297813",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.084011,
+      "lon": 1.19632,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9876358169",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.81877,
+      "lon": 1.150155,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9953584247",
+      "name": "Alresford Village Hall - Charge My Street",
+      "type": "charging_station",
+      "lat": 51.851743,
+      "lon": 1.001501,
+      "operator": "Alresford Village Hall",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10206809083",
+      "name": "Krew-Edil",
+      "type": "charging_station",
+      "lat": 51.347229,
+      "lon": 1.041884,
+      "operator": "Pod Point",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ]
+      }
+    },
+    {
+      "id": "osm-10665416268",
+      "name": "Ladestation Alfen",
+      "type": "charging_station",
+      "lat": 51.285219,
+      "lon": 1.086725,
+      "operator": "Alfen",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10665443004",
+      "name": "Ladestation EVlink",
+      "type": "charging_station",
+      "lat": 51.362088,
+      "lon": 1.028822,
+      "operator": "EVlink",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11035332946",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.361961,
+      "lon": 1.025162,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11377238542",
+      "name": "Cromwell Road",
+      "type": "charging_station",
+      "lat": 51.361298,
+      "lon": 1.028967,
+      "operator": "EVDot",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Electronic Purses"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10895731018",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.261763,
+      "lon": 1.101884,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10924947816",
+      "name": "Ladestation EVlink",
+      "type": "charging_station",
+      "lat": 51.277272,
+      "lon": 1.08793,
+      "operator": "EVlink",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10968376284",
+      "name": "bmm - ev dot",
+      "type": "charging_station",
+      "lat": 51.372933,
+      "lon": 1.131993,
+      "operator": "bmm",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "ev dot",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10969394323",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.255806,
+      "lon": 1.018982,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11020446721",
+      "name": "BP Pulse - BP Pulse",
+      "type": "charging_station",
+      "lat": 51.088823,
+      "lon": 1.13536,
+      "operator": "BP Pulse",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "BP Pulse",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ]
+      }
+    },
+    {
+      "id": "osm-11063060783",
+      "name": "Mer",
+      "type": "charging_station",
+      "lat": 51.094648,
+      "lon": 1.151368,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11063060792",
+      "name": "InstaVolt - Instavolt",
+      "type": "charging_station",
+      "lat": 51.094358,
+      "lon": 1.152508,
+      "operator": "InstaVolt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Instavolt",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11069701394",
+      "name": "Ladestation Connected Kerb",
+      "type": "charging_station",
+      "lat": 51.275246,
+      "lon": 1.343833,
+      "operator": "Connected Kerb",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11076058208",
+      "name": "Shell Recharge - Shell Recharge Solutions",
+      "type": "charging_station",
+      "lat": 51.145165,
+      "lon": 1.329352,
+      "operator": "Shell Recharge",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11168883228",
+      "name": "Ladestation InstaVolt",
+      "type": "charging_station",
+      "lat": 51.956519,
+      "lon": 1.327985,
+      "operator": "InstaVolt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11205073359",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.378189,
+      "lon": 1.19513,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11340925945",
+      "name": "Lidl Plus",
+      "type": "charging_station",
+      "lat": 51.151749,
+      "lon": 1.306349,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ]
+      }
+    },
+    {
+      "id": "osm-11372891177",
+      "name": "Ladestation Connected Kerb",
+      "type": "charging_station",
+      "lat": 51.128926,
+      "lon": 1.309662,
+      "operator": "Connected Kerb",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11586942685",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.34129,
+      "lon": 1.011936,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11777866164",
+      "name": "Ladestation Podpoint",
+      "type": "charging_station",
+      "lat": 51.15403,
+      "lon": 1.299321,
+      "operator": "Podpoint",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11849760218",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.790893,
+      "lon": 1.146068,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1396161851",
+      "name": "Ladestation Zest",
+      "type": "charging_station",
+      "lat": 51.793383,
+      "lon": 1.145423,
+      "operator": "Zest",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11871952454",
+      "name": "Sainsbury's - Smart Charge",
+      "type": "charging_station",
+      "lat": 51.361842,
+      "lon": 1.152103,
+      "operator": "Sainsbury's",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Smart Charge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12125082579",
+      "name": "PoGo - PoGo Charge",
+      "type": "charging_station",
+      "lat": 51.940621,
+      "lon": 1.25868,
+      "operator": "PoGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "PoGo Charge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1463927230",
+      "name": "Ladestation InstaVolt",
+      "type": "charging_station",
+      "lat": 51.941954,
+      "lon": 1.260386,
+      "operator": "InstaVolt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12157102758",
+      "name": "Ladestation myenergi",
+      "type": "charging_station",
+      "lat": 51.251534,
+      "lon": 1.009507,
+      "operator": "myenergi",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "destination",
+        "fee": "",
+        "brand": "",
+        "network": "myenergi",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12244305781",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.359503,
+      "lon": 1.063048,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12794023235",
+      "name": "MFG - EVPower",
+      "type": "charging_station",
+      "lat": 51.368817,
+      "lon": 1.299419,
+      "operator": "MFG",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "EVPower",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13019450017",
+      "name": "Ladestation Connected Kerb",
+      "type": "charging_station",
+      "lat": 51.274059,
+      "lon": 1.339872,
+      "operator": "Connected Kerb",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13057745535",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.335698,
+      "lon": 1.349452,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13624038257",
+      "name": "Folkestone Supercharger",
+      "type": "charging_station",
+      "lat": 51.08952,
+      "lon": 1.123867,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 8
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1236845815",
+      "name": "Mer",
+      "type": "charging_station",
+      "lat": 51.937621,
+      "lon": 1.282364,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 12.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 12.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1395332736",
+      "name": "Gridserve - Gridserve",
+      "type": "charging_station",
+      "lat": 51.095117,
+      "lon": 1.045361,
+      "operator": "Gridserve",
+      "address": {
+        "postcode": "CT21 4BL",
+        "city": "Hythe"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Gridserve",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1418344513",
+      "name": "Ladestation EVC",
+      "type": "charging_station",
+      "lat": 51.09507,
+      "lon": 1.165634,
+      "operator": "EVC",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1496733963",
+      "name": "Ladestation Connected Kerb",
+      "type": "charging_station",
+      "lat": 51.21327,
+      "lon": 1.400011,
+      "operator": "Connected Kerb",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Connected Kerb",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1496733964",
+      "name": "Ladestation Connected Kerb",
+      "type": "charging_station",
+      "lat": 51.213611,
+      "lon": 1.398378,
+      "operator": "Connected Kerb",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Connected Kerb",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 46,
+    "lon": 8,
+    "bounds": {
+      "south": 46,
+      "north": 47,
+      "west": 8,
+      "east": 9
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 17,
+  "pois": [
+    {
+      "id": "osm-1029849444",
+      "name": "GOFAST Amsteg",
+      "type": "charging_station",
+      "lat": 46.780563,
+      "lon": 8.667967,
+      "operator": "GOFAST",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 384.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 384.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Swisscharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1029849446",
+      "name": "GOFAST Erstfeld",
+      "type": "charging_station",
+      "lat": 46.814464,
+      "lon": 8.654284,
+      "operator": "GOFAST",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 320.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 320.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Swisscharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1073098126",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 46.995774,
+      "lon": 8.60603,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "CH"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1120644956",
+      "name": "Monte Ceneri Supercharger",
+      "type": "charging_station",
+      "lat": 46.139236,
+      "lon": 8.907207,
+      "operator": "Tesla",
+      "address": {
+        "street": "via Monte Ceneri 8",
+        "postcode": "6802",
+        "city": "Rivera",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1292410214",
+      "name": "Migrol - Migrol",
+      "type": "charging_station",
+      "lat": 46.896435,
+      "lon": 8.626353,
+      "operator": "Migrol",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Migrol",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1385940157",
+      "name": "Beckenried Supercharger",
+      "type": "charging_station",
+      "lat": 46.971077,
+      "lon": 8.459145,
+      "operator": "Tesla",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 125.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 125.0,
+            "count": 6
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 125.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1385966660",
+      "name": "Flüelen Supercharger",
+      "type": "charging_station",
+      "lat": 46.912903,
+      "lon": 8.622859,
+      "operator": "Tesla",
+      "address": {
+        "street": "Axenstrasse 92",
+        "postcode": "6454",
+        "city": "Fluelen",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 6
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Automatic"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1386044794",
+      "name": "Quinto Supercharger",
+      "type": "charging_station",
+      "lat": 46.515155,
+      "lon": 8.670575,
+      "operator": "Tesla",
+      "address": {
+        "street": "Via di Mezzo 16",
+        "postcode": "6776",
+        "city": "Quinto",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 10
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 10
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1386049554",
+      "name": "Locarno Supercharger",
+      "type": "charging_station",
+      "lat": 46.166742,
+      "lon": 8.795988,
+      "operator": "Tesla",
+      "address": {
+        "street": "Via Vincenzo Vela 5",
+        "postcode": "6600",
+        "city": "Locarno",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 4
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 250.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1390037257",
+      "name": "GOFAST Sarnen",
+      "type": "charging_station",
+      "lat": 46.899025,
+      "lon": 8.2505,
+      "operator": "GOFAST",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Swisscharge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Apple Pay",
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1432134686",
+      "name": "Migros Sarnen-Center",
+      "type": "charging_station",
+      "lat": 46.896896,
+      "lon": 8.250071,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 4
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "M-Charge",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00",
+        "payment_methods": [
+          "American Express",
+          "Credit Cards",
+          "Diners Club",
+          "Mastercard",
+          "Postfinance Card",
+          "Twint",
+          "Visa"
+        ],
+        "authentication": "none",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1390205669",
+      "name": "MOVE Gotthard Süd",
+      "type": "charging_station",
+      "lat": 46.846444,
+      "lon": 8.632315,
+      "operator": "MOVE",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "MOVE",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none"
+      }
+    },
+    {
+      "id": "osm-1390206851",
+      "name": "MOVE Gotthard Nord",
+      "type": "charging_station",
+      "lat": 46.848,
+      "lon": 8.633191,
+      "operator": "MOVE",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "MOVE",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-1422614395",
+      "name": "greenmotion",
+      "type": "charging_station",
+      "lat": 46.006977,
+      "lon": 8.96244,
+      "operator": "Green Motion",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Green Motion",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467754874",
+      "name": "Airolo Supercharger",
+      "type": "charging_station",
+      "lat": 46.523937,
+      "lon": 8.601579,
+      "operator": "Tesla",
+      "address": {
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1484125106",
+      "name": "Ladestation Migrol",
+      "type": "charging_station",
+      "lat": 46.16331,
+      "lon": 8.774371,
+      "operator": "Migrol",
+      "address": {
+        "country": "CH"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Migrol",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1484720802",
+      "name": "Cadenazzo Supercharger",
+      "type": "charging_station",
+      "lat": 46.152066,
+      "lon": 8.937301,
+      "operator": "Tesla",
+      "address": {
+        "street": "Via Stazione 10",
+        "postcode": "6593",
+        "city": "Cadenazzo",
+        "country": "CH"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 4
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 250.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

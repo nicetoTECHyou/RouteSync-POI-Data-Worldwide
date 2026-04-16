@@ -1,0 +1,120 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 50,
+    "lon": 15,
+    "bounds": {
+      "south": 50,
+      "north": 51,
+      "west": 15,
+      "east": 16
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 4,
+  "pois": [
+    {
+      "id": "osm-1092006925",
+      "name": "futurego",
+      "type": "charging_station",
+      "lat": 50.188793,
+      "lon": 15.805398,
+      "operator": "ČEZ",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "futurego",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1385081110",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.23717,
+      "lon": 15.793911,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1417049015",
+      "name": "IONITY Turnov",
+      "type": "charging_station",
+      "lat": 50.595596,
+      "lon": 15.131123,
+      "operator": "IONITY",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Ionity",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1443969982",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.431156,
+      "lon": 15.040056,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

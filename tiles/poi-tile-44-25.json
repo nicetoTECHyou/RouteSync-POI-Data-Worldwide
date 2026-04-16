@@ -1,0 +1,814 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 25,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 25,
+      "east": 26
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 24,
+  "pois": [
+    {
+      "id": "osm-7947306509",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.424316,
+      "lon": 25.998268,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8399353802",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.423593,
+      "lon": 25.997223,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8399353781",
+      "name": "E.ON Drive",
+      "type": "charging_station",
+      "lat": 44.435847,
+      "lon": 25.9769,
+      "operator": "E.ON",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "E.ON",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9657413230",
+      "name": "Ladestation Lidl",
+      "type": "charging_station",
+      "lat": 44.811147,
+      "lon": 25.078003,
+      "operator": "Lidl",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9836274615",
+      "name": "Renovatio e-charge",
+      "type": "charging_station",
+      "lat": 44.955954,
+      "lon": 25.992561,
+      "operator": "Renovatio e-charge",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9836363092",
+      "name": "Renovatio e-charge",
+      "type": "charging_station",
+      "lat": 44.963898,
+      "lon": 25.969804,
+      "operator": "Renovatio e-charge",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9836398172",
+      "name": "MOL - MOL Plugee",
+      "type": "charging_station",
+      "lat": 44.963896,
+      "lon": 25.973059,
+      "operator": "MOL",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "MOL Plugee",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10828205787",
+      "name": "Petrom",
+      "type": "charging_station",
+      "lat": 44.755087,
+      "lon": 25.08238,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10929003946",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 44.431252,
+      "lon": 25.993464,
+      "operator": "Enel X",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Enel X",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388747",
+      "name": "Ladestation Polyfazer",
+      "type": "charging_station",
+      "lat": 44.437812,
+      "lon": 25.962435,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 3
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Polyfazer",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388748",
+      "name": "Eldrive - Eldrive",
+      "type": "charging_station",
+      "lat": 44.438202,
+      "lon": 25.957624,
+      "operator": "Eldrive",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388753",
+      "name": "Polyfazer - Polyfazer",
+      "type": "charging_station",
+      "lat": 44.434474,
+      "lon": 25.95574,
+      "operator": "Polyfazer",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Polyfazer",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388754",
+      "name": "Lidl - Lidl",
+      "type": "charging_station",
+      "lat": 44.435971,
+      "lon": 25.956608,
+      "operator": "Lidl",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Lidl",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11700822979",
+      "name": "Hermes Flow - Hermes Flow",
+      "type": "charging_station",
+      "lat": 44.437832,
+      "lon": 25.957123,
+      "operator": "Hermes Flow",
+      "address": {},
+      "power": {
+        "max_kw": 90.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 90.0,
+            "count": 4
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Hermes Flow",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388755",
+      "name": "Ladestation Kaufland",
+      "type": "charging_station",
+      "lat": 44.433352,
+      "lon": 25.958415,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 4
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Kaufland",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388756",
+      "name": "Eldrive - Eldrive",
+      "type": "charging_station",
+      "lat": 44.436496,
+      "lon": 25.985132,
+      "operator": "Eldrive",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": "Mo-Sa 06:00-21:00; Su 08:00-16:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 06:00-21:00; Su 08:00-16:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388757",
+      "name": "Eldrive - Eldrive",
+      "type": "charging_station",
+      "lat": 44.435057,
+      "lon": 25.988218,
+      "operator": "Eldrive",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388758",
+      "name": "Lidl - Lidl",
+      "type": "charging_station",
+      "lat": 44.434662,
+      "lon": 25.992164,
+      "operator": "Lidl",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Lidl",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388759",
+      "name": "MOL - MOL",
+      "type": "charging_station",
+      "lat": 44.434432,
+      "lon": 25.986614,
+      "operator": "MOL",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "MOL",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10929388760",
+      "name": "Ladestation Moon",
+      "type": "charging_station",
+      "lat": 44.434597,
+      "lon": 25.985138,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 25.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 3
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 25.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Moon",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11110031203",
+      "name": "Ladestation BRD",
+      "type": "charging_station",
+      "lat": 44.929111,
+      "lon": 25.461239,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "BRD",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11110079782",
+      "name": "Ladestation penny",
+      "type": "charging_station",
+      "lat": 44.925606,
+      "lon": 25.462474,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "penny",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12281829279",
+      "name": "Kaufland",
+      "type": "charging_station",
+      "lat": 44.441199,
+      "lon": 25.987816,
+      "operator": "Kaufland Romania",
+      "address": {
+        "street": "Drumul Ciorogârla 223-233",
+        "postcode": "062397",
+        "city": "București",
+        "country": "RO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Kaufland",
+        "network": "",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa 09:00-13:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1418594425",
+      "name": "Ladestation Petrom",
+      "type": "charging_station",
+      "lat": 44.204244,
+      "lon": 25.791933,
+      "operator": "Petrom",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

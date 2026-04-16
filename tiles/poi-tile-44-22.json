@@ -1,0 +1,145 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 22,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 22,
+      "east": 23
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-7470184908",
+      "name": "charging station",
+      "type": "charging_station",
+      "lat": 44.623412,
+      "lon": 22.653006,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11353601357",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 44.638505,
+      "lon": 22.633828,
+      "operator": "Enel X",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Enel X",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12146078964",
+      "name": "Ladestation Primăria Ponoarele",
+      "type": "charging_station",
+      "lat": 44.974659,
+      "lon": 22.762473,
+      "operator": "Primăria Ponoarele",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12172074772",
+      "name": "Fines - Petrol Vidin",
+      "type": "charging_station",
+      "lat": 44.020418,
+      "lon": 22.939359,
+      "operator": "Fines Charging",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13391772696",
+      "name": "Eldrive - Retail Park Vidin",
+      "type": "charging_station",
+      "lat": 44.000807,
+      "lon": 22.868983,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": "Mo-Su 09:00-20:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 09:00-20:00",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

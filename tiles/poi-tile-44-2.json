@@ -1,0 +1,130 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 2,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 2,
+      "east": 3
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-1420980993",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.556531,
+      "lon": 2.265005,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1420981037",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.556483,
+      "lon": 2.256837,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1447153053",
+      "name": "Superchargeur Figeac",
+      "type": "charging_station",
+      "lat": 44.594774,
+      "lon": 2.06147,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Tesla Supercharger",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1454981924",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.292954,
+      "lon": 2.56046,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1469802010",
+      "name": "Ladestation Révéo",
+      "type": "charging_station",
+      "lat": 44.357123,
+      "lon": 2.578047,
+      "operator": "Révéo",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Révéo",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

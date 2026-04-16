@@ -1,0 +1,117 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 45,
+    "lon": 41,
+    "bounds": {
+      "south": 45,
+      "north": 46,
+      "west": 41,
+      "east": 42
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-11799194872",
+      "name": "Electrofast",
+      "type": "charging_station",
+      "lat": 45.050776,
+      "lon": 41.986036,
+      "operator": "ChargeNet",
+      "address": {
+        "street": "Казачья улица 30"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Electrofast",
+        "network": "ChargeNet",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12253497278",
+      "name": "Ставропольэнергосбыт - СтавЭС",
+      "type": "charging_station",
+      "lat": 45.046399,
+      "lon": 41.968688,
+      "operator": "Ставропольэнергосбыт",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "СтавЭС",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cash",
+          "Credit Cards",
+          "Debit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13399196619",
+      "name": "Ставропольэнергосбыт - Электро Порт",
+      "type": "charging_station",
+      "lat": 45.019168,
+      "lon": 41.933642,
+      "operator": "Ставропольэнергосбыт",
+      "address": {
+        "street": "Шпаковская улица 80"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Электро Порт",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    }
+  ]
+}

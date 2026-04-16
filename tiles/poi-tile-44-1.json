@@ -1,0 +1,158 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 44,
+    "lon": 1,
+    "bounds": {
+      "south": 44,
+      "north": 45,
+      "west": 1,
+      "east": 2
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-302556808",
+      "name": "Le Pech de Vigne",
+      "type": "charging_station",
+      "lat": 44.790983,
+      "lon": 1.790636,
+      "operator": "Pascal GUÉNOT",
+      "address": {
+        "street": "Route du Mas Del Pech 530",
+        "postcode": "46500",
+        "city": "Bio"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1314948002",
+      "name": "Ladestation IECharge",
+      "type": "charging_station",
+      "lat": 44.26711,
+      "lon": 1.101936,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 320.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 320.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "IECharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless",
+          "Credit Cards"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1363300101",
+      "name": "Ladestation Electra",
+      "type": "charging_station",
+      "lat": 44.040647,
+      "lon": 1.005001,
+      "operator": "Electra",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 24
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1417847225",
+      "name": "Montauban Supercharger",
+      "type": "charging_station",
+      "lat": 44.004819,
+      "lon": 1.382685,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Tesla Supercharger",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-1476514709",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 44.791249,
+      "lon": 1.471733,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

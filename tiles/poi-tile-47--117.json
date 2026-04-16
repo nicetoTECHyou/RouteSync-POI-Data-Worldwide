@@ -1,0 +1,98 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 47,
+    "lon": -117,
+    "bounds": {
+      "south": 47,
+      "north": 48,
+      "west": -117,
+      "east": -116
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "nrel-35620",
+      "name": "Avista Corp",
+      "type": "charging_station",
+      "lat": 47.673347,
+      "lon": -117.388933,
+      "operator": "P",
+      "address": {
+        "street": "1411 E Mission Ave",
+        "city": "Spokane",
+        "state": "WA",
+        "postcode": "99252",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-35621",
+      "name": "Steam Plant Parking",
+      "type": "charging_station",
+      "lat": 47.655792,
+      "lon": -117.423664,
+      "operator": "P",
+      "address": {
+        "street": "130 S Post St",
+        "city": "Spokane",
+        "state": "WA",
+        "postcode": "99201",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

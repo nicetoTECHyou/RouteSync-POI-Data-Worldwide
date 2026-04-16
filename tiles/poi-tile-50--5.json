@@ -1,0 +1,817 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 50,
+    "lon": -5,
+    "bounds": {
+      "south": 50,
+      "north": 51,
+      "west": -5,
+      "east": -4
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 33,
+  "pois": [
+    {
+      "id": "osm-4818468765",
+      "name": "Tolvaddon Community Fire Station",
+      "type": "charging_station",
+      "lat": 50.229453,
+      "lon": -5.285412,
+      "operator": "SSE",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5446641799",
+      "name": "Ladestation GeniePoint",
+      "type": "charging_station",
+      "lat": 50.274251,
+      "lon": -5.032142,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-5563459193",
+      "name": "GeniePoint - GeniePoint",
+      "type": "charging_station",
+      "lat": 50.228053,
+      "lon": -5.276385,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "GeniePoint",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-9926471354",
+      "name": "Tesla Supercharger",
+      "type": "charging_station",
+      "lat": 50.227562,
+      "lon": -5.280078,
+      "operator": "Tesla",
+      "address": {
+        "street": "Trevenson Lane",
+        "postcode": "TR15 3GF",
+        "city": "Redruth",
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10042906383",
+      "name": "Osprey - Osprey",
+      "type": "charging_station",
+      "lat": 50.225788,
+      "lon": -5.279038,
+      "operator": "Osprey",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Osprey",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12992584687",
+      "name": "Ladestation InstaVolt",
+      "type": "charging_station",
+      "lat": 50.226102,
+      "lon": -5.276313,
+      "operator": "InstaVolt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6933082293",
+      "name": "Tesla Supercharger",
+      "type": "charging_station",
+      "lat": 50.147835,
+      "lon": -5.059828,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 22
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-10916032395",
+      "name": "Ladestation evolt",
+      "type": "charging_station",
+      "lat": 50.151301,
+      "lon": -5.063565,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "evolt",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10992354822",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.14911,
+      "lon": -5.063882,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9555066886",
+      "name": "E.ON - E.on",
+      "type": "charging_station",
+      "lat": 50.019585,
+      "lon": -5.250751,
+      "operator": "E.ON",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9816894418",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.041096,
+      "lon": -5.652354,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9877709517",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.120927,
+      "lon": -5.531549,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9982825917",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.255598,
+      "lon": -5.196406,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9982826017",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.318126,
+      "lon": -5.202626,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10650520783",
+      "name": "Pod Point - Pod Point",
+      "type": "charging_station",
+      "lat": 50.128825,
+      "lon": -5.518845,
+      "operator": "Pod Point",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Pod Point",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10916032394",
+      "name": "GeniePoint - GeniePoint",
+      "type": "charging_station",
+      "lat": 50.155476,
+      "lon": -5.074227,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "GeniePoint",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11034829370",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.148462,
+      "lon": -5.074111,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11049172476",
+      "name": "Tesla Destination Charger",
+      "type": "charging_station",
+      "lat": 50.411753,
+      "lon": -5.119142,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11074241605",
+      "name": "GeniePoint",
+      "type": "charging_station",
+      "lat": 50.229076,
+      "lon": -5.26079,
+      "operator": "GeniePoint",
+      "address": {
+        "street": "Agar Road",
+        "postcode": "TR15 3NH"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "GeniePoint",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-11638957179",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.411807,
+      "lon": -5.072027,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11717200851",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.198223,
+      "lon": -5.474004,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12090382339",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.17129,
+      "lon": -5.443578,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12299689820",
+      "name": "Ladestation PodPoint",
+      "type": "charging_station",
+      "lat": 50.091977,
+      "lon": -5.318823,
+      "operator": "PodPoint",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1329406653",
+      "name": "InstaVolt - Instavolt",
+      "type": "charging_station",
+      "lat": 50.091502,
+      "lon": -5.318487,
+      "operator": "InstaVolt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Instavolt",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12372554165",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.412487,
+      "lon": -5.087298,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12372554168",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.411373,
+      "lon": -5.084763,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12395726655",
+      "name": "Pod Point - PodPoint Charging Station",
+      "type": "charging_station",
+      "lat": 50.540524,
+      "lon": -5.010078,
+      "operator": "Pod Point",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "PodPoint Charging Station",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12395726656",
+      "name": "Tesla Destination Charger",
+      "type": "charging_station",
+      "lat": 50.529458,
+      "lon": -5.013639,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Tesla, Inc.",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12395726657",
+      "name": "PoGo - PoGo charge Charging Station",
+      "type": "charging_station",
+      "lat": 50.508601,
+      "lon": -5.021163,
+      "operator": "PoGo",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "PoGo charge Charging Station",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12699918593",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 50.336888,
+      "lon": -5.168294,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12856110027",
+      "name": "Ladestation EVBox",
+      "type": "charging_station",
+      "lat": 50.234883,
+      "lon": -5.230101,
+      "operator": "EVBox",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12959391595",
+      "name": "Osprey - Osprey",
+      "type": "charging_station",
+      "lat": 50.065515,
+      "lon": -5.712557,
+      "operator": "Osprey",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Osprey",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13195659484",
+      "name": "Headland Hotel - ICS",
+      "type": "charging_station",
+      "lat": 50.420763,
+      "lon": -5.096691,
+      "operator": "Headland Hotel",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "ICS",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "parking_fee": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 43,
+    "lon": 23,
+    "bounds": {
+      "south": 43,
+      "north": 44,
+      "west": 23,
+      "east": 24
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 14,
+  "pois": [
+    {
+      "id": "osm-11669382513",
+      "name": "Eldrive - Happy House Montana",
+      "type": "charging_station",
+      "lat": 43.421987,
+      "lon": 23.225012,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13675586762",
+      "name": "Electrip - Hotel Valor Montana",
+      "type": "charging_station",
+      "lat": 43.418134,
+      "lon": 23.22245,
+      "operator": "Electrip",
+      "address": {
+        "city": "Монтана"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Electrip",
+        "network": "Electrip",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12169598854",
+      "name": "Fines - Kozloduy",
+      "type": "charging_station",
+      "lat": 43.758943,
+      "lon": 23.74338,
+      "operator": "Fines Charging",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12169944063",
+      "name": "Fines - ZAI Berkovitsa",
+      "type": "charging_station",
+      "lat": 43.243144,
+      "lon": 23.142852,
+      "operator": "Fines Charging",
+      "address": {},
+      "power": {
+        "max_kw": 240.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 240.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12174414939",
+      "name": "Fines - Hotel Chaika",
+      "type": "charging_station",
+      "lat": 43.191247,
+      "lon": 23.537212,
+      "operator": "Финес Енерджи ООД",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12180052962",
+      "name": "Fines - Rompetrol Vratsa",
+      "type": "charging_station",
+      "lat": 43.174145,
+      "lon": 23.610224,
+      "operator": "Финес Енерджи ООД",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13362780743",
+      "name": "Fines - Medicus Varshets",
+      "type": "charging_station",
+      "lat": 43.190829,
+      "lon": 23.284289,
+      "operator": "Fines Charging",
+      "address": {
+        "street": "Република 87",
+        "postcode": "3540",
+        "city": "Вършец",
+        "country": "BG"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13391797886",
+      "name": "Eldrive - Billa SM Montana Center",
+      "type": "charging_station",
+      "lat": 43.409668,
+      "lon": 23.226777,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": "Mo-Su 07:30-22:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 07:30-22:00",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13391797887",
+      "name": "Eldrive - Technopolis Montana",
+      "type": "charging_station",
+      "lat": 43.422197,
+      "lon": 23.228461,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13391812068",
+      "name": "Eldrive - Billa SM Vratsa center",
+      "type": "charging_station",
+      "lat": 43.2048,
+      "lon": 23.555738,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 200.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 200.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": "Mo-Su 07:30-22:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 07:30-22:00",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13391812069",
+      "name": "Eldrive - Billa SM Vratsa north",
+      "type": "charging_station",
+      "lat": 43.223102,
+      "lon": 23.543723,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": "Mo-Su 07:30-22:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 07:30-22:00",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13402026571",
+      "name": "Electrip - Restaurant Peshterata",
+      "type": "charging_station",
+      "lat": 43.088245,
+      "lon": 23.383752,
+      "operator": "Electrip",
+      "address": {},
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Electrip",
+        "network": "Electrip",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13675586761",
+      "name": "Electrip - Hotel Ring",
+      "type": "charging_station",
+      "lat": 43.389121,
+      "lon": 23.216667,
+      "operator": "Electrip",
+      "address": {
+        "city": "Монтана"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Electrip",
+        "network": "Electrip",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1495653331",
+      "name": "Tata Si Fii - Ihunt",
+      "type": "charging_station",
+      "lat": 43.786065,
+      "lon": 23.954281,
+      "operator": "Tata Si Fii",
+      "address": {},
+      "power": {
+        "capacity": 22
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Ihunt",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ]
+      }
+    }
+  ]
+}

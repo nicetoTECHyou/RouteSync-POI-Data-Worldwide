@@ -1,0 +1,234 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 48,
+    "lon": 21,
+    "bounds": {
+      "south": 48,
+      "north": 49,
+      "west": 21,
+      "east": 22
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 6,
+  "pois": [
+    {
+      "id": "osm-1458369381",
+      "name": "GreenWay - GreenWay",
+      "type": "charging_station",
+      "lat": 48.745019,
+      "lon": 21.917421,
+      "operator": "GreenWay",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "GreenWay",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1489465442",
+      "name": "ejoin",
+      "type": "charging_station",
+      "lat": 48.694919,
+      "lon": 21.235573,
+      "operator": "ejoin",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ejoin",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1459927403",
+      "name": "GreenWay - GreenWay",
+      "type": "charging_station",
+      "lat": 48.741055,
+      "lon": 21.264598,
+      "operator": "GreenWay",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "GreenWay",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1459928819",
+      "name": "GreenWay - GreenWay",
+      "type": "charging_station",
+      "lat": 48.430847,
+      "lon": 21.979399,
+      "operator": "GreenWay",
+      "address": {},
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "GreenWay",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1460037396",
+      "name": "Ladestation GreenWay",
+      "type": "charging_station",
+      "lat": 48.985391,
+      "lon": 21.253301,
+      "operator": "GreenWay",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 62.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 13
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1462363847",
+      "name": "TEA.",
+      "type": "charging_station",
+      "lat": 48.413593,
+      "lon": 21.645965,
+      "operator": "TEA Mobilitás Kft.",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "TEA.",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    }
+  ]
+}

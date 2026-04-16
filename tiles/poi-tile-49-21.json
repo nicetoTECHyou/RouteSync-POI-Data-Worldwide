@@ -1,0 +1,164 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 49,
+    "lon": 21,
+    "bounds": {
+      "south": 49,
+      "north": 50,
+      "west": 21,
+      "east": 22
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 6,
+  "pois": [
+    {
+      "id": "osm-1414892413",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 49.907351,
+      "lon": 21.058523,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1424427647",
+      "name": "Ladestation econec",
+      "type": "charging_station",
+      "lat": 49.117771,
+      "lon": 21.105488,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "econec",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1432063131",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 49.753024,
+      "lon": 21.484902,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1458496705",
+      "name": "GreenWay - GreenWay",
+      "type": "charging_station",
+      "lat": 49.040804,
+      "lon": 21.213302,
+      "operator": "GreenWay",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "GreenWay",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467036263",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 49.892813,
+      "lon": 21.053818,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1489541759",
+      "name": "Ladestation Biedronka",
+      "type": "charging_station",
+      "lat": 49.689759,
+      "lon": 21.765438,
+      "operator": "Biedronka",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

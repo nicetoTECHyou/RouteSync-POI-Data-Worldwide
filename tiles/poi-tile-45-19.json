@@ -1,0 +1,506 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 45,
+    "lon": 19,
+    "bounds": {
+      "south": 45,
+      "north": 46,
+      "west": 19,
+      "east": 20
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 18,
+  "pois": [
+    {
+      "id": "osm-5304717494",
+      "name": "Ladestation ProCredit",
+      "type": "charging_station",
+      "lat": 45.244752,
+      "lon": 19.845665,
+      "operator": "ProCredit",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8821069016",
+      "name": "Charge&GO - TC Promenada Novi Sad",
+      "type": "charging_station",
+      "lat": 45.245712,
+      "lon": 19.843016,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 5
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "charge&GO",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-13534169497",
+      "name": "Ladestation Факултет техничких наука",
+      "type": "charging_station",
+      "lat": 45.245458,
+      "lon": 19.850326,
+      "operator": "Факултет техничких наука",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-5793648253",
+      "name": "Ladestation putevi srbije",
+      "type": "charging_station",
+      "lat": 45.048137,
+      "lon": 19.193213,
+      "operator": "putevi srbije",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8228565597",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.243075,
+      "lon": 19.841009,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8813926899",
+      "name": "Charge&GO - BS Gazprom Novi Sad 16",
+      "type": "charging_station",
+      "lat": 45.275753,
+      "lon": 19.922139,
+      "operator": "Газпром",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "charge&GO",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-10961949709",
+      "name": "Lidl - Lidl",
+      "type": "charging_station",
+      "lat": 45.236602,
+      "lon": 19.826422,
+      "operator": "Lidl",
+      "address": {},
+      "power": {
+        "max_kw": 20.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 20.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 20.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Lidl",
+        "network": "",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "authentication": "none",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11608859730",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.157251,
+      "lon": 19.77984,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12142021235",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.264937,
+      "lon": 19.830178,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12206033248",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.135631,
+      "lon": 19.677875,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12206033249",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.15647,
+      "lon": 19.749597,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12760859109",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.151785,
+      "lon": 19.839543,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12787761148",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.000623,
+      "lon": 19.820249,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "08:00-23:00"
+      },
+      "amenities": {
+        "opening_hours": "08:00-23:00",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12806234883",
+      "name": "Ladestation orion mobility",
+      "type": "charging_station",
+      "lat": 45.013177,
+      "lon": 19.442199,
+      "operator": "orion mobility",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13112907337",
+      "name": "Qelo StopShop Vukovar",
+      "type": "charging_station",
+      "lat": 45.33956,
+      "lon": 19.022777,
+      "operator": "Qelo",
+      "address": {},
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Qelo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-13247957032",
+      "name": "Virta global 180KW EV charging station",
+      "type": "charging_station",
+      "lat": 45.035573,
+      "lon": 19.449735,
+      "operator": "Unbekannt",
+      "address": {
+        "street": "Autoput Šid - Beograd, Sremska Mitrovica"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-13317124914",
+      "name": "Ladestation Charge&Go",
+      "type": "charging_station",
+      "lat": 45.277249,
+      "lon": 19.825709,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Charge&Go",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1484707444",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 45.764332,
+      "lon": 19.125167,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

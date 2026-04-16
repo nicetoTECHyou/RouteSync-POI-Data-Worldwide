@@ -1,0 +1,638 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 43,
+    "lon": 22,
+    "bounds": {
+      "south": 43,
+      "north": 44,
+      "west": 22,
+      "east": 23
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 18,
+  "pois": [
+    {
+      "id": "osm-5793659152",
+      "name": "Ladestation putevi srbije",
+      "type": "charging_station",
+      "lat": 43.022341,
+      "lon": 22.735101,
+      "operator": "putevi srbije",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9249259411",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.133663,
+      "lon": 22.607317,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9683482215",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.012408,
+      "lon": 22.777123,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11159497626",
+      "name": "Charge&GO - Stop Shop Zaječar",
+      "type": "charging_station",
+      "lat": 43.903143,
+      "lon": 22.268316,
+      "operator": "Charge&Go",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Charge&Go",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12141883774",
+      "name": "Fines - Elit Vidin",
+      "type": "charging_station",
+      "lat": 43.985713,
+      "lon": 22.829275,
+      "operator": "Финес Енерджи ООД",
+      "address": {
+        "postcode": "3725",
+        "city": "Видин",
+        "country": "BG"
+      },
+      "power": {
+        "max_kw": 480.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 480.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "FINES Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12744335444",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.157956,
+      "lon": 22.580963,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-13097814927",
+      "name": "Fines - Vidin Impulse Hotel & Spa",
+      "type": "charging_station",
+      "lat": 43.983926,
+      "lon": 22.869925,
+      "operator": "Финес Енерджи ООД",
+      "address": {
+        "postcode": "3700",
+        "city": "Видин",
+        "country": "BG"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "FINES Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13586931036",
+      "name": "Fines - T Market Vidin",
+      "type": "charging_station",
+      "lat": 43.98428,
+      "lon": 22.872724,
+      "operator": "Fines Charging",
+      "address": {
+        "street": "Железничарска 20",
+        "postcode": "3700",
+        "city": "Видин"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "Fines Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13097830400",
+      "name": "Fines - Vidin",
+      "type": "charging_station",
+      "lat": 43.975676,
+      "lon": 22.869736,
+      "operator": "FINES Charging",
+      "address": {
+        "street": "Бул. Панония",
+        "postcode": "3704",
+        "city": "Видин",
+        "country": "BG"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "FINES Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13313453050",
+      "name": "Ladestation Charge&GO",
+      "type": "charging_station",
+      "lat": 43.220108,
+      "lon": 22.306116,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Charge&GO",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13317235499",
+      "name": "Ladestation Charge&Go",
+      "type": "charging_station",
+      "lat": 43.000276,
+      "lon": 22.819403,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Charge&Go",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13320386075",
+      "name": "Ladestation Charge&Go",
+      "type": "charging_station",
+      "lat": 43.910349,
+      "lon": 22.260259,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 45.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 45.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Charge&Go",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13330262401",
+      "name": "Ladestation Electrocharge",
+      "type": "charging_station",
+      "lat": 43.623841,
+      "lon": 22.676841,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Electrocharge",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13362764397",
+      "name": "Fines - Han Madonna",
+      "type": "charging_station",
+      "lat": 43.597627,
+      "lon": 22.779848,
+      "operator": "FINES Charging",
+      "address": {
+        "postcode": "3949",
+        "city": "Яньовец",
+        "country": "BG"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Fines Charging",
+        "network": "FINES Charging",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13391772695",
+      "name": "Eldrive - Billa SM Vidin",
+      "type": "charging_station",
+      "lat": 43.989586,
+      "lon": 22.877744,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13622746585",
+      "name": "Orion - JP Putevi Srbije",
+      "type": "charging_station",
+      "lat": 43.251531,
+      "lon": 22.169475,
+      "operator": "Putevi Srbije",
+      "address": {},
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Orion",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13622746586",
+      "name": "Orion - JP Putevi Srbije",
+      "type": "charging_station",
+      "lat": 43.253653,
+      "lon": 22.166381,
+      "operator": "Putevi Srbije",
+      "address": {},
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Orion",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1460161720",
+      "name": "Eldrive - JOY Retail Park Calafat",
+      "type": "charging_station",
+      "lat": 43.994221,
+      "lon": 22.94777,
+      "operator": "Eldrive",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Eldrive",
+        "network": "Eldrive",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}
