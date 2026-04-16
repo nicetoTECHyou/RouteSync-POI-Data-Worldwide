@@ -1,0 +1,3542 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 52,
+    "lon": -7,
+    "bounds": {
+      "south": 52,
+      "north": 53,
+      "west": -7,
+      "east": -6
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 103,
+  "pois": [
+    {
+      "id": "osm-563211462",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.163684,
+      "lon": -7.159693,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1884491293",
+      "name": "ESB Electric Vehicle Fast Charge Point",
+      "type": "charging_station",
+      "lat": 52.655208,
+      "lon": -7.259953,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10111029673",
+      "name": "Ladestation EVBox",
+      "type": "charging_station",
+      "lat": 52.656824,
+      "lon": -7.254251,
+      "operator": "EVBox",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10994837677",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.655362,
+      "lon": -7.258112,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11001736756",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.653907,
+      "lon": -7.251905,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "EasyGo",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1891801010",
+      "name": "ESB Electric Vehicle Fast Charge Point",
+      "type": "charging_station",
+      "lat": 52.258796,
+      "lon": -7.10558,
+      "operator": "ESB Group",
+      "address": {
+        "street": "Bolton Street",
+        "city": "Waterford"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1902399869",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.655595,
+      "lon": -7.247028,
+      "operator": "ESB Group",
+      "address": {
+        "street": "John's Green"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-2262622366",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.654016,
+      "lon": -7.24391,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-3798175284",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.652863,
+      "lon": -7.248247,
+      "operator": "ESB ecars",
+      "address": {
+        "street": "John Street Lower",
+        "city": "Kilkenny"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9053046251",
+      "name": "EO Charging Stations",
+      "type": "charging_station",
+      "lat": 52.655011,
+      "lon": -7.242989,
+      "operator": "MacDonagh Junction",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12451071288",
+      "name": "ESB Group - ecars",
+      "type": "charging_station",
+      "lat": 52.657266,
+      "lon": -7.246866,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12912556566",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.654494,
+      "lon": -7.2488,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-2121781990",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.649925,
+      "lon": -7.257434,
+      "operator": "ESB Group",
+      "address": {
+        "street": "Haughney Green",
+        "city": "Kilkenny"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-2314277975",
+      "name": "Ladestation ESB ecars",
+      "type": "charging_station",
+      "lat": 52.163964,
+      "lon": -7.14705,
+      "operator": "ESB ecars",
+      "address": {
+        "city": "Tramore"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-2906412700",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.159408,
+      "lon": -7.141876,
+      "operator": "ESB ecars",
+      "address": {
+        "street": "The Promenade",
+        "city": "Tramore"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11112666494",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.160777,
+      "lon": -7.149733,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-3960540422",
+      "name": "ESB Electric Vehicle Fast Charge Point",
+      "type": "charging_station",
+      "lat": 52.946654,
+      "lon": -7.796493,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6360202808",
+      "name": "ESB Electric Vehicle Fast Charge Point",
+      "type": "charging_station",
+      "lat": 52.509412,
+      "lon": -7.873417,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Account Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6374629066",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.258763,
+      "lon": -7.108727,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7537707579",
+      "name": "ESB Electric Vehicle Fast Charge Point",
+      "type": "charging_station",
+      "lat": 52.259951,
+      "lon": -7.117357,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6895831662",
+      "name": "Nissan Fast Charger",
+      "type": "charging_station",
+      "lat": 52.648995,
+      "lon": -7.22468,
+      "operator": "Barlo Nissan",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8831419447",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.648294,
+      "lon": -7.219988,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7018033678",
+      "name": "SuperValu Carpark",
+      "type": "charging_station",
+      "lat": 52.95684,
+      "lon": -7.801254,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7096630327",
+      "name": "Ionity",
+      "type": "charging_station",
+      "lat": 52.508734,
+      "lon": -7.874485,
+      "operator": "IONITY",
+      "address": {
+        "city": "Cashel"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Account Cards"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7191942590",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.246709,
+      "lon": -7.136081,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9764085428",
+      "name": "YoreOn - YoreOn",
+      "type": "charging_station",
+      "lat": 52.526434,
+      "lon": -7.134854,
+      "operator": "YoreOn",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "YoreOn",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Bancontact",
+          "Ideal",
+          "Mastercard",
+          "Sofort",
+          "Visa",
+          "Yoreon App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11003021051",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.526359,
+      "lon": -7.135655,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "American Express",
+          "Apple Pay",
+          "Google Pay",
+          "Mastercard",
+          "Visa Electron"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7537707577",
+      "name": "Audi Fast Charge Point",
+      "type": "charging_station",
+      "lat": 52.24119,
+      "lon": -7.168581,
+      "operator": "Audi Waterford",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7537707578",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.26591,
+      "lon": -7.116706,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7537707580",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.255906,
+      "lon": -7.110999,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8499479538",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.253543,
+      "lon": -7.11179,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7537707581",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.091046,
+      "lon": -7.619941,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8437358817",
+      "name": "ESB Electric Vehicle Fast Charge Point",
+      "type": "charging_station",
+      "lat": 52.088297,
+      "lon": -7.620026,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11357928312",
+      "name": "Ladestation EasyGo",
+      "type": "charging_station",
+      "lat": 52.088936,
+      "lon": -7.616792,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7537707582",
+      "name": "Nissan Fast Charger",
+      "type": "charging_station",
+      "lat": 52.084028,
+      "lon": -7.634006,
+      "operator": "Dungarvan Nissan",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7740522791",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.675615,
+      "lon": -7.821717,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Account"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11144502319",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.678007,
+      "lon": -7.812023,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7740534319",
+      "name": "ESB Electric Vehicle Fast Charge Point",
+      "type": "charging_station",
+      "lat": 52.719297,
+      "lon": -7.586134,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7814874544",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.355748,
+      "lon": -7.700537,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11250860949",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.355397,
+      "lon": -7.693157,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 63.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8208829741",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.236841,
+      "lon": -7.139344,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8270581068",
+      "name": "GOcharge Charging Station",
+      "type": "charging_station",
+      "lat": 52.592379,
+      "lon": -7.183265,
+      "operator": "Go Platform Limited",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "GOcharge",
+        "network": "GOcharge",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8437358818",
+      "name": "ESB Electric Vehicle Fast Charge Point",
+      "type": "charging_station",
+      "lat": 52.353091,
+      "lon": -7.706791,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 44.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 6.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 44.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 44.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8597974591",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.35322,
+      "lon": -7.703456,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8506566869",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.345584,
+      "lon": -7.413672,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8506566870",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.348637,
+      "lon": -7.410015,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11619493282",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.347309,
+      "lon": -7.410926,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8520196557",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.542456,
+      "lon": -7.392168,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9909850381",
+      "name": "Ladestation EVBoxCarge",
+      "type": "charging_station",
+      "lat": 52.542687,
+      "lon": -7.389478,
+      "operator": "EVBoxCarge",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9937202832",
+      "name": "YoreOn - YoreOn",
+      "type": "charging_station",
+      "lat": 52.545532,
+      "lon": -7.388935,
+      "operator": "YoreOn",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "YoreOn",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Bancontact",
+          "Ideal",
+          "Mastercard",
+          "Sofort",
+          "Visa",
+          "Yoreon App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8597974590",
+      "name": "ESB Electric Vehicle Charge Point",
+      "type": "charging_station",
+      "lat": 52.913059,
+      "lon": -7.346653,
+      "operator": "ESB ecars",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8639720993",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.355924,
+      "lon": -7.738441,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 24.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 24.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 24.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8653353403",
+      "name": "ePower Charging Station",
+      "type": "charging_station",
+      "lat": 52.638484,
+      "lon": -7.267358,
+      "operator": "ePower",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "ePower",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12145135313",
+      "name": "Ladestation Solutions EV",
+      "type": "charging_station",
+      "lat": 52.639815,
+      "lon": -7.271104,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "Solutions EV",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12320366951",
+      "name": "Ladestation Solutions EV",
+      "type": "charging_station",
+      "lat": 52.640422,
+      "lon": -7.270962,
+      "operator": "Solutions EV",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8946441853",
+      "name": "ABL Charging Station",
+      "type": "charging_station",
+      "lat": 52.257253,
+      "lon": -7.023776,
+      "operator": "Faithlegg House",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9008087430",
+      "name": "GOcharge Charging Station",
+      "type": "charging_station",
+      "lat": 52.660442,
+      "lon": -7.240059,
+      "operator": "Go Platform Limited",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "GOcharge",
+        "network": "GOcharge",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9008430517",
+      "name": "EV Charging Station",
+      "type": "charging_station",
+      "lat": 52.642863,
+      "lon": -7.261891,
+      "operator": "Hotel Kilkenny",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 3
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9023042061",
+      "name": "EasyGo Charging Station",
+      "type": "charging_station",
+      "lat": 52.525833,
+      "lon": -7.189206,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-9842008256",
+      "name": "EasyGo Charging Station",
+      "type": "charging_station",
+      "lat": 52.526461,
+      "lon": -7.189383,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 75.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-9023045896",
+      "name": "EasyGo Charger",
+      "type": "charging_station",
+      "lat": 52.351826,
+      "lon": -7.331564,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9051010281",
+      "name": "EasyGo Charging Station",
+      "type": "charging_station",
+      "lat": 52.647441,
+      "lon": -7.195364,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 17.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 17.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9137355866",
+      "name": "ePower Charging Station",
+      "type": "charging_station",
+      "lat": 52.754815,
+      "lon": -7.96269,
+      "operator": "ePower",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9352028504",
+      "name": "GOcharge",
+      "type": "charging_station",
+      "lat": 52.659381,
+      "lon": -7.261101,
+      "operator": "Go Platform Limited",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "brand": "GOcharge",
+        "network": "GOcharge",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9513936851",
+      "name": "char.gy Charging Station",
+      "type": "charging_station",
+      "lat": 52.186157,
+      "lon": -7.079376,
+      "operator": "char.gy",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permit",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9513950982",
+      "name": "char.gy Charging Station",
+      "type": "charging_station",
+      "lat": 52.185625,
+      "lon": -7.077349,
+      "operator": "char.gy",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permit",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9514002299",
+      "name": "EV Charging Point",
+      "type": "charging_station",
+      "lat": 52.168223,
+      "lon": -7.136402,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9563239102",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.360422,
+      "lon": -7.648856,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9789741823",
+      "name": "EVBox Charging Station",
+      "type": "charging_station",
+      "lat": 52.25177,
+      "lon": -7.180153,
+      "operator": "EVBox",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9789743126",
+      "name": "EVBox Charging Station",
+      "type": "charging_station",
+      "lat": 52.248314,
+      "lon": -7.148666,
+      "operator": "EVBox",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9835241984",
+      "name": "GOcharge Charging Station",
+      "type": "charging_station",
+      "lat": 52.958501,
+      "lon": -7.759966,
+      "operator": "Go Platform Limited",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "GOcharge",
+        "network": "GOcharge",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10108554491",
+      "name": "Ladestation EVBox",
+      "type": "charging_station",
+      "lat": 52.637774,
+      "lon": -7.235569,
+      "operator": "EVBox",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10108614968",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.635839,
+      "lon": -7.234615,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10108672498",
+      "name": "EO - EO Charging",
+      "type": "charging_station",
+      "lat": 52.636251,
+      "lon": -7.237697,
+      "operator": "EO",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "EO Charging",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11811546723",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.635789,
+      "lon": -7.239188,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10108707112",
+      "name": "Ladestation EVBox",
+      "type": "charging_station",
+      "lat": 52.635104,
+      "lon": -7.248628,
+      "operator": "EVBox",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11281891206",
+      "name": "ESB Electric Vehicle High Power Charge Point",
+      "type": "charging_station",
+      "lat": 52.635355,
+      "lon": -7.244173,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10548993906",
+      "name": "Zappi - Zappi",
+      "type": "charging_station",
+      "lat": 52.643759,
+      "lon": -7.262456,
+      "operator": "Zappi",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Zappi",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11007152802",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.541558,
+      "lon": -7.391629,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "American Express",
+          "Apple Pay",
+          "Contactless",
+          "Google Pay",
+          "Mastercard",
+          "Visa"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11108743076",
+      "name": "Applegreen Electric - Applegreen Electric",
+      "type": "charging_station",
+      "lat": 52.163251,
+      "lon": -7.526115,
+      "operator": "Applegreen Electric",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Applegreen Electric",
+        "network": "Applegreen Electric",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11112665690",
+      "name": "Lidl Electric Vehicle Rapid Charger",
+      "type": "charging_station",
+      "lat": 52.641292,
+      "lon": -7.246734,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Lidl",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11112665691",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.465583,
+      "lon": -7.699522,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11112665692",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.355427,
+      "lon": -7.707102,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11112666493",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.16115,
+      "lon": -7.152532,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11124516050",
+      "name": "ESB Inver Slieverue Junction, Rathpatrick",
+      "type": "charging_station",
+      "lat": 52.287583,
+      "lon": -7.061242,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 200.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 200.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 70.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "ESB ecars",
+        "network": "ESB",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11129049309",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.138195,
+      "lon": -7.932913,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11247758552",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.374087,
+      "lon": -7.926062,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "EasyGo",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11357928311",
+      "name": "Ladestation EasyGo",
+      "type": "charging_station",
+      "lat": 52.094775,
+      "lon": -7.623098,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 24.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 24.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 24.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11535043826",
+      "name": "Ladestation Hotel Minella",
+      "type": "charging_station",
+      "lat": 52.353217,
+      "lon": -7.683584,
+      "operator": "Hotel Minella",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 3.7,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 3.7,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11619495560",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.516154,
+      "lon": -7.885905,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11619615727",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.796889,
+      "lon": -7.833235,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11619628211",
+      "name": "EasyGo Fast Charger",
+      "type": "charging_station",
+      "lat": 52.956548,
+      "lon": -7.797733,
+      "operator": "EasyGo",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11830348661",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.663929,
+      "lon": -7.233919,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12367645790",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.658442,
+      "lon": -7.231233,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13019828914",
+      "name": "Ladestation ePower",
+      "type": "charging_station",
+      "lat": 52.679136,
+      "lon": -7.796173,
+      "operator": "ePower",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13112830330",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.662863,
+      "lon": -7.270102,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-13112830332",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.663023,
+      "lon": -7.27033,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-13287283821",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.532594,
+      "lon": -7.138363,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1254607859",
+      "name": "ESB Group - ESB ecars",
+      "type": "charging_station",
+      "lat": 52.884106,
+      "lon": -7.944016,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 200.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 200.0,
+            "count": 8
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 70.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ESB ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1255387583",
+      "name": "Ballacolla Supercharger",
+      "type": "charging_station",
+      "lat": 52.866858,
+      "lon": -7.482195,
+      "operator": "Tesla",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 8
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1257124266",
+      "name": "ESB Group - ESB ecars",
+      "type": "charging_station",
+      "lat": 52.866738,
+      "lon": -7.481292,
+      "operator": "ESB Group",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 70.0,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ESB ecars",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1257522897",
+      "name": "Applegreen Electric - Applegreen Electric",
+      "type": "charging_station",
+      "lat": 52.679811,
+      "lon": -7.034794,
+      "operator": "Applegreen Electric",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 100.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Applegreen Electric",
+        "network": "Applegreen Electric",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1266907357",
+      "name": "Applegreen Electric",
+      "type": "charging_station",
+      "lat": 52.172474,
+      "lon": -7.140455,
+      "operator": "Applegreen Electric",
+      "address": {
+        "street": "Old Waterford Road",
+        "city": "Tramore"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Applegreen Electric",
+        "network": "Applegreen Electric",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

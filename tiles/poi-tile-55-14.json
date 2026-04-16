@@ -1,0 +1,88 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 55,
+    "lon": 14,
+    "bounds": {
+      "south": 55,
+      "north": 56,
+      "west": 14,
+      "east": 15
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-1182637128",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 55.097989,
+      "lon": 14.712017,
+      "operator": "Circle K",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1323355852",
+      "name": "Clever - Netto Rønne",
+      "type": "charging_station",
+      "lat": 55.092771,
+      "lon": 14.729762,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    }
+  ]
+}

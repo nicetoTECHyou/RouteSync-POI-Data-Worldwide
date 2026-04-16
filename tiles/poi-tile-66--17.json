@@ -1,0 +1,134 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 66,
+    "lon": -17,
+    "bounds": {
+      "south": 66,
+      "north": 67,
+      "west": -17,
+      "east": -16
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-6655870965",
+      "name": "Húsavík (Orkan)",
+      "type": "charging_station",
+      "lat": 66.048561,
+      "lon": -17.344364,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12691969939",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 66.046953,
+      "lon": -17.342054,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 160.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 160.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12691970132",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 66.046491,
+      "lon": -17.33791,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

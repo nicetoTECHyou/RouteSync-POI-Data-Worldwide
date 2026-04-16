@@ -1,0 +1,155 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 51,
+    "lon": 15,
+    "bounds": {
+      "south": 51,
+      "north": 52,
+      "west": 15,
+      "east": 16
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-810603470",
+      "name": "Ladestation Lidl",
+      "type": "charging_station",
+      "lat": 51.27351,
+      "lon": 15.94404,
+      "operator": "Lidl",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "unknown",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1346621050",
+      "name": "Powerdot",
+      "type": "charging_station",
+      "lat": 51.260245,
+      "lon": 15.591002,
+      "operator": "Powerdot",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1346925088",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.262551,
+      "lon": 15.575852,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1497377631",
+      "name": "Ladestation Lidl",
+      "type": "charging_station",
+      "lat": 51.26523,
+      "lon": 15.573773,
+      "operator": "Lidl",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1497692530",
+      "name": "Ladestation Kaufland",
+      "type": "charging_station",
+      "lat": 51.270291,
+      "lon": 15.566769,
+      "operator": "Kaufland",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

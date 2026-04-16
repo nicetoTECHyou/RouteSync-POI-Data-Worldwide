@@ -1,0 +1,859 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 61,
+    "lon": 7,
+    "bounds": {
+      "south": 61,
+      "north": 62,
+      "west": 7,
+      "east": 8
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 24,
+  "pois": [
+    {
+      "id": "osm-4504539589",
+      "name": "Joker Ljøsne",
+      "type": "charging_station",
+      "lat": 61.051962,
+      "lon": 7.580408,
+      "operator": "Lade i Norge",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5645111085",
+      "name": "Mer Amfi Sogningen",
+      "type": "charging_station",
+      "lat": 61.232087,
+      "lon": 7.104509,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12978155543",
+      "name": "Ladestation easypark",
+      "type": "charging_station",
+      "lat": 61.230949,
+      "lon": 7.103709,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "easypark",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5757276331",
+      "name": "Recharge Borgund Servicesenter",
+      "type": "charging_station",
+      "lat": 61.080145,
+      "lon": 7.84869,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5757276332",
+      "name": "Recharge Haabakken Kro",
+      "type": "charging_station",
+      "lat": 61.064681,
+      "lon": 7.510153,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11445920096",
+      "name": "Ionity Lærdal",
+      "type": "charging_station",
+      "lat": 61.064566,
+      "lon": 7.508514,
+      "operator": "IONITY",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 14
+          }
+        ],
+        "capacity": 14
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5757276334",
+      "name": "Recharge Øvre Årdal",
+      "type": "charging_station",
+      "lat": 61.30957,
+      "lon": 7.80705,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5757276349",
+      "name": "Recharge Årdalstangen",
+      "type": "charging_station",
+      "lat": 61.235053,
+      "lon": 7.701728,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5757276351",
+      "name": "Mer Gaupne",
+      "type": "charging_station",
+      "lat": 61.402812,
+      "lon": 7.294221,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6047204624",
+      "name": "Pyramiden senter, Øyagata",
+      "type": "charging_station",
+      "lat": 61.404132,
+      "lon": 7.296127,
+      "operator": "Pyramiden senter",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6047204629",
+      "name": "Mer Joker Hjelledalen",
+      "type": "charging_station",
+      "lat": 61.918688,
+      "lon": 7.169269,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6047204634",
+      "name": "Eviny Sogndal Sjøkanten",
+      "type": "charging_station",
+      "lat": 61.226457,
+      "lon": 7.101729,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 14
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 2
+          }
+        ],
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Eviny",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6695778867",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 61.211673,
+      "lon": 7.120772,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6828662123",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 61.808949,
+      "lon": 7.710581,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9165350392",
+      "name": "Ladestation BlueTec Vest",
+      "type": "charging_station",
+      "lat": 61.343062,
+      "lon": 7.878002,
+      "operator": "BlueTec Vest",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11096542812",
+      "name": "Ladestation Lyngmo Camping",
+      "type": "charging_station",
+      "lat": 61.307452,
+      "lon": 7.214676,
+      "operator": "Lyngmo Camping",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11105528463",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 61.301818,
+      "lon": 7.247109,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11169096667",
+      "name": "Eviny Esso Lærdal",
+      "type": "charging_station",
+      "lat": 61.098223,
+      "lon": 7.473702,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 6
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Eviny",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11172580151",
+      "name": "Recharge Shell Fortun",
+      "type": "charging_station",
+      "lat": 61.489234,
+      "lon": 7.680972,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 225.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 225.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11172580267",
+      "name": "Recharge Coop Extra Kaupanger",
+      "type": "charging_station",
+      "lat": 61.19245,
+      "lon": 7.220241,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11172580268",
+      "name": "Recharge Sogn Stormarked",
+      "type": "charging_station",
+      "lat": 61.193655,
+      "lon": 7.222997,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12824153369",
+      "name": "Kople Elvekroi Lærdal",
+      "type": "charging_station",
+      "lat": 61.045835,
+      "lon": 7.622088,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 200.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 200.0,
+            "count": 6
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Kople",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12914358709",
+      "name": "Tesla Hafslo Supercharger",
+      "type": "charging_station",
+      "lat": 61.302138,
+      "lon": 7.208422,
+      "operator": "Tesla",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13025363133",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 61.651458,
+      "lon": 7.276876,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

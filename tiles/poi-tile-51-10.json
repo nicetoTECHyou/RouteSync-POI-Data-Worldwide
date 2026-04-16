@@ -1,0 +1,8286 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 51,
+    "lon": 10,
+    "bounds": {
+      "south": 51,
+      "north": 52,
+      "west": 10,
+      "east": 11
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 305,
+  "pois": [
+    {
+      "id": "osm-732716151",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.486,
+      "lon": 10.7442,
+      "operator": "Unbekannt",
+      "address": {
+        "street": "Am Mühlweg 1",
+        "postcode": "99735"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00"
+      }
+    },
+    {
+      "id": "osm-11394799355",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 51.487304,
+      "lon": 10.744602,
+      "operator": "Circle K",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 9
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13522446720",
+      "name": "Werther Supercharger",
+      "type": "charging_station",
+      "lat": 51.486266,
+      "lon": 10.743307,
+      "operator": "Tesla",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-2130691336",
+      "name": "Ladestation Ammersche Landstraße",
+      "type": "charging_station",
+      "lat": 51.223088,
+      "lon": 10.454439,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "EnBW",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11964426714",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.218805,
+      "lon": 10.453104,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-2172275376",
+      "name": "Ladestation Stadtwerke Wernigerode",
+      "type": "charging_station",
+      "lat": 51.827731,
+      "lon": 10.760245,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-2172275383",
+      "name": "Stromladesäule der Stadtwerke Wernigerode für PKW",
+      "type": "charging_station",
+      "lat": 51.839604,
+      "lon": 10.782257,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-2617045947",
+      "name": "Ladestation Harz Energie",
+      "type": "charging_station",
+      "lat": 51.91024,
+      "lon": 10.425144,
+      "operator": "Harz Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5928695291",
+      "name": "Ladestation Allego",
+      "type": "charging_station",
+      "lat": 51.9473,
+      "lon": 10.140746,
+      "operator": "Allego",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-3206773403",
+      "name": "Ladestation eew",
+      "type": "charging_station",
+      "lat": 51.52325,
+      "lon": 10.311205,
+      "operator": "eew",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-3362935693",
+      "name": "Ladestation Stadtwerke Mühlhausen",
+      "type": "charging_station",
+      "lat": 51.212053,
+      "lon": 10.461518,
+      "operator": "Stadtwerke Mühlhausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5201487422",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.210558,
+      "lon": 10.464113,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-3446084760",
+      "name": "Ladestation enviaM",
+      "type": "charging_station",
+      "lat": 51.677574,
+      "lon": 10.966072,
+      "operator": "enviaM",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-3557793915",
+      "name": "e-Station",
+      "type": "charging_station",
+      "lat": 51.512233,
+      "lon": 10.242139,
+      "operator": "Autohaus Abicht",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5016120242",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.511836,
+      "lon": 10.248627,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11935341664",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.514093,
+      "lon": 10.240722,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-3663646220",
+      "name": "Ladestation EWB Duderstadt",
+      "type": "charging_station",
+      "lat": 51.564128,
+      "lon": 10.153896,
+      "operator": "EWB Duderstadt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4068390118",
+      "name": "Ladestation Mennekes",
+      "type": "charging_station",
+      "lat": 51.387267,
+      "lon": 10.328387,
+      "operator": "Mennekes",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4151001713",
+      "name": "Ladesäule für Dienstfahrzeuge der TU Clausthal",
+      "type": "charging_station",
+      "lat": 51.899374,
+      "lon": 10.43244,
+      "operator": "Technische Universität Clausthal",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4176217523",
+      "name": "Fahrrad-Riese - SWE Strom",
+      "type": "charging_station",
+      "lat": 51.008829,
+      "lon": 10.994033,
+      "operator": "Fahrrad-Riese",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "SWE Strom",
+        "network": "",
+        "opening_hours": "Mo-Sa 10:00-20:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 10:00-20:00"
+      }
+    },
+    {
+      "id": "osm-9398482012",
+      "name": "AC-Charger",
+      "type": "charging_station",
+      "lat": 51.006828,
+      "lon": 10.994245,
+      "operator": "Stadtwerke Erfurt",
+      "address": {
+        "street": "Nordhäuser Straße 73t",
+        "postcode": "99091",
+        "city": "Erfurt",
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Ladenetz",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10652172712",
+      "name": "Ladestation Stadtwerke Erfurt",
+      "type": "charging_station",
+      "lat": 51.007776,
+      "lon": 10.993439,
+      "operator": "Stadtwerke Erfurt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13358223338",
+      "name": "Erfurt Supercharger",
+      "type": "charging_station",
+      "lat": 51.009111,
+      "lon": 10.99151,
+      "operator": "Tesla",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-4287828533",
+      "name": "Thiemsburg",
+      "type": "charging_station",
+      "lat": 51.081423,
+      "lon": 10.5166,
+      "operator": "Thüringer Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Jan-Feb: Mo-Fr off, Sa-Su 10:00-16:00; Mar: Mo-Su 10:00-16:00; Apr-Oct: Mo-Su 10:00-19:00; Nov: Mo-Su 10:00-16:00; Dec: Mo-Fr off, Sa-Su 10:00-16:00; Dec 24 off; Dec 31 off"
+      },
+      "amenities": {
+        "opening_hours": "Jan-Feb: Mo-Fr off, Sa-Su 10:00-16:00; Mar: Mo-Su 10:00-16:00; Apr-Oct: Mo-Su 10:00-19:00; Nov: Mo-Su 10:00-16:00; Dec: Mo-Fr off, Sa-Su 10:00-16:00; Dec 24 off; Dec 31 off",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11096918740",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.082025,
+      "lon": 10.514212,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4397710405",
+      "name": "bike-energy",
+      "type": "charging_station",
+      "lat": 51.807299,
+      "lon": 10.941287,
+      "operator": "bike-energy",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "bike-energy",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13155260599",
+      "name": "Marktkauf - alpitronic hypercharger",
+      "type": "charging_station",
+      "lat": 51.806425,
+      "lon": 10.941729,
+      "operator": "Marktkauf",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "alpitronic hypercharger",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-4485201837",
+      "name": "Eichsfelder Energie- und Wasserversorgungs - Eichsfelder Energie- und Wasserversorgungs GmbH",
+      "type": "charging_station",
+      "lat": 51.512543,
+      "lon": 10.262409,
+      "operator": "Eichsfelder Energie- und Wasserversorgungs",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4716569981",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.596327,
+      "lon": 10.54263,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4771257438",
+      "name": "Esso Eichsfeld Nord Ladestation",
+      "type": "charging_station",
+      "lat": 51.403984,
+      "lon": 10.416514,
+      "operator": "Esso",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4771257439",
+      "name": "Esso Eichsfeld Süd Ladestation",
+      "type": "charging_station",
+      "lat": 51.403007,
+      "lon": 10.41452,
+      "operator": "Esso",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-4814389580",
+      "name": "Ladestation Stadtwerke Clausthal-Zellerfeld",
+      "type": "charging_station",
+      "lat": 51.80392,
+      "lon": 10.334567,
+      "operator": "Stadtwerke Clausthal-Zellerfeld",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12186583570",
+      "name": "Ladestation Wirelane",
+      "type": "charging_station",
+      "lat": 51.802572,
+      "lon": 10.332921,
+      "operator": "Wirelane",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13014975666",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.80479,
+      "lon": 10.334422,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5024876056",
+      "name": "Ladestation Ladenetz",
+      "type": "charging_station",
+      "lat": 51.726112,
+      "lon": 10.247264,
+      "operator": "Ladenetz",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6994724004",
+      "name": "Ladestation Harz Energie",
+      "type": "charging_station",
+      "lat": 51.724247,
+      "lon": 10.247524,
+      "operator": "Harz Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5024879691",
+      "name": "Ladestation Harz Energie",
+      "type": "charging_station",
+      "lat": 51.72878,
+      "lon": 10.25227,
+      "operator": "Harz Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13655165582",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.72885,
+      "lon": 10.25133,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5055304821",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.623694,
+      "lon": 10.469086,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5055304822",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.624308,
+      "lon": 10.468349,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5055306841",
+      "name": "Ladestation HarzEnergie",
+      "type": "charging_station",
+      "lat": 51.62541,
+      "lon": 10.463304,
+      "operator": "HarzEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13555471079",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.629252,
+      "lon": 10.469448,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5119574871",
+      "name": "Ladestation emco",
+      "type": "charging_station",
+      "lat": 51.891552,
+      "lon": 10.424793,
+      "operator": "emco",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5171263677",
+      "name": "Ladestation Avacon",
+      "type": "charging_station",
+      "lat": 51.871002,
+      "lon": 10.026411,
+      "operator": "Avacon",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-5191647463",
+      "name": "Parkplatz Friederikentherme",
+      "type": "charging_station",
+      "lat": 51.116196,
+      "lon": 10.645576,
+      "operator": "Stadtwerke Bad Langensalza",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-5551999147",
+      "name": "Stadtwerke Nordhausen - Stadtwerke Nordhausen GmbH",
+      "type": "charging_station",
+      "lat": 51.486289,
+      "lon": 10.798379,
+      "operator": "Stadtwerke Nordhausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13694964067",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.482765,
+      "lon": 10.797614,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5569859480",
+      "name": "Eichsfelder Energie- und Wasserversorgungs - Eichsfelder Energie- und Wasserversorgungs GmbH",
+      "type": "charging_station",
+      "lat": 51.56874,
+      "lon": 10.099915,
+      "operator": "Eichsfelder Energie- und Wasserversorgungs",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-5667431532",
+      "name": "Ladestation Waldgaststätte Rinderstall",
+      "type": "charging_station",
+      "lat": 51.71627,
+      "lon": 10.562629,
+      "operator": "Waldgaststätte Rinderstall",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-5683706500",
+      "name": "Parkplatz Possen",
+      "type": "charging_station",
+      "lat": 51.338143,
+      "lon": 10.863089,
+      "operator": "Stadtwerke Sondershausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5696326998",
+      "name": "Ladestation Für E-Bikes",
+      "type": "charging_station",
+      "lat": 51.836757,
+      "lon": 10.793258,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 3
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-6993347908",
+      "name": "Stromladesäule der Stadtwerke Wernigerode für PKW",
+      "type": "charging_station",
+      "lat": 51.838146,
+      "lon": 10.79525,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-10039510594",
+      "name": "Stadtwerke Wernigerode - Stadtwerke Wernigerode GmbH",
+      "type": "charging_station",
+      "lat": 51.838178,
+      "lon": 10.796274,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12071960646",
+      "name": "Ladestation Stadtwerke Wernigerode",
+      "type": "charging_station",
+      "lat": 51.838886,
+      "lon": 10.789701,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5739172538",
+      "name": "Radstätte",
+      "type": "charging_station",
+      "lat": 51.870817,
+      "lon": 10.559973,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5839724259",
+      "name": "Ladestation Stadtwerke Bad Harzburg",
+      "type": "charging_station",
+      "lat": 51.868669,
+      "lon": 10.558991,
+      "operator": "Stadtwerke Bad Harzburg",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7843280577",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.870286,
+      "lon": 10.559017,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9689453368",
+      "name": "E-Bike Ladestadion",
+      "type": "charging_station",
+      "lat": 51.871348,
+      "lon": 10.567347,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-5798838159",
+      "name": "Ladestation Stadtwerke Mühlhausen",
+      "type": "charging_station",
+      "lat": 51.209428,
+      "lon": 10.448607,
+      "operator": "Stadtwerke Mühlhausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12276475235",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.208649,
+      "lon": 10.456051,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5895676558",
+      "name": "EEW Duderstadt - Ladenetz",
+      "type": "charging_station",
+      "lat": 51.512147,
+      "lon": 10.254212,
+      "operator": "EEW Duderstadt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Ladenetz",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5895677263",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.655715,
+      "lon": 10.333914,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 20.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5896037926",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.685211,
+      "lon": 10.100978,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5923128473",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.765445,
+      "lon": 10.652006,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6056994164",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.150839,
+      "lon": 10.555174,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6311250372",
+      "name": "bike-energy Ladestation",
+      "type": "charging_station",
+      "lat": 51.926519,
+      "lon": 10.416397,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6311252321",
+      "name": "bike-energy",
+      "type": "charging_station",
+      "lat": 51.918719,
+      "lon": 10.384044,
+      "operator": "bike-energy",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "bike-energy",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6350153769",
+      "name": "bike-energy Ladestation",
+      "type": "charging_station",
+      "lat": 51.649675,
+      "lon": 10.331937,
+      "operator": "bike-energy",
+      "address": {
+        "street": "Bahnhofstraße 2",
+        "postcode": "37412",
+        "city": "Herzberg am Harz",
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "bike-energy",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6396455918",
+      "name": "Ladestation Stadtwerke Northeim",
+      "type": "charging_station",
+      "lat": 51.715186,
+      "lon": 10.000722,
+      "operator": "Stadtwerke Northeim",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6397766284",
+      "name": "Ladestation Stadtwerke Northeim",
+      "type": "charging_station",
+      "lat": 51.715526,
+      "lon": 10.001503,
+      "operator": "Stadtwerke Northeim",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6535927163",
+      "name": "Ladestation avacon",
+      "type": "charging_station",
+      "lat": 51.912398,
+      "lon": 10.322755,
+      "operator": "avacon",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6633093686",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.363306,
+      "lon": 10.266258,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9373098231",
+      "name": "Eichsfeldwerke - Eichsfeldwerke GmbH",
+      "type": "charging_station",
+      "lat": 51.36345,
+      "lon": 10.269007,
+      "operator": "Eichsfeldwerke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-6635122914",
+      "name": "SWE Strom ecomobil",
+      "type": "charging_station",
+      "lat": 51.008321,
+      "lon": 10.982672,
+      "operator": "Stadtwerke Erfurt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6721079343",
+      "name": "Stadtwerke Bad Sachsa - Stadtwerke Bad Sachsa GmbH",
+      "type": "charging_station",
+      "lat": 51.594727,
+      "lon": 10.555715,
+      "operator": "Stadtwerke Bad Sachsa",
+      "address": {
+        "postcode": "37441"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Girocard",
+          "Mastercard",
+          "Visa"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6727410733",
+      "name": "Ladestation EVN Nordhausen",
+      "type": "charging_station",
+      "lat": 51.514715,
+      "lon": 10.800624,
+      "operator": "EVN Nordhausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6727410734",
+      "name": "Energieversorgung Nordhausen GmbH Ladestation",
+      "type": "charging_station",
+      "lat": 51.500218,
+      "lon": 10.794235,
+      "operator": "EVN",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8146094183",
+      "name": "Ladestation Energieversorgung Nordhausen",
+      "type": "charging_station",
+      "lat": 51.503048,
+      "lon": 10.793383,
+      "operator": "Energieversorgung Nordhausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Ladenetz.De"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6727410735",
+      "name": "Energieversorgung Nordhausen GmbH Ladestation",
+      "type": "charging_station",
+      "lat": 51.493063,
+      "lon": 10.818923,
+      "operator": "EVN",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6735345188",
+      "name": "Ladestation EVN",
+      "type": "charging_station",
+      "lat": 51.504421,
+      "lon": 10.785087,
+      "operator": "EVN",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10881986188",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.509006,
+      "lon": 10.784951,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6800322760",
+      "name": "Ladestation Teag",
+      "type": "charging_station",
+      "lat": 51.480582,
+      "lon": 10.262125,
+      "operator": "Teag",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1198466547",
+      "name": "Ladestation EVlink",
+      "type": "charging_station",
+      "lat": 51.48058,
+      "lon": 10.265527,
+      "operator": "EVlink",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6834294230",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.228272,
+      "lon": 10.935236,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6835226159",
+      "name": "Parkplatz Stadtwerke/Bibliothek",
+      "type": "charging_station",
+      "lat": 51.371525,
+      "lon": 10.876119,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7606756449",
+      "name": "Parkplatz Trinitatisplatz",
+      "type": "charging_station",
+      "lat": 51.370215,
+      "lon": 10.873013,
+      "operator": "Stadtwerke Sondershausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6855656878",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.161845,
+      "lon": 10.161052,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6858767496",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.213385,
+      "lon": 10.214633,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6874030237",
+      "name": "Stadtwerke Heilbad Heiligenstadt - ladenetz.de",
+      "type": "charging_station",
+      "lat": 51.376058,
+      "lon": 10.138643,
+      "operator": "Stadtwerke Heilbad Heiligenstadt",
+      "address": {
+        "postcode": "37308",
+        "city": "Heilbad Heiligenstadt"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "contract customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "ladenetz.de",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Ladekarte",
+          "Ladenetz.De",
+          "Ladepay"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6874030238",
+      "name": "Stadtwerke Heilbad Heiligenstadt - Stadtwerke Heilbad Heiligenstadt GmbH",
+      "type": "charging_station",
+      "lat": 51.37397,
+      "lon": 10.13761,
+      "operator": "Stadtwerke Heilbad Heiligenstadt",
+      "address": {
+        "postcode": "37308",
+        "city": "Heilbad Heiligenstadt"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Ladekarte",
+          "Ladenetz.De",
+          "Ladepay"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6885350797",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.423459,
+      "lon": 10.359486,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6994699801",
+      "name": "Stromladesäule der Stadtwerke Wernigerode für PKW",
+      "type": "charging_station",
+      "lat": 51.847181,
+      "lon": 10.781899,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-6994724005",
+      "name": "Ladestation Harz Energie",
+      "type": "charging_station",
+      "lat": 51.737082,
+      "lon": 10.232038,
+      "operator": "Harz Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 13
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12186729146",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.737985,
+      "lon": 10.229729,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7023324589",
+      "name": "Vitalpark",
+      "type": "charging_station",
+      "lat": 51.385025,
+      "lon": 10.149537,
+      "operator": "Stadtwerke Heilbad Heiligenstadt",
+      "address": {
+        "street": "In der Leineaue 1",
+        "postcode": "37308",
+        "city": "Heilbad Heiligenstadt"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "ladenetz.de",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Ladekarte",
+          "Ladenetz.De",
+          "Ladepay"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7029732539",
+      "name": "Ladestation Heldele",
+      "type": "charging_station",
+      "lat": 51.474202,
+      "lon": 10.807657,
+      "operator": "Heldele",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8628071277",
+      "name": "EnBW Charging Station",
+      "type": "charging_station",
+      "lat": 51.473712,
+      "lon": 10.80866,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7124514151",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.492224,
+      "lon": 10.806313,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7235200919",
+      "name": "Stromladesäule für PKW",
+      "type": "charging_station",
+      "lat": 51.865654,
+      "lon": 10.676559,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7235200921",
+      "name": "Ladestation Zu den Rothen Forellen",
+      "type": "charging_station",
+      "lat": 51.864201,
+      "lon": 10.676737,
+      "operator": "Zu den Rothen Forellen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7333042867",
+      "name": "Ladestation K12 Service GmbH, Arnoldstr. 17, 99743 Nordhausen",
+      "type": "charging_station",
+      "lat": 51.501747,
+      "lon": 10.820145,
+      "operator": "K12 Service GmbH, Arnoldstr. 17, 99743 Nordhausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7346367700",
+      "name": "Ladestation Thüringer Energienetze",
+      "type": "charging_station",
+      "lat": 51.410552,
+      "lon": 10.425474,
+      "operator": "Thüringer Energienetze",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7367511515",
+      "name": "Stadtwerke Heilbad Heiligenstadt - ladenetz.de",
+      "type": "charging_station",
+      "lat": 51.376899,
+      "lon": 10.143632,
+      "operator": "Stadtwerke Heilbad Heiligenstadt",
+      "address": {
+        "postcode": "37308",
+        "city": "Heilbad Heiligenstadt"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "contract customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "ladenetz.de",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Ladekarte",
+          "Ladenetz.De",
+          "Ladepay"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7425385410",
+      "name": "Auto Ackert GmbH",
+      "type": "charging_station",
+      "lat": 51.848096,
+      "lon": 10.808352,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7472149333",
+      "name": "Ladestation Stadtwerke Blankenburg",
+      "type": "charging_station",
+      "lat": 51.795176,
+      "lon": 10.960887,
+      "operator": "Stadtwerke Blankenburg",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7501898201",
+      "name": "kostenlose eBike Ladestation (nur Steckdose)",
+      "type": "charging_station",
+      "lat": 51.728153,
+      "lon": 10.40339,
+      "operator": "Hanskühnenburg/Radomski",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7605516358",
+      "name": "Parkplatz Borntal",
+      "type": "charging_station",
+      "lat": 51.363649,
+      "lon": 10.877636,
+      "operator": "Stadtwerke Sondershausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7605714676",
+      "name": "Honsel Tankstelle",
+      "type": "charging_station",
+      "lat": 51.364571,
+      "lon": 10.844717,
+      "operator": "Stadtwerke Sondershausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-7605732400",
+      "name": "Comfortcharge Charging Station",
+      "type": "charging_station",
+      "lat": 51.373048,
+      "lon": 10.858504,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Comfortcharge",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7606760410",
+      "name": "Parkplatz Krankenhaus",
+      "type": "charging_station",
+      "lat": 51.373202,
+      "lon": 10.877681,
+      "operator": "Stadtwerke Sondershausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7606802206",
+      "name": "Ladestation TEAG",
+      "type": "charging_station",
+      "lat": 51.287943,
+      "lon": 10.742151,
+      "operator": "TEAG",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7619606627",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.991849,
+      "lon": 10.453646,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10595088505",
+      "name": "Thüringer Energie - Ladenetz",
+      "type": "charging_station",
+      "lat": 51.664276,
+      "lon": 10.668819,
+      "operator": "Thüringer Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Ladenetz",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7678076980",
+      "name": "Ladestation Gemeinde Werther",
+      "type": "charging_station",
+      "lat": 51.468012,
+      "lon": 10.745837,
+      "operator": "Gemeinde Werther",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7825779286",
+      "name": "Stadtwerke Blankenburg - Stadtwerke Blankenburg GmbH",
+      "type": "charging_station",
+      "lat": 51.787978,
+      "lon": 10.960459,
+      "operator": "Stadtwerke Blankenburg",
+      "address": {
+        "street": "Schnappelberg",
+        "postcode": "38889",
+        "city": "Blankenburg"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7825783285",
+      "name": "Tesla Destination Charger",
+      "type": "charging_station",
+      "lat": 51.787528,
+      "lon": 10.960737,
+      "operator": "Tesla",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Tesla",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8022268222",
+      "name": "Ladestation GreenCharge",
+      "type": "charging_station",
+      "lat": 51.727489,
+      "lon": 10.608505,
+      "operator": "GreenCharge",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 50
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8075848207",
+      "name": "Energieversorgung Nordhausen - ladenetz.de",
+      "type": "charging_station",
+      "lat": 51.50219,
+      "lon": 10.80218,
+      "operator": "Energieversorgung Nordhausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "ladenetz.de",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8146027130",
+      "name": "Ladepark Nordhausen",
+      "type": "charging_station",
+      "lat": 51.488895,
+      "lon": 10.829283,
+      "operator": "ELA",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 150.0,
+            "count": 3
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless",
+          "Maestro",
+          "Mastercard",
+          "Paypass",
+          "Visa"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8154971917",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.913478,
+      "lon": 10.537389,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8196741847",
+      "name": "Ladestation enercity",
+      "type": "charging_station",
+      "lat": 51.508277,
+      "lon": 10.027224,
+      "operator": "enercity",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8251661430",
+      "name": "EnBW",
+      "type": "charging_station",
+      "lat": 51.926439,
+      "lon": 10.143432,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8259949942",
+      "name": "Ladestation mblty",
+      "type": "charging_station",
+      "lat": 51.006879,
+      "lon": 10.180851,
+      "operator": "mblty",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1364433788",
+      "name": "EnBW - EnBW Energie Baden-Württemberg AG",
+      "type": "charging_station",
+      "lat": 51.006547,
+      "lon": 10.17585,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 16
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 16
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8291759018",
+      "name": "Ladestation Hotel Rust",
+      "type": "charging_station",
+      "lat": 51.65848,
+      "lon": 10.659677,
+      "operator": "Hotel Rust",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8293116812",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.415766,
+      "lon": 10.53377,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8354759418",
+      "name": "e-Bike Ladestation",
+      "type": "charging_station",
+      "lat": 51.961602,
+      "lon": 10.004739,
+      "operator": "Waldbad Lamspringe",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8428263555",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.168065,
+      "lon": 10.336628,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8452917866",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.601652,
+      "lon": 10.204588,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8483908355",
+      "name": "Stadtwerke Blankenburg - Stadtwerke Blankenburg GmbH",
+      "type": "charging_station",
+      "lat": 51.807832,
+      "lon": 10.913402,
+      "operator": "Stadtwerke Blankenburg",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8533422414",
+      "name": "Ladestation EnBW",
+      "type": "charging_station",
+      "lat": 51.928104,
+      "lon": 10.141797,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8572776951",
+      "name": "Thüringer Energie AG Ladestation",
+      "type": "charging_station",
+      "lat": 51.586865,
+      "lon": 10.664374,
+      "operator": "TEAG Mobil",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8592271742",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.874262,
+      "lon": 10.707793,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8651739751",
+      "name": "Ladestation HarzEnergie",
+      "type": "charging_station",
+      "lat": 51.891067,
+      "lon": 10.17323,
+      "operator": "HarzEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13319104539",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.890099,
+      "lon": 10.165374,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8651739752",
+      "name": "Ladestation HarzEnergie",
+      "type": "charging_station",
+      "lat": 51.888063,
+      "lon": 10.172934,
+      "operator": "HarzEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8851843878",
+      "name": "E-Bike-Ladestation",
+      "type": "charging_station",
+      "lat": 51.879291,
+      "lon": 10.563175,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8917598319",
+      "name": "Ladestation Eichsfeld Werke",
+      "type": "charging_station",
+      "lat": 51.362048,
+      "lon": 10.074539,
+      "operator": "Eichsfeld Werke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8934007730",
+      "name": "Ladestation TEAG Mobil",
+      "type": "charging_station",
+      "lat": 51.559128,
+      "lon": 10.833607,
+      "operator": "TEAG Mobil",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8997085859",
+      "name": "Ladestation EAM Netz",
+      "type": "charging_station",
+      "lat": 51.492943,
+      "lon": 10.008788,
+      "operator": "EAM Netz",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9026010856",
+      "name": "Ladestation Gemeinde Huy",
+      "type": "charging_station",
+      "lat": 51.977088,
+      "lon": 10.982554,
+      "operator": "Gemeinde Huy",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9045464516",
+      "name": "Stadtwerke Blankenburg - Stadtwerke Blankenburg GmbH",
+      "type": "charging_station",
+      "lat": 51.81263,
+      "lon": 10.953773,
+      "operator": "Stadtwerke Blankenburg",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9163233567",
+      "name": "Geismar (Kanonenbahnradweg)",
+      "type": "charging_station",
+      "lat": 51.227227,
+      "lon": 10.167864,
+      "operator": "Eichsfeld Werke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9200437947",
+      "name": "Ladestation Stadt Thale",
+      "type": "charging_station",
+      "lat": 51.725965,
+      "lon": 10.940165,
+      "operator": "Stadt Thale",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9212084756",
+      "name": "Ladestation HöhlenErlebnisZentrum",
+      "type": "charging_station",
+      "lat": 51.817104,
+      "lon": 10.253007,
+      "operator": "HöhlenErlebnisZentrum",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permit",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "\"wie HöhenErlebnisZentrum\""
+      },
+      "amenities": {
+        "opening_hours": "\"wie HöhenErlebnisZentrum\"",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9312979819",
+      "name": "Stromtankstelle Harth Haus",
+      "type": "charging_station",
+      "lat": 51.059615,
+      "lon": 10.58045,
+      "operator": "Stadtwerke Bad Langensalza",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9373772090",
+      "name": "Ladestation Kloster Drübeck",
+      "type": "charging_station",
+      "lat": 51.855633,
+      "lon": 10.715557,
+      "operator": "Kloster Drübeck",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13037966880",
+      "name": "Stadtwerke Wernigerode - Stadtwerke Wernigerode GmbH",
+      "type": "charging_station",
+      "lat": 51.856621,
+      "lon": 10.715943,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cards",
+          "Credit Cards",
+          "Debit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9430608811",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.75815,
+      "lon": 10.215618,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11810192097",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.759285,
+      "lon": 10.216461,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9430608812",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.750136,
+      "lon": 10.216612,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9442013531",
+      "name": "Ladestation Stadt Osterwieck",
+      "type": "charging_station",
+      "lat": 51.970104,
+      "lon": 10.709086,
+      "operator": "Stadt Osterwieck",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 8
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9631397012",
+      "name": "bike-energy",
+      "type": "charging_station",
+      "lat": 51.805994,
+      "lon": 10.941355,
+      "operator": "bike-energy",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "bike-energy",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9631400149",
+      "name": "Blankenburg, Lerchenbreite",
+      "type": "charging_station",
+      "lat": 51.80612,
+      "lon": 10.943282,
+      "operator": "Shell",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 175.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 175.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 100.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "NewMotion",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12612268401",
+      "name": "PKW Ladestation CCS 300kW 4Stk",
+      "type": "charging_station",
+      "lat": 51.806378,
+      "lon": 10.942588,
+      "operator": "EWE Go",
+      "address": {
+        "street": "Lerchenbreite 34",
+        "postcode": "38889"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-9679106313",
+      "name": "Harz Energie - Harz Energie GmbH",
+      "type": "charging_station",
+      "lat": 51.655429,
+      "lon": 10.342293,
+      "operator": "Harz Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12692482972",
+      "name": "Ladestation Mennekes",
+      "type": "charging_station",
+      "lat": 51.656587,
+      "lon": 10.341009,
+      "operator": "Mennekes",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9706899753",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.555441,
+      "lon": 10.056133,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9802219574",
+      "name": "Ladestation Stadtwerke Wernigerode",
+      "type": "charging_station",
+      "lat": 51.871817,
+      "lon": 10.675481,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9933917827",
+      "name": "Stromladesäule der Stadtwerke Wernigerode für PKW",
+      "type": "charging_station",
+      "lat": 51.83896,
+      "lon": 10.806571,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9933917832",
+      "name": "Stromladesäule der Stadtwerke Wernigerode für PKW",
+      "type": "charging_station",
+      "lat": 51.838347,
+      "lon": 10.804543,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9933917833",
+      "name": "Stromladesäule der Stadtwerke Wernigerode für PKW",
+      "type": "charging_station",
+      "lat": 51.829403,
+      "lon": 10.792202,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9933917834",
+      "name": "Stromladesäule der Stadtwerke Wernigerode für PKW",
+      "type": "charging_station",
+      "lat": 51.7619,
+      "lon": 10.671846,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9966028880",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.187068,
+      "lon": 10.059739,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12104693558",
+      "name": "Stadtwerke Eschwege - Stadtwerke Eschwege GmbH",
+      "type": "charging_station",
+      "lat": 51.185736,
+      "lon": 10.063132,
+      "operator": "Stadtwerke Eschwege",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1338666975",
+      "name": "Ladestation Stadtwerke Eschwege",
+      "type": "charging_station",
+      "lat": 51.188772,
+      "lon": 10.060246,
+      "operator": "Stadtwerke Eschwege",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10013474108",
+      "name": "Ladestation ChargeIT",
+      "type": "charging_station",
+      "lat": 51.514974,
+      "lon": 10.261257,
+      "operator": "ChargeIT",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 22
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10039519050",
+      "name": "EnBW - EnBW Energie Baden-Württemberg AG",
+      "type": "charging_station",
+      "lat": 51.932478,
+      "lon": 10.409625,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13182007265",
+      "name": "Ladestation Pfalzwerke",
+      "type": "charging_station",
+      "lat": 51.934142,
+      "lon": 10.409742,
+      "operator": "Pfalzwerke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10103698185",
+      "name": "Ladestation EnBW",
+      "type": "charging_station",
+      "lat": 51.59349,
+      "lon": 10.558443,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Girocard",
+          "Mastercard",
+          "Visa"
+        ],
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-10119056372",
+      "name": "Ladestation TEAG Mobil",
+      "type": "charging_station",
+      "lat": 51.154477,
+      "lon": 10.835782,
+      "operator": "TEAG Mobil",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10120594017",
+      "name": "Stadtwerke Heilbad Heiligenstadt - Stadtwerke Heilbad Heiligenstadt GmbH",
+      "type": "charging_station",
+      "lat": 51.376083,
+      "lon": 10.123635,
+      "operator": "Stadtwerke Heilbad Heiligenstadt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10121319017",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.373665,
+      "lon": 10.115926,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10127456030",
+      "name": "Ladestation Stadtwerke Wernigerode",
+      "type": "charging_station",
+      "lat": 51.771325,
+      "lon": 10.730544,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10184325968",
+      "name": "Ladestation Tierpension \"Holiday\"",
+      "type": "charging_station",
+      "lat": 51.118368,
+      "lon": 10.021638,
+      "operator": "Tierpension \"Holiday\"",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "E-Bike Ladestation",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-10218068555",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.482169,
+      "lon": 10.261955,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10228771269",
+      "name": "eBike Ladestation",
+      "type": "charging_station",
+      "lat": 51.052055,
+      "lon": 10.2486,
+      "operator": "Stadt Amt Creuzburg",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-13011561262",
+      "name": "ChargeOne",
+      "type": "charging_station",
+      "lat": 51.051164,
+      "lon": 10.242021,
+      "operator": "Heinemann",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargeOne",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10253467905",
+      "name": "Energieversorgung Nordhausen - Ladenetz",
+      "type": "charging_station",
+      "lat": 51.496117,
+      "lon": 10.78793,
+      "operator": "Energieversorgung Nordhausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Ladenetz",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10253544955",
+      "name": "EnBW - EnBW",
+      "type": "charging_station",
+      "lat": 51.49671,
+      "lon": 10.786111,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "EnBW",
+        "network": "EnBW",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10634621774",
+      "name": "Ladestation Harzenergie",
+      "type": "charging_station",
+      "lat": 51.610519,
+      "lon": 10.213116,
+      "operator": "Harzenergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10680661102",
+      "name": "Ladestation Stadtwerke Blankenburg",
+      "type": "charging_station",
+      "lat": 51.791128,
+      "lon": 10.954997,
+      "operator": "Stadtwerke Blankenburg",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11465984865",
+      "name": "Ladestation Stadtgespräch",
+      "type": "charging_station",
+      "lat": 51.789681,
+      "lon": 10.955158,
+      "operator": "Stadtgespräch",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10748612789",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.960656,
+      "lon": 10.011808,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10874201393",
+      "name": "Ladestation Hotel zum Herrenhaus",
+      "type": "charging_station",
+      "lat": 51.025096,
+      "lon": 10.463418,
+      "operator": "Hotel zum Herrenhaus",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10876163499",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.50701,
+      "lon": 10.268408,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10891343146",
+      "name": "Elli (VW Group)",
+      "type": "charging_station",
+      "lat": 51.451966,
+      "lon": 10.565872,
+      "operator": "Elli VW Konzern",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Elli",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10891540314",
+      "name": "Comfort Charge Ladestation",
+      "type": "charging_station",
+      "lat": 51.447029,
+      "lon": 10.571767,
+      "operator": "Telekom",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Comfort Charge Ladestation",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10910911353",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.927364,
+      "lon": 10.423203,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10911523254",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.007144,
+      "lon": 10.263029,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11006180914",
+      "name": "GSAB Elektrotechnik - Liebram Elektotechnologien GmbH",
+      "type": "charging_station",
+      "lat": 51.432504,
+      "lon": 10.706297,
+      "operator": "GSAB Elektrotechnik",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Liebram Elektotechnologien GmbH",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11018656761",
+      "name": "Ladestation ziegler",
+      "type": "charging_station",
+      "lat": 51.911078,
+      "lon": 10.421161,
+      "operator": "ziegler",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11046744338",
+      "name": "TEAG Mobil - Thüringer Energie AG",
+      "type": "charging_station",
+      "lat": 51.441326,
+      "lon": 10.569819,
+      "operator": "TEAG Mobil",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Thüringer Energie AG",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13077879692",
+      "name": "Ladestation TEAG Mobil",
+      "type": "charging_station",
+      "lat": 51.442595,
+      "lon": 10.578667,
+      "operator": "TEAG Mobil",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11056212281",
+      "name": "Ladestation Keba",
+      "type": "charging_station",
+      "lat": 51.206389,
+      "lon": 10.468986,
+      "operator": "Keba",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Keba",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13046457167",
+      "name": "EnBW - EnBW",
+      "type": "charging_station",
+      "lat": 51.205444,
+      "lon": 10.468905,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EnBW",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11057219098",
+      "name": "Ionity Leinefelde-Worbis",
+      "type": "charging_station",
+      "lat": 51.39073,
+      "lon": 10.342592,
+      "operator": "IONITY",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11063213097",
+      "name": "Ladestation Stadtwerke Blankenburg",
+      "type": "charging_station",
+      "lat": 51.86739,
+      "lon": 10.880717,
+      "operator": "Stadtwerke Blankenburg",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11065201784",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.839942,
+      "lon": 10.772317,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11070978784",
+      "name": "TotalEnergies - Total",
+      "type": "charging_station",
+      "lat": 51.216127,
+      "lon": 10.463323,
+      "operator": "TotalEnergies",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "Total",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11085446440",
+      "name": "Ladestation Cut Power",
+      "type": "charging_station",
+      "lat": 51.198884,
+      "lon": 10.480498,
+      "operator": "Cut Power",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Cut Power",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11112543514",
+      "name": "Burger King",
+      "type": "charging_station",
+      "lat": 51.387657,
+      "lon": 10.844596,
+      "operator": "Stadtwerke Sondershausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11167113358",
+      "name": "Parkplatz Hagebau",
+      "type": "charging_station",
+      "lat": 51.367404,
+      "lon": 10.849851,
+      "operator": "Stadtwerke Sondershausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11199130325",
+      "name": "tegut",
+      "type": "charging_station",
+      "lat": 51.370257,
+      "lon": 10.853106,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11197591717",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.362728,
+      "lon": 10.895355,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11199186050",
+      "name": "OBI",
+      "type": "charging_station",
+      "lat": 51.365217,
+      "lon": 10.891529,
+      "operator": "Stadtwerke Sondershausen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11198583462",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.368658,
+      "lon": 10.885688,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permit",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11199257429",
+      "name": "ISS GmbH",
+      "type": "charging_station",
+      "lat": 51.363181,
+      "lon": 10.901392,
+      "operator": "ChargePoint Germany",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11199499377",
+      "name": "Ladestation Westfalen Weser Ladeservice",
+      "type": "charging_station",
+      "lat": 51.803919,
+      "lon": 10.44882,
+      "operator": "Westfalen Weser Ladeservice",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11220512380",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.427066,
+      "lon": 10.349757,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11224683801",
+      "name": "Compleo Charging Technologies - Compleo Charging Technologies GmbH",
+      "type": "charging_station",
+      "lat": 51.804044,
+      "lon": 10.442706,
+      "operator": "Compleo Charging Technologies",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11305110454",
+      "name": "Fleischerweg 12 - reev",
+      "type": "charging_station",
+      "lat": 51.907686,
+      "lon": 10.51694,
+      "operator": "Fleischerweg 12",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "",
+        "brand": "reev",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11378414814",
+      "name": "Ladestation Stadtwerke Wernigerode",
+      "type": "charging_station",
+      "lat": 51.742726,
+      "lon": 10.888049,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11456250147",
+      "name": "Ladestation compleo",
+      "type": "charging_station",
+      "lat": 51.788875,
+      "lon": 10.952781,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "compleo",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11469937732",
+      "name": "Landjugend Heberbörde - LADE.Pünktchen",
+      "type": "charging_station",
+      "lat": 51.882894,
+      "lon": 10.055061,
+      "operator": "Landjugend Heberbörde",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "LADE.Pünktchen",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11470975646",
+      "name": "Stadtwerke Heilbad Heiligenstadt - ladenetz.de",
+      "type": "charging_station",
+      "lat": 51.38576,
+      "lon": 10.132947,
+      "operator": "Stadtwerke Heilbad Heiligenstadt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "ladenetz.de",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13011422004",
+      "name": "Heinemann - ChargeOne",
+      "type": "charging_station",
+      "lat": 51.38622,
+      "lon": 10.132203,
+      "operator": "Heinemann",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargeOne",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11587826748",
+      "name": "Venusring 31 Friedhof",
+      "type": "charging_station",
+      "lat": 51.559775,
+      "lon": 10.004253,
+      "operator": "Stadtwerke Göttingen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Hubject",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Hubject",
+          "Rfid",
+          "Smartphone"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11640150405",
+      "name": "Ladestation Wolkswagen",
+      "type": "charging_station",
+      "lat": 51.904869,
+      "lon": 10.547388,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "Wolkswagen",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11799281969",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.381148,
+      "lon": 10.136394,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11903715058",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.784658,
+      "lon": 10.350382,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11903715063",
+      "name": "Ladestation Edeka",
+      "type": "charging_station",
+      "lat": 51.872794,
+      "lon": 10.692051,
+      "operator": "Edeka",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11903715064",
+      "name": "Ladestation Cafe & Kreativstube",
+      "type": "charging_station",
+      "lat": 51.866294,
+      "lon": 10.683103,
+      "operator": "Cafe & Kreativstube",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11903715065",
+      "name": "Ladestation Stadtwerke Wernigerode",
+      "type": "charging_station",
+      "lat": 51.845466,
+      "lon": 10.721035,
+      "operator": "Stadtwerke Wernigerode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "varies",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12014246824",
+      "name": "Bike-energy",
+      "type": "charging_station",
+      "lat": 51.854931,
+      "lon": 10.157742,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24"
+      },
+      "amenities": {
+        "opening_hours": "24",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12061154792",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.204754,
+      "lon": 10.438577,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12066359534",
+      "name": "TEAG Thüringer Energie - TEAG Thüringer Energie AG",
+      "type": "charging_station",
+      "lat": 51.714651,
+      "lon": 10.521201,
+      "operator": "TEAG Thüringer Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12077463669",
+      "name": "Harz Energie - Harz Energie GmbH & Co. KG",
+      "type": "charging_station",
+      "lat": 51.731489,
+      "lon": 10.613035,
+      "operator": "Harz Energie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12174628983",
+      "name": "Ladestation HarzEnergie",
+      "type": "charging_station",
+      "lat": 51.857017,
+      "lon": 10.342789,
+      "operator": "HarzEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12186520042",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.732074,
+      "lon": 10.243987,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12186559077",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.72286,
+      "lon": 10.250159,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2400.0,
+        "sockets": [
+          {
+            "type": "CEE Blau (16A)",
+            "kw": 2400.0,
+            "count": 7
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12186559570",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.732746,
+      "lon": 10.237269,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12616275444",
+      "name": "Ladestation McDonald's Osterode",
+      "type": "charging_station",
+      "lat": 51.732875,
+      "lon": 10.238357,
+      "operator": "McDonald's Osterode",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12190134751",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.202975,
+      "lon": 10.431192,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12190138149",
+      "name": "Ladestation Eichfeldwerke",
+      "type": "charging_station",
+      "lat": 51.494318,
+      "lon": 10.38533,
+      "operator": "Eichfeldwerke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12190159464",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.218157,
+      "lon": 10.470972,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12211584877",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.186504,
+      "lon": 10.167055,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 3.7,
+        "sockets": [
+          {
+            "type": "CEE Blau (16A)",
+            "kw": 3.7,
+            "count": 6
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Coins"
+        ]
+      }
+    },
+    {
+      "id": "osm-12231952664",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.308313,
+      "lon": 10.324408,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12234434567",
+      "name": "Allego - Allegro",
+      "type": "charging_station",
+      "lat": 51.847505,
+      "lon": 10.811756,
+      "operator": "Allego",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Allegro",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12323517082",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.323441,
+      "lon": 10.321578,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12348613972",
+      "name": "Ladestation HarzEnergie",
+      "type": "charging_station",
+      "lat": 51.803857,
+      "lon": 10.535885,
+      "operator": "HarzEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12374177854",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.509081,
+      "lon": 10.248463,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12374177911",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.508749,
+      "lon": 10.251107,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12423535609",
+      "name": "Ladestation TEAG Mobil",
+      "type": "charging_station",
+      "lat": 51.542562,
+      "lon": 10.768738,
+      "operator": "TEAG Mobil",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "unknown",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12438315827",
+      "name": "IONITY Erfurt",
+      "type": "charging_station",
+      "lat": 51.012264,
+      "lon": 10.988157,
+      "operator": "IONITY",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 8
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "IONITY",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12441429061",
+      "name": "Ladestation TEAG Mobil",
+      "type": "charging_station",
+      "lat": 51.009201,
+      "lon": 10.999802,
+      "operator": "TEAG Mobil",
+      "address": {
+        "street": "Moskauer Platz 1",
+        "postcode": "99091"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12474073644",
+      "name": "Heinemann - ChargeOne",
+      "type": "charging_station",
+      "lat": 51.454003,
+      "lon": 10.652312,
+      "operator": "Heinemann",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargeOne",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12527528553",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.599393,
+      "lon": 10.546993,
+      "operator": "Unbekannt",
+      "address": {
+        "street": "Bismarckstraße 20"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Girocard",
+          "Mastercard",
+          "Visa"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12644636163",
+      "name": "EnBW - EnBW Energie Baden-Württemberg AG",
+      "type": "charging_station",
+      "lat": 51.447248,
+      "lon": 10.873769,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12698058177",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.827914,
+      "lon": 10.277769,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12699085715",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.903251,
+      "lon": 10.329866,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12744598874",
+      "name": "Ladestation HarzEnergie",
+      "type": "charging_station",
+      "lat": 51.58215,
+      "lon": 10.620376,
+      "operator": "HarzEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12757144525",
+      "name": "Lidl / Kaufland",
+      "type": "charging_station",
+      "lat": 51.224128,
+      "lon": 10.451799,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12826176841",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.118426,
+      "lon": 10.633995,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12829868929",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.94564,
+      "lon": 10.130752,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12844402620",
+      "name": "Compleo Charging Technologies - Compleo Charging Technologies GmbH",
+      "type": "charging_station",
+      "lat": 51.078006,
+      "lon": 10.863113,
+      "operator": "Compleo Charging Technologies",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12848612213",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.374489,
+      "lon": 10.318018,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13405893723",
+      "name": "Ladestation Eichsfeldwerke",
+      "type": "charging_station",
+      "lat": 51.375114,
+      "lon": 10.324801,
+      "operator": "Eichsfeldwerke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12882529809",
+      "name": "Ladestation EWE Go",
+      "type": "charging_station",
+      "lat": 51.913107,
+      "lon": 10.445425,
+      "operator": "EWE Go",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12915495179",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.667304,
+      "lon": 10.429963,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12946998653",
+      "name": "EWE Go - EWE Go",
+      "type": "charging_station",
+      "lat": 51.956106,
+      "lon": 10.002013,
+      "operator": "EWE Go",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "EWE Go",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12955166574",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.748207,
+      "lon": 10.291013,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 11
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "American Express",
+          "Cash",
+          "Ec Cards",
+          "Maestro",
+          "Mastercard",
+          "V Pay",
+          "Visa"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12997053216",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.835733,
+      "lon": 10.782279,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13011387395",
+      "name": "Heinemann - ChargeOne",
+      "type": "charging_station",
+      "lat": 51.190686,
+      "lon": 10.048969,
+      "operator": "Heinemann",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargeOne",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13011554866",
+      "name": "Heinemann - ChargeOne",
+      "type": "charging_station",
+      "lat": 51.119558,
+      "lon": 10.842383,
+      "operator": "Heinemann",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargeOne",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13011585717",
+      "name": "ChargeOne",
+      "type": "charging_station",
+      "lat": 51.519148,
+      "lon": 10.769497,
+      "operator": "Heinemann",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargeOne",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13037979200",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.854454,
+      "lon": 10.721402,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13055754923",
+      "name": "Westfalen Weser Ladeservice - ABL Wallbox eM4 Twin reev ready",
+      "type": "charging_station",
+      "lat": 51.800179,
+      "lon": 10.347635,
+      "operator": "Westfalen Weser Ladeservice",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ABL Wallbox eM4 Twin reev ready",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Apple Pay",
+          "Credit Cards",
+          "Google Pay",
+          "Paypal",
+          "Sms"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13062065152",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.510705,
+      "lon": 10.272243,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-13067168921",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.607626,
+      "lon": 10.534809,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13120349750",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.848634,
+      "lon": 10.736566,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13147543749",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.308563,
+      "lon": 10.33597,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13159397687",
+      "name": "Ladestation Stadtwerke Blankenburg",
+      "type": "charging_station",
+      "lat": 51.715761,
+      "lon": 10.973605,
+      "operator": "Stadtwerke Blankenburg",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13159502103",
+      "name": "Ladestation Stadtwerke Blankenburg",
+      "type": "charging_station",
+      "lat": 51.7915,
+      "lon": 10.951932,
+      "operator": "Stadtwerke Blankenburg",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13160506848",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.856784,
+      "lon": 10.356505,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13182007266",
+      "name": "Ladestation Allego",
+      "type": "charging_station",
+      "lat": 51.931731,
+      "lon": 10.409664,
+      "operator": "Allego",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13197215133",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.832114,
+      "lon": 10.668249,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13230529198",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.453691,
+      "lon": 10.343603,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13241251188",
+      "name": "Ladestation EWE Go",
+      "type": "charging_station",
+      "lat": 51.852514,
+      "lon": 10.790141,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EWE Go",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card",
+          "Qr Code"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13257862623",
+      "name": "Michael Möbius - E3DC",
+      "type": "charging_station",
+      "lat": 51.078148,
+      "lon": 10.327778,
+      "operator": "Michael Möbius",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permit",
+        "fee": "",
+        "brand": "E3DC",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cash"
+        ]
+      }
+    },
+    {
+      "id": "osm-13282578040",
+      "name": "Ladestation",
+      "type": "charging_station",
+      "lat": 51.910393,
+      "lon": 10.435626,
+      "operator": "Unbekannt",
+      "address": {
+        "street": "Mauerstraße 69b"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13308718434",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.690388,
+      "lon": 10.855132,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13335396864",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.797085,
+      "lon": 10.03929,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13335396866",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.787906,
+      "lon": 10.063083,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13368779983",
+      "name": "Ladestation Metallurgiepark Oker",
+      "type": "charging_station",
+      "lat": 51.908394,
+      "lon": 10.475783,
+      "operator": "Metallurgiepark Oker",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13386999277",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.358188,
+      "lon": 10.04616,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13387537533",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.333901,
+      "lon": 10.225832,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13395493468",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.807045,
+      "lon": 10.336359,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13401611309",
+      "name": "Ladestation Eichsfeldwerke",
+      "type": "charging_station",
+      "lat": 51.315788,
+      "lon": 10.097103,
+      "operator": "Eichsfeldwerke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13408566790",
+      "name": "Eichsfeldwerke - Eichsfeldwerke GmbH",
+      "type": "charging_station",
+      "lat": 51.388277,
+      "lon": 10.326383,
+      "operator": "Eichsfeldwerke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13448491581",
+      "name": "Ladestation TEAG Mobil",
+      "type": "charging_station",
+      "lat": 51.483218,
+      "lon": 10.805197,
+      "operator": "TEAG Mobil",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13468804082",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.99822,
+      "lon": 10.438148,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13556307194",
+      "name": "Ladestation Allego",
+      "type": "charging_station",
+      "lat": 51.931187,
+      "lon": 10.43216,
+      "operator": "Allego",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13567806633",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.62937,
+      "lon": 10.471323,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13589030599",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.889294,
+      "lon": 10.195149,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13608554643",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.523005,
+      "lon": 10.084532,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 4
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13641882262",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.317009,
+      "lon": 10.319718,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13644919310",
+      "name": "Regensteinblick Süd",
+      "type": "charging_station",
+      "lat": 51.839288,
+      "lon": 10.885755,
+      "operator": "autostrom plus",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Deutschlandnetz",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards",
+          "Debit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13694951748",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.453375,
+      "lon": 10.600143,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13694951749",
+      "name": "Ladestation TEAG",
+      "type": "charging_station",
+      "lat": 51.377704,
+      "lon": 10.14685,
+      "operator": "TEAG",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 4
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13694953983",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.46341,
+      "lon": 10.935916,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-854247374",
+      "name": "Camping Braunlage",
+      "type": "charging_station",
+      "lat": 51.712386,
+      "lon": 10.597746,
+      "operator": "Coen & Nienke la Croix",
+      "address": {
+        "street": "Am Campingplatz 1",
+        "postcode": "38700",
+        "city": "Braunlage"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Su 08:30-12:30,13:30-18:30"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 08:30-12:30,13:30-18:30",
+        "payment_methods": [
+          "Cash"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1292867617",
+      "name": "jetzt mobil - m8mit",
+      "type": "charging_station",
+      "lat": 51.56717,
+      "lon": 10.957824,
+      "operator": "jetzt mobil",
+      "address": {
+        "street": "Thyratal 1"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "m8mit",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless",
+          "Credit Cards",
+          "Maestro",
+          "Qr Code",
+          "Visa"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1355391897",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.036489,
+      "lon": 10.893104,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1361728699",
+      "name": "Ladestation EnBW ODR",
+      "type": "charging_station",
+      "lat": 51.785544,
+      "lon": 10.210779,
+      "operator": "EnBW ODR",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

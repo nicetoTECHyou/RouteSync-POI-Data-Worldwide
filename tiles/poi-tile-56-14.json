@@ -1,0 +1,164 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 56,
+    "lon": 14,
+    "bounds": {
+      "south": 56,
+      "north": 57,
+      "west": 14,
+      "east": 15
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-1208115016",
+      "name": "Ladestation Circle K",
+      "type": "charging_station",
+      "lat": 56.001236,
+      "lon": 14.09944,
+      "operator": "Circle K",
+      "address": {
+        "country": "SE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1305752441",
+      "name": "Ladestation Karlshamns energi",
+      "type": "charging_station",
+      "lat": 56.208718,
+      "lon": 14.758675,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "SE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Karlshamns energi",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1305753029",
+      "name": "Ladestation Karlshamns energi",
+      "type": "charging_station",
+      "lat": 56.187174,
+      "lon": 14.744395,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "SE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Karlshamns energi",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1305753714",
+      "name": "Jössarinken",
+      "type": "charging_station",
+      "lat": 56.18955,
+      "lon": 14.765116,
+      "operator": "Karlshamn Energi AB",
+      "address": {
+        "street": "Jössastigen 3"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Karlshamns energi",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1312816103",
+      "name": "Ladestation Eon",
+      "type": "charging_station",
+      "lat": 56.61394,
+      "lon": 14.154976,
+      "operator": "Eon",
+      "address": {
+        "country": "SE"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,1190 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 60,
+    "lon": 8,
+    "bounds": {
+      "south": 60,
+      "north": 61,
+      "west": 8,
+      "east": 9
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 32,
+  "pois": [
+    {
+      "id": "osm-1770690605",
+      "name": "Gol Auto",
+      "type": "charging_station",
+      "lat": 60.695944,
+      "lon": 8.929951,
+      "operator": "Gol Auto AS",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-2871097495",
+      "name": "Tesla Gol Supercharger",
+      "type": "charging_station",
+      "lat": 60.702285,
+      "lon": 8.986203,
+      "operator": "Tesla",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 8
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12777009526",
+      "name": "St1 Lading Gol",
+      "type": "charging_station",
+      "lat": 60.702234,
+      "lon": 8.983951,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "St1 Charge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5807444569",
+      "name": "Recharge Kiwi Hemsedal",
+      "type": "charging_station",
+      "lat": 60.849512,
+      "lon": 8.615409,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12734689150",
+      "name": "Ragde Charge Kiwi Hemsedal",
+      "type": "charging_station",
+      "lat": 60.850569,
+      "lon": 8.614667,
+      "operator": "Ragde Charge",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 240.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 240.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6024217331",
+      "name": "Mer Hemsedal",
+      "type": "charging_station",
+      "lat": 60.862079,
+      "lon": 8.554326,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 3
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12734696141",
+      "name": "Tesla Hemsedal Supercharger",
+      "type": "charging_station",
+      "lat": 60.862417,
+      "lon": 8.555447,
+      "operator": "Tesla",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 11
+          }
+        ],
+        "capacity": 11
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6024217347",
+      "name": "Mer Geilo",
+      "type": "charging_station",
+      "lat": 60.533197,
+      "lon": 8.205027,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6024217349",
+      "name": "Recharge Kiwi Rødberg",
+      "type": "charging_station",
+      "lat": 60.26623,
+      "lon": 8.94619,
+      "operator": "Recharge",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 225.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 225.0,
+            "count": 5
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6024217353",
+      "name": "Recharge Joker Dagali",
+      "type": "charging_station",
+      "lat": 60.411332,
+      "lon": 8.441447,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11173760417",
+      "name": "Circle K Geilo",
+      "type": "charging_station",
+      "lat": 60.535491,
+      "lon": 8.220609,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6024217359",
+      "name": "Skistar skisenter",
+      "type": "charging_station",
+      "lat": 60.86277,
+      "lon": 8.51567,
+      "operator": "Lade i Norge",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6024217362",
+      "name": "Recharge Kremmartunet",
+      "type": "charging_station",
+      "lat": 60.701253,
+      "lon": 8.937768,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6024217368",
+      "name": "Recharge Coop Extra Gol",
+      "type": "charging_station",
+      "lat": 60.702436,
+      "lon": 8.935401,
+      "operator": "Recharge",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Recharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless",
+          "Mobile Phone"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6025956839",
+      "name": "Kople Joker Vaset",
+      "type": "charging_station",
+      "lat": 60.99643,
+      "lon": 8.98973,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Kople",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6780341783",
+      "name": "Eviny Rema 1000 Gol",
+      "type": "charging_station",
+      "lat": 60.701774,
+      "lon": 8.962111,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 3
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 9
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 5
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Eviny",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11173760416",
+      "name": "Circle K Gol",
+      "type": "charging_station",
+      "lat": 60.702323,
+      "lon": 8.943383,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 8
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 4
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7684338672",
+      "name": "Tesla Gol vest Supercharger",
+      "type": "charging_station",
+      "lat": 60.697411,
+      "lon": 8.953637,
+      "operator": "Tesla",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 24
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 16
+          }
+        ],
+        "capacity": 24
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8214252362",
+      "name": "Mer Burger King Gol",
+      "type": "charging_station",
+      "lat": 60.697914,
+      "lon": 8.953491,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8956376341",
+      "name": "Vestlia Hotel - Gratis Tesla lader",
+      "type": "charging_station",
+      "lat": 60.521852,
+      "lon": 8.195923,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8956377021",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 60.523421,
+      "lon": 8.202264,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10738043938",
+      "name": "Tesla Ål Supercharger",
+      "type": "charging_station",
+      "lat": 60.63007,
+      "lon": 8.56384,
+      "operator": "Tesla",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 20
+          }
+        ],
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11032254085",
+      "name": "Kople Ål sentrum øst",
+      "type": "charging_station",
+      "lat": 60.629311,
+      "lon": 8.563941,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 135.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 135.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Kople",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11032254086",
+      "name": "Kople Ål sentrum vest",
+      "type": "charging_station",
+      "lat": 60.62833,
+      "lon": 8.561207,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Kople",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11032254087",
+      "name": "Circle K Ål",
+      "type": "charging_station",
+      "lat": 60.628968,
+      "lon": 8.562127,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 175.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 175.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11169096598",
+      "name": "Eviny Tessungdalen Gavlen Fjellhandel",
+      "type": "charging_station",
+      "lat": 60.12557,
+      "lon": 8.684711,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Eviny",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11169096616",
+      "name": "Eviny Geilo",
+      "type": "charging_station",
+      "lat": 60.533122,
+      "lon": 8.208395,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 18
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 4
+          }
+        ],
+        "capacity": 19
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Eviny",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12755217985",
+      "name": "Ragde Charge Geiloporten",
+      "type": "charging_station",
+      "lat": 60.53412,
+      "lon": 8.2095,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Ragde Charge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11185853243",
+      "name": "Kople Rødberg hotell",
+      "type": "charging_station",
+      "lat": 60.267708,
+      "lon": 8.942779,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Kople",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11195959372",
+      "name": "Kople Coop Prix Uvdal",
+      "type": "charging_station",
+      "lat": 60.26933,
+      "lon": 8.751297,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Kople",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12755217981",
+      "name": "Ragde Charge Kiwi Hagafoss",
+      "type": "charging_station",
+      "lat": 60.598069,
+      "lon": 8.346433,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Ragde Charge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12755217984",
+      "name": "Ragde Charge Gol",
+      "type": "charging_station",
+      "lat": 60.697634,
+      "lon": 8.954263,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Ragde Charge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    }
+  ]
+}

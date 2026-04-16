@@ -1,0 +1,1224 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 51,
+    "lon": 14,
+    "bounds": {
+      "south": 51,
+      "north": 52,
+      "west": 14,
+      "east": 15
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 34,
+  "pois": [
+    {
+      "id": "osm-1229709556",
+      "name": "EnBW - EnBW",
+      "type": "charging_station",
+      "lat": 51.137483,
+      "lon": 14.184578,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EnBW",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1387493328",
+      "name": "EnBW - EnBW Energie Baden-Württemberg AG",
+      "type": "charging_station",
+      "lat": 51.956805,
+      "lon": 14.703153,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1416517712",
+      "name": "EnBW - EnBW",
+      "type": "charging_station",
+      "lat": 51.428148,
+      "lon": 14.236035,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EnBW",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1416542589",
+      "name": "Pfalzwerke - 123energie",
+      "type": "charging_station",
+      "lat": 51.428456,
+      "lon": 14.236819,
+      "operator": "Pfalzwerke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "123energie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1430188993",
+      "name": "EVlink",
+      "type": "charging_station",
+      "lat": 51.740967,
+      "lon": 14.320303,
+      "operator": "Carl-Thiem-Klinikum Cottbus",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 7
+          }
+        ],
+        "capacity": 7
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1433524789",
+      "name": "InCharge Netto",
+      "type": "charging_station",
+      "lat": 51.740796,
+      "lon": 14.332156,
+      "operator": "Vattenfall InCharge",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Vattenfall InCharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1465408800",
+      "name": "Vattenfall InCharge - Vattenfall",
+      "type": "charging_station",
+      "lat": 51.134731,
+      "lon": 14.179331,
+      "operator": "Vattenfall InCharge",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Vattenfall",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1465412086",
+      "name": "Vattenfall InCharge - Vattenfall InCharge",
+      "type": "charging_station",
+      "lat": 51.145274,
+      "lon": 14.028826,
+      "operator": "Vattenfall InCharge",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Vattenfall InCharge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1465419792",
+      "name": "amperio - amperio GmbH",
+      "type": "charging_station",
+      "lat": 51.178934,
+      "lon": 14.002965,
+      "operator": "amperio",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1465419793",
+      "name": "EnBW - EnBW",
+      "type": "charging_station",
+      "lat": 51.187665,
+      "lon": 14.015264,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EnBW",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1465430601",
+      "name": "ChargePoint",
+      "type": "charging_station",
+      "lat": 51.299824,
+      "lon": 14.098377,
+      "operator": "ChargePoint",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 14
+          }
+        ],
+        "capacity": 14
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargePoint",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1465430602",
+      "name": "ChargePoint",
+      "type": "charging_station",
+      "lat": 51.299343,
+      "lon": 14.094152,
+      "operator": "ChargePoint",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "ChargePoint",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1465430603",
+      "name": "ChargePoint",
+      "type": "charging_station",
+      "lat": 51.298823,
+      "lon": 14.091636,
+      "operator": "ChargePoint",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 50
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 52
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargePoint",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1465430604",
+      "name": "ChargePoint",
+      "type": "charging_station",
+      "lat": 51.298928,
+      "lon": 14.087768,
+      "operator": "ChargePoint",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "ChargePoint",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1467249169",
+      "name": "Ladestation Beteiligungs- und Betriebsgesellschaft Bautzen",
+      "type": "charging_station",
+      "lat": 51.181531,
+      "lon": 14.414934,
+      "operator": "Beteiligungs- und Betriebsgesellschaft Bautzen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467249170",
+      "name": "Aral - Aral pulse",
+      "type": "charging_station",
+      "lat": 51.17923,
+      "lon": 14.408725,
+      "operator": "Aral",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Aral pulse",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467249171",
+      "name": "EnBW - EnBW Energie Baden-Württemberg AG",
+      "type": "charging_station",
+      "lat": 51.17949,
+      "lon": 14.410981,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467249172",
+      "name": "Ladestation Beteiligungs- und Betriebsgesellschaft Bautzen",
+      "type": "charging_station",
+      "lat": 51.182214,
+      "lon": 14.429842,
+      "operator": "Beteiligungs- und Betriebsgesellschaft Bautzen",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467249173",
+      "name": "Aral - Aral pulse",
+      "type": "charging_station",
+      "lat": 51.190296,
+      "lon": 14.451845,
+      "operator": "Aral",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 6
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 100.0,
+            "count": 3
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Aral pulse",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1498776608",
+      "name": "Bautzen Supercharger",
+      "type": "charging_station",
+      "lat": 51.188642,
+      "lon": 14.454546,
+      "operator": "Tesla",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467274538",
+      "name": "Circle K - Circle K",
+      "type": "charging_station",
+      "lat": 51.102975,
+      "lon": 14.669948,
+      "operator": "Circle K",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 175.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 175.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 100.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467274539",
+      "name": "Ladestation Eliso",
+      "type": "charging_station",
+      "lat": 51.07373,
+      "lon": 14.646801,
+      "operator": "Eliso",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467274540",
+      "name": "Ladestation Kaufland",
+      "type": "charging_station",
+      "lat": 51.083002,
+      "lon": 14.661186,
+      "operator": "Kaufland",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467274541",
+      "name": "Ladestation Wirelane",
+      "type": "charging_station",
+      "lat": 51.105631,
+      "lon": 14.678011,
+      "operator": "Wirelane",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467285851",
+      "name": "Aral - Aral pulse",
+      "type": "charging_station",
+      "lat": 51.225896,
+      "lon": 14.902236,
+      "operator": "Aral",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 100.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Aral pulse",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467285852",
+      "name": "Ladestation Pfalzwerke",
+      "type": "charging_station",
+      "lat": 51.190138,
+      "lon": 14.956622,
+      "operator": "Pfalzwerke",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Sa 07:00-20:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 07:00-20:00",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467285853",
+      "name": "Circle K - Circle K",
+      "type": "charging_station",
+      "lat": 51.145822,
+      "lon": 14.983439,
+      "operator": "Circle K",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 175.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 175.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 100.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "E Mobility Card",
+          "Mastercard",
+          "Nfc",
+          "Visa",
+          "Visa Debit"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1467285854",
+      "name": "EnBW - EnBW Energie Baden-Württemberg AG",
+      "type": "charging_station",
+      "lat": 51.15504,
+      "lon": 14.970183,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467297129",
+      "name": "EnBW - EnBW Energie Baden-Württemberg AG",
+      "type": "charging_station",
+      "lat": 51.027481,
+      "lon": 14.218945,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467297130",
+      "name": "Ladestation SachsenEnergie",
+      "type": "charging_station",
+      "lat": 51.025616,
+      "lon": 14.216999,
+      "operator": "SachsenEnergie",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467300259",
+      "name": "EnBW - EnBW HyperNetz",
+      "type": "charging_station",
+      "lat": 51.050319,
+      "lon": 14.088955,
+      "operator": "EnBW",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EnBW HyperNetz",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1467319889",
+      "name": "Ladestation Lidl",
+      "type": "charging_station",
+      "lat": 51.092319,
+      "lon": 14.319531,
+      "operator": "Lidl",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "Mo-Sa 06:45-21:15"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 06:45-21:15",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1479143070",
+      "name": "eliso - eliso",
+      "type": "charging_station",
+      "lat": 51.517496,
+      "lon": 14.001241,
+      "operator": "eliso",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "eliso",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1498288939",
+      "name": "Tesla Supercharger",
+      "type": "charging_station",
+      "lat": 51.715778,
+      "lon": 14.352336,
+      "operator": "Tesla",
+      "address": {
+        "country": "DE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

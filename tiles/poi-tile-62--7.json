@@ -1,0 +1,101 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 62,
+    "lon": -7,
+    "bounds": {
+      "south": 62,
+      "north": 63,
+      "west": -7,
+      "east": -6
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-11999939154",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 62.068436,
+      "lon": -7.277042,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 3
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-12013308347",
+      "name": "Ladestation SEV",
+      "type": "charging_station",
+      "lat": 62.152694,
+      "lon": -7.148582,
+      "operator": "SEV",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 65,
+    "lon": -20,
+    "bounds": {
+      "south": 65,
+      "north": 66,
+      "west": -20,
+      "east": -19
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 6,
+  "pois": [
+    {
+      "id": "osm-9214937460",
+      "name": "Víðigerði",
+      "type": "charging_station",
+      "lat": 65.381425,
+      "lon": -20.644618,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 225.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 225.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 63.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11051583474",
+      "name": "Sundlaugin Hvammstanga - Hverfahleðsla",
+      "type": "charging_station",
+      "lat": 65.399826,
+      "lon": -20.942824,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11051599095",
+      "name": "Félagsheimili Hvammstangi - Hverfahleðsla",
+      "type": "charging_station",
+      "lat": 65.397177,
+      "lon": -20.945444,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11165926931",
+      "name": "N1 Blönduós",
+      "type": "charging_station",
+      "lat": 65.66009,
+      "lon": -20.274856,
+      "operator": "N1",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "N1",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12688710542",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 65.823798,
+      "lon": -20.307283,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12695483991",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 65.660082,
+      "lon": -20.282651,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

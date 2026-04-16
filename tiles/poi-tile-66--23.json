@@ -1,0 +1,155 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 66,
+    "lon": -23,
+    "bounds": {
+      "south": 66,
+      "north": 67,
+      "west": -23,
+      "east": -22
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-11165926932",
+      "name": "N1 Ísafjörður",
+      "type": "charging_station",
+      "lat": 66.074637,
+      "lon": -23.124349,
+      "operator": "N1",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "N1",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11920329578",
+      "name": "Ladestation Orkubú Vestfjarða",
+      "type": "charging_station",
+      "lat": 66.070047,
+      "lon": -23.122112,
+      "operator": "Orkubú Vestfjarða",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12827177198",
+      "name": "Ladestation Orkubú Vestfjarða",
+      "type": "charging_station",
+      "lat": 66.073537,
+      "lon": -23.131362,
+      "operator": "Orkubú Vestfjarða",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12847310841",
+      "name": "Ladestation Orkubú Vestfjarða",
+      "type": "charging_station",
+      "lat": 66.155927,
+      "lon": -23.252242,
+      "operator": "Orkubú Vestfjarða",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12847310842",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 66.155452,
+      "lon": -23.252809,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

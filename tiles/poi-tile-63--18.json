@@ -1,0 +1,135 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 63,
+    "lon": -18,
+    "bounds": {
+      "south": 63,
+      "north": 64,
+      "west": -18,
+      "east": -17
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-7820005163",
+      "name": "Kirkjubæjarklaustur Supercharger",
+      "type": "charging_station",
+      "lat": 63.789034,
+      "lon": -18.052244,
+      "operator": "Tesla",
+      "address": {
+        "street": "Klausturvegur",
+        "postcode": "880",
+        "city": "Kirkjubæjarklaustur",
+        "country": "IS"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11165926929",
+      "name": "N1 Kirkjubæjarklaustur",
+      "type": "charging_station",
+      "lat": 63.793432,
+      "lon": -18.039824,
+      "operator": "N1",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "no",
+        "brand": "N1",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12695460052",
+      "name": "Ladestation Ísorka",
+      "type": "charging_station",
+      "lat": 63.794661,
+      "lon": -18.038449,
+      "operator": "Ísorka",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

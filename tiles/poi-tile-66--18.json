@@ -1,0 +1,86 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 66,
+    "lon": -18,
+    "bounds": {
+      "south": 66,
+      "north": 67,
+      "west": -18,
+      "east": -17
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-12695403588",
+      "name": "Ladestation InstaVolt",
+      "type": "charging_station",
+      "lat": 66.149163,
+      "lon": -18.91191,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 160.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 160.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "InstaVolt",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12695517401",
+      "name": "Ladestation Ísorka",
+      "type": "charging_station",
+      "lat": 66.149211,
+      "lon": -18.90362,
+      "operator": "Ísorka",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

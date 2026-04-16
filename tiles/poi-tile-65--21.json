@@ -1,0 +1,290 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 65,
+    "lon": -21,
+    "bounds": {
+      "south": 65,
+      "north": 66,
+      "west": -21,
+      "east": -20
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 8,
+  "pois": [
+    {
+      "id": "osm-6723103507",
+      "name": "Búðardalur (Samkaup)",
+      "type": "charging_station",
+      "lat": 65.108284,
+      "lon": -21.762758,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 63.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9891087124",
+      "name": "Staðarskáli Supercharger",
+      "type": "charging_station",
+      "lat": 65.144789,
+      "lon": -21.084971,
+      "operator": "Tesla",
+      "address": {
+        "street": "Norðurlandsveg",
+        "postcode": "500",
+        "city": "Staður"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10825591589",
+      "name": "N1 Staðarskáli",
+      "type": "charging_station",
+      "lat": 65.144174,
+      "lon": -21.084206,
+      "operator": "N1",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "N1",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11929383590",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 65.701182,
+      "lon": -21.68615,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11929357506",
+      "name": "Ladestation Orkubú Vestfjarða",
+      "type": "charging_station",
+      "lat": 65.780406,
+      "lon": -21.519175,
+      "operator": "Orkubú Vestfjarða",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12827177194",
+      "name": "Ladestation Orkubú Vestfjarða",
+      "type": "charging_station",
+      "lat": 65.688682,
+      "lon": -21.447151,
+      "operator": "Orkubú Vestfjarða",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12827177200",
+      "name": "Ladestation Orkubú Vestfjarða",
+      "type": "charging_station",
+      "lat": 65.944628,
+      "lon": -21.55911,
+      "operator": "Orkubú Vestfjarða",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12858552350",
+      "name": "Ladestation Kempower",
+      "type": "charging_station",
+      "lat": 65.706457,
+      "lon": -21.665883,
+      "operator": "Kempower",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

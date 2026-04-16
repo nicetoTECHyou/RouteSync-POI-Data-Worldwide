@@ -1,0 +1,60 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 61,
+    "lon": 4,
+    "bounds": {
+      "south": 61,
+      "north": 62,
+      "west": 4,
+      "east": 5
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-11169096648",
+      "name": "Eviny Hardbakke",
+      "type": "charging_station",
+      "lat": 61.071654,
+      "lon": 4.840163,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "NO"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Eviny",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    }
+  ]
+}

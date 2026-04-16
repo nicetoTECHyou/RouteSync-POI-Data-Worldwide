@@ -1,0 +1,316 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 65,
+    "lon": -18,
+    "bounds": {
+      "south": 65,
+      "north": 66,
+      "west": -18,
+      "east": -17
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 9,
+  "pois": [
+    {
+      "id": "osm-4346238381",
+      "name": "Akureyri (Hof)",
+      "type": "charging_station",
+      "lat": 65.684087,
+      "lon": -18.086858,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 63.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6721193275",
+      "name": "Akureyri Glerártorg",
+      "type": "charging_station",
+      "lat": 65.687645,
+      "lon": -18.099526,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6723103509",
+      "name": "ON",
+      "type": "charging_station",
+      "lat": 65.970021,
+      "lon": -18.5284,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9891067419",
+      "name": "Akureyri Supercharger",
+      "type": "charging_station",
+      "lat": 65.697416,
+      "lon": -18.139232,
+      "operator": "Tesla",
+      "address": {
+        "street": "Austursíða 2",
+        "postcode": "603",
+        "city": "Akureyri",
+        "country": "IS"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11051584876",
+      "name": "Byko Akureyri",
+      "type": "charging_station",
+      "lat": 65.699919,
+      "lon": -18.138711,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11537281661",
+      "name": "Orkan - Hörgárbraut",
+      "type": "charging_station",
+      "lat": 65.695562,
+      "lon": -18.121287,
+      "operator": "Orkan",
+      "address": {},
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 8
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "Orkan",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12066059869",
+      "name": "Hleðslustöð fyrir rafbíla",
+      "type": "charging_station",
+      "lat": 65.670899,
+      "lon": -18.095102,
+      "operator": "Saeluhus Apartments & Houses\nSæluhús Akureyri",
+      "address": {
+        "street": "Sunnutröð 2",
+        "postcode": "600"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-12692769467",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 65.686586,
+      "lon": -18.079397,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12695479966",
+      "name": "Ísorka - Hypercharger",
+      "type": "charging_station",
+      "lat": 65.966891,
+      "lon": -18.529824,
+      "operator": "Ísorka",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Hypercharger",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

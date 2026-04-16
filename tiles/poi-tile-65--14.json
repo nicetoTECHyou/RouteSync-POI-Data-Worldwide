@@ -1,0 +1,251 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 65,
+    "lon": -14,
+    "bounds": {
+      "south": 65,
+      "north": 66,
+      "west": -14,
+      "east": -13
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 7,
+  "pois": [
+    {
+      "id": "osm-6721193272",
+      "name": "ON",
+      "type": "charging_station",
+      "lat": 65.260366,
+      "lon": -14.408244,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9891073360",
+      "name": "Egilsstaðir Supercharger",
+      "type": "charging_station",
+      "lat": 65.259394,
+      "lon": -14.406497,
+      "operator": "Tesla",
+      "address": {
+        "street": "Kaupvangur 9",
+        "postcode": "700",
+        "city": "Egilsstaðir",
+        "country": "IS"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11055291745",
+      "name": "Vök Baths - Hverfahleðsla",
+      "type": "charging_station",
+      "lat": 65.303331,
+      "lon": -14.445445,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 10
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12641726922",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 65.033816,
+      "lon": -14.231242,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12643895840",
+      "name": "Ladestation Orka",
+      "type": "charging_station",
+      "lat": 65.257818,
+      "lon": -14.412917,
+      "operator": "Orka",
+      "address": {},
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12646470071",
+      "name": "Ladestation ísorka",
+      "type": "charging_station",
+      "lat": 65.260063,
+      "lon": -14.009113,
+      "operator": "ísorka",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12646533252",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 65.267151,
+      "lon": -14.395888,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

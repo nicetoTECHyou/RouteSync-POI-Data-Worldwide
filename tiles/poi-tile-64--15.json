@@ -1,0 +1,187 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 64,
+    "lon": -15,
+    "bounds": {
+      "south": 64,
+      "north": 65,
+      "west": -15,
+      "east": -14
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-6721193269",
+      "name": "Nesjahverfi (Höfn - Hótel Jökull)",
+      "type": "charging_station",
+      "lat": 64.312098,
+      "lon": -15.228878,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8934186032",
+      "name": "Olís Höfn",
+      "type": "charging_station",
+      "lat": 64.255318,
+      "lon": -15.208961,
+      "operator": "Isorka",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9219977709",
+      "name": "Höfn Supercharger",
+      "type": "charging_station",
+      "lat": 64.250162,
+      "lon": -15.205568,
+      "operator": "Tesla",
+      "address": {
+        "street": "Víkurbraut 1",
+        "postcode": "780",
+        "city": "Höfn",
+        "country": "IS"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 3
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11055266661",
+      "name": "Hótel Edda - Höfn",
+      "type": "charging_station",
+      "lat": 64.249666,
+      "lon": -15.207444,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12919627001",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 64.252729,
+      "lon": -15.211569,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

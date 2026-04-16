@@ -1,0 +1,62 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 64,
+    "lon": -14,
+    "bounds": {
+      "south": 64,
+      "north": 65,
+      "west": -14,
+      "east": -13
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-6721193270",
+      "name": "Djúpivogur",
+      "type": "charging_station",
+      "lat": 64.656509,
+      "lon": -14.283475,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid"
+        ],
+        "fee": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,6011 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 54,
+    "lon": -2,
+    "bounds": {
+      "south": 54,
+      "north": 55,
+      "west": -2,
+      "east": -1
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 192,
+  "pois": [
+    {
+      "id": "osm-4192674150",
+      "name": "Ladestation Lancaster University",
+      "type": "charging_station",
+      "lat": 54.005738,
+      "lon": -2.785403,
+      "operator": "Lancaster University",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-6405972053",
+      "name": "Ladestation Lancaster University",
+      "type": "charging_station",
+      "lat": 54.006508,
+      "lon": -2.782924,
+      "operator": "Lancaster University",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-6405972054",
+      "name": "Ladestation Lancaster University",
+      "type": "charging_station",
+      "lat": 54.008653,
+      "lon": -2.788232,
+      "operator": "Lancaster University",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-5001767897",
+      "name": "The Sill",
+      "type": "charging_station",
+      "lat": 54.995576,
+      "lon": -2.388349,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-5002164112",
+      "name": "Bowlees Visitor Centre - MER",
+      "type": "charging_station",
+      "lat": 54.64886,
+      "lon": -2.145991,
+      "operator": "Bowlees Visitor Centre",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "MER",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5076912392",
+      "name": "Ladestation Sevadis",
+      "type": "charging_station",
+      "lat": 54.601149,
+      "lon": -2.84992,
+      "operator": "Sevadis",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5201752445",
+      "name": "Ladestation GeniePoint",
+      "type": "charging_station",
+      "lat": 54.331854,
+      "lon": -2.748508,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Geniepoint"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7551650403",
+      "name": "Booths - InstaVolt",
+      "type": "charging_station",
+      "lat": 54.328068,
+      "lon": -2.749072,
+      "operator": "Booths",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "InstaVolt",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless",
+          "Telephone"
+        ],
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-10282313986",
+      "name": "South Lakeland District Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.329456,
+      "lon": -2.748823,
+      "operator": "South Lakeland District Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12650321851",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.331931,
+      "lon": -2.747334,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5424880930",
+      "name": "Ladestation Lancaster University",
+      "type": "charging_station",
+      "lat": 54.012533,
+      "lon": -2.783306,
+      "operator": "Lancaster University",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6405972052",
+      "name": "Ladestation Lancaster University",
+      "type": "charging_station",
+      "lat": 54.008874,
+      "lon": -2.783008,
+      "operator": "Lancaster University",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 15
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1271588615",
+      "name": "Visitor Car Park C",
+      "type": "charging_station",
+      "lat": 54.011457,
+      "lon": -2.783455,
+      "operator": "Lancaster University",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-5695041729",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.380312,
+      "lon": -2.90325,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9853708755",
+      "name": "Ladestation Country Lanes Cycle Hire",
+      "type": "charging_station",
+      "lat": 54.37973,
+      "lon": -2.903557,
+      "operator": "Country Lanes Cycle Hire",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6020661718",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.474659,
+      "lon": -2.352002,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6020668670",
+      "name": "Ladestation GeniePoint",
+      "type": "charging_station",
+      "lat": 54.201879,
+      "lon": -2.599604,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6602580547",
+      "name": "Booths - InstaVolt",
+      "type": "charging_station",
+      "lat": 54.201453,
+      "lon": -2.600022,
+      "operator": "Booths",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "InstaVolt",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless",
+          "Telephone"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6093160272",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.609897,
+      "lon": -2.809268,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6234226606",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.971193,
+      "lon": -2.097546,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6234226619",
+      "name": "Ladestation Electric Blue",
+      "type": "charging_station",
+      "lat": 54.972541,
+      "lon": -2.09717,
+      "operator": "Electric Blue",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13168187936",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.974533,
+      "lon": -2.098265,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6400261957",
+      "name": "Lancaster Boys and Girls Club - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.045315,
+      "lon": -2.805155,
+      "operator": "Lancaster Boys and Girls Club",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8334651126",
+      "name": "ALDI - Veefil by Tritium",
+      "type": "charging_station",
+      "lat": 54.04405,
+      "lon": -2.801779,
+      "operator": "ALDI",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Veefil by Tritium",
+        "network": "shell newmotion",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Contactless",
+          "Sms"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6400261977",
+      "name": "NewMotion - Hubsta",
+      "type": "charging_station",
+      "lat": 54.031612,
+      "lon": -2.802199,
+      "operator": "NewMotion",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Hubsta",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6400261979",
+      "name": "Shell Recharge - Shell Recharge Solutions",
+      "type": "charging_station",
+      "lat": 54.06231,
+      "lon": -2.788221,
+      "operator": "Shell Recharge",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6480531411",
+      "name": "GeniePoint - Genie Point",
+      "type": "charging_station",
+      "lat": 54.426056,
+      "lon": -2.961667,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Genie Point",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7671575958",
+      "name": "Ladestation Hayes Garden Centre",
+      "type": "charging_station",
+      "lat": 54.425369,
+      "lon": -2.962676,
+      "operator": "Hayes Garden Centre",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-6497388926",
+      "name": "Booths - InstaVolt",
+      "type": "charging_station",
+      "lat": 54.028006,
+      "lon": -2.793769,
+      "operator": "Booths",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "InstaVolt",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless",
+          "Telephone"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6504230755",
+      "name": "Boot and Shoe - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.026983,
+      "lon": -2.794969,
+      "operator": "Boot and Shoe",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6497388936",
+      "name": "Lidl - podpoint",
+      "type": "charging_station",
+      "lat": 54.054109,
+      "lon": -2.79451,
+      "operator": "Lidl",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "podpoint",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9690534575",
+      "name": "Father's House - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.056176,
+      "lon": -2.79914,
+      "operator": "Father's House",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-6506349882",
+      "name": "Ladestation PodPoint",
+      "type": "charging_station",
+      "lat": 54.384576,
+      "lon": -2.915985,
+      "operator": "PodPoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "PodPoint",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6508499868",
+      "name": "Lancaster City Council - BP chargemaster",
+      "type": "charging_station",
+      "lat": 54.04503,
+      "lon": -2.798567,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "BP chargemaster",
+        "network": "Polar",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-6583626095",
+      "name": "Ladestation Lancaster City Council",
+      "type": "charging_station",
+      "lat": 54.046904,
+      "lon": -2.797027,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9066982017",
+      "name": "Lancaster City Council - EVBOX",
+      "type": "charging_station",
+      "lat": 54.04672,
+      "lon": -2.801062,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "EVBOX",
+        "network": "EB Go!",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-6513419971",
+      "name": "Gridserve - Gridserve",
+      "type": "charging_station",
+      "lat": 54.647004,
+      "lon": -2.781516,
+      "operator": "Gridserve",
+      "address": {
+        "postcode": "CA11 0DQ",
+        "city": "Penrith"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Gridserve",
+        "network": "",
+        "opening_hours": "Mo-Su 05:30-21:45"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 05:30-21:45",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-6515098324",
+      "name": "Ladestation Tesla Destination",
+      "type": "charging_station",
+      "lat": 54.35205,
+      "lon": -2.912539,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Tesla Destination",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6515167257",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.432086,
+      "lon": -2.961751,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9853689805",
+      "name": "Ladestation Ghyllside Cycles",
+      "type": "charging_station",
+      "lat": 54.431804,
+      "lon": -2.963047,
+      "operator": "Ghyllside Cycles",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-6516570302",
+      "name": "Ladestation InstaVolt",
+      "type": "charging_station",
+      "lat": 54.129924,
+      "lon": -2.766925,
+      "operator": "InstaVolt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6520745361",
+      "name": "Lancaster City Council - BP chargemaster",
+      "type": "charging_station",
+      "lat": 54.048011,
+      "lon": -2.796176,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "BP chargemaster",
+        "network": "Polar",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-6520745362",
+      "name": "Lancaster City Council - BP chargemaster",
+      "type": "charging_station",
+      "lat": 54.050388,
+      "lon": -2.794886,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "no",
+        "brand": "BP chargemaster",
+        "network": "Polar",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-6556047787",
+      "name": "Polar - BP Chargemaster",
+      "type": "charging_station",
+      "lat": 54.07561,
+      "lon": -2.861508,
+      "operator": "Polar",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "BP Chargemaster",
+        "network": "Polar",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7671166632",
+      "name": "Lancaster City Council - EO",
+      "type": "charging_station",
+      "lat": 54.075623,
+      "lon": -2.857952,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "EO",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "rfid"
+      }
+    },
+    {
+      "id": "osm-7149781197",
+      "name": "Lancaster City Council - BP Chargemaster",
+      "type": "charging_station",
+      "lat": 54.072343,
+      "lon": -2.869184,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "BP Chargemaster",
+        "network": "Polar",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-8688731169",
+      "name": "Lancaster City Council - EO",
+      "type": "charging_station",
+      "lat": 54.071146,
+      "lon": -2.872727,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EO",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9644397269",
+      "name": "Ladestation GeniePoint",
+      "type": "charging_station",
+      "lat": 54.069822,
+      "lon": -2.8748,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6681885542",
+      "name": "Ladestation GeniePoint",
+      "type": "charging_station",
+      "lat": 54.047989,
+      "lon": -2.285776,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6818300159",
+      "name": "Ladestation Lancaster City Council",
+      "type": "charging_station",
+      "lat": 54.071029,
+      "lon": -2.866661,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9653818838",
+      "name": "Blink",
+      "type": "charging_station",
+      "lat": 54.070767,
+      "lon": -2.865336,
+      "operator": "EB GOI",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Blink",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6918834035",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.969529,
+      "lon": -2.091982,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6969262826",
+      "name": "Ladestation Arnside Chip Shop",
+      "type": "charging_station",
+      "lat": 54.203712,
+      "lon": -2.830948,
+      "operator": "Arnside Chip Shop",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12922286215",
+      "name": "Arnside Education Institute - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.20172,
+      "lon": -2.833662,
+      "operator": "Arnside Education Institute",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6976437698",
+      "name": "Ladestation Bespoke eBikes",
+      "type": "charging_station",
+      "lat": 54.16932,
+      "lon": -2.971752,
+      "operator": "Bespoke eBikes",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7016612584",
+      "name": "Pod Point",
+      "type": "charging_station",
+      "lat": 54.889757,
+      "lon": -2.933289,
+      "operator": "Pod Point",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Pod Point",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7111740699",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.401153,
+      "lon": -2.941982,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12772207712",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.40131,
+      "lon": -2.939873,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7171532946",
+      "name": "Lancaster City Council - BP chargemaster",
+      "type": "charging_station",
+      "lat": 54.068972,
+      "lon": -2.771404,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "BP chargemaster",
+        "network": "BP Pulse",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7171532955",
+      "name": "Lancaster City Council - BP Pulse",
+      "type": "charging_station",
+      "lat": 54.069255,
+      "lon": -2.771407,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "BP Pulse",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12178541133",
+      "name": "Ladestation PoGo",
+      "type": "charging_station",
+      "lat": 54.070459,
+      "lon": -2.778627,
+      "operator": "PoGo",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7223242062",
+      "name": "Ladestation Kirkwood Guest House",
+      "type": "charging_station",
+      "lat": 54.37193,
+      "lon": -2.908181,
+      "operator": "Kirkwood Guest House",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10220632256",
+      "name": "South Lakeland District Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.376512,
+      "lon": -2.90494,
+      "operator": "South Lakeland District Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7270715361",
+      "name": "Tyne Willows Pavilion - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.813415,
+      "lon": -2.442434,
+      "operator": "Tyne Willows Pavilion",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7667983226",
+      "name": "Lancashire County Council - BP chargemaster",
+      "type": "charging_station",
+      "lat": 54.128975,
+      "lon": -2.768994,
+      "operator": "Lancashire County Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "BP chargemaster",
+        "network": "Polar",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7667983227",
+      "name": "Lancashire County Council - Polar",
+      "type": "charging_station",
+      "lat": 54.128722,
+      "lon": -2.770138,
+      "operator": "Lancashire County Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Polar",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8041991762",
+      "name": "Tesco - PodPoint",
+      "type": "charging_station",
+      "lat": 54.126299,
+      "lon": -2.772668,
+      "operator": "Tesco",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "PodPoint",
+        "network": "PodPoint",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-7667989039",
+      "name": "GeniePoint - GeniePoint",
+      "type": "charging_station",
+      "lat": 54.664259,
+      "lon": -2.757293,
+      "operator": "GeniePoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "GeniePoint",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Geniepoint"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9215128356",
+      "name": "Booths - InstaVolt",
+      "type": "charging_station",
+      "lat": 54.664801,
+      "lon": -2.757086,
+      "operator": "Booths",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "InstaVolt",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless",
+          "Telephone"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7668019029",
+      "name": "The Inn on the Lake - Polar",
+      "type": "charging_station",
+      "lat": 54.545583,
+      "lon": -2.949691,
+      "operator": "The Inn on the Lake",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Polar",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8281484663",
+      "name": "LDNPA - podpoint",
+      "type": "charging_station",
+      "lat": 54.543755,
+      "lon": -2.950873,
+      "operator": "LDNPA",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "podpoint",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-9853725152",
+      "name": "Ladestation Ullswater Steamers",
+      "type": "charging_station",
+      "lat": 54.543859,
+      "lon": -2.94455,
+      "operator": "Ullswater Steamers",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7668042944",
+      "name": "Adventure Leisure Vehicles - bp pulse",
+      "type": "charging_station",
+      "lat": 54.43821,
+      "lon": -2.592155,
+      "operator": "Adventure Leisure Vehicles",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "bp pulse",
+        "network": "Polar",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7671166145",
+      "name": "Beech Hill Hotel - Chargemaster",
+      "type": "charging_station",
+      "lat": 54.321338,
+      "lon": -2.940082,
+      "operator": "Beech Hill Hotel",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "Chargemaster",
+        "network": "Polar",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7746387714",
+      "name": "Ladestation Lakeland Wildlife Oasis",
+      "type": "charging_station",
+      "lat": 54.193535,
+      "lon": -2.753655,
+      "operator": "Lakeland Wildlife Oasis",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7819710145",
+      "name": "Ladestation Lancaster University",
+      "type": "charging_station",
+      "lat": 54.016821,
+      "lon": -2.792547,
+      "operator": "Lancaster University",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7993657028",
+      "name": "Ladestation Heysham Visitor Centre",
+      "type": "charging_station",
+      "lat": 54.030578,
+      "lon": -2.911522,
+      "operator": "Heysham Visitor Centre",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7999762504",
+      "name": "Kendal College - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.318319,
+      "lon": -2.747319,
+      "operator": "Kendal College",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-8045050109",
+      "name": "Ladestation podpoint",
+      "type": "charging_station",
+      "lat": 54.146707,
+      "lon": -2.049918,
+      "operator": "podpoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "podpoint",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8178975575",
+      "name": "Dalston Parish Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.840916,
+      "lon": -2.983922,
+      "operator": "Dalston Parish Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8422735591",
+      "name": "Linton Tweeds - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.892522,
+      "lon": -2.944733,
+      "operator": "Linton Tweeds",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8906781721",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.892873,
+      "lon": -2.949976,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8521654915",
+      "name": "Pod Point - Pod Point",
+      "type": "charging_station",
+      "lat": 54.045297,
+      "lon": -2.781026,
+      "operator": "Pod Point",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "Pod Point",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8525909989",
+      "name": "Lancaster City Council - EO",
+      "type": "charging_station",
+      "lat": 54.042822,
+      "lon": -2.783837,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EO",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8605705593",
+      "name": "Blain House - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.658222,
+      "lon": -2.745749,
+      "operator": "Blain House",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8764135034",
+      "name": "Ladestation podpoint",
+      "type": "charging_station",
+      "lat": 54.191741,
+      "lon": -2.089764,
+      "operator": "podpoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "podpoint",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8764135036",
+      "name": "Ladestation podpoint",
+      "type": "charging_station",
+      "lat": 54.148913,
+      "lon": -2.296069,
+      "operator": "podpoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "podpoint",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-8839719141",
+      "name": "Lancaster City Council - EO",
+      "type": "charging_station",
+      "lat": 54.065498,
+      "lon": -2.84787,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EO",
+        "network": "ChargeMyStreet",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8888142339",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.278614,
+      "lon": -2.455308,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8888243792",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.892972,
+      "lon": -2.942844,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8894598561",
+      "name": "Newby and Morland Village Hall - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.5937,
+      "lon": -2.624513,
+      "operator": "Newby and Morland Village Hall",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8894621060",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.894769,
+      "lon": -2.9452,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8895501307",
+      "name": "Sands Centre - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.899382,
+      "lon": -2.932866,
+      "operator": "Sands Centre",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8897700844",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.890745,
+      "lon": -2.967215,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8898229595",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.90444,
+      "lon": -2.936949,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8898290231",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.943765,
+      "lon": -2.734739,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8904699423",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.886694,
+      "lon": -2.942772,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8910418418",
+      "name": "Ladestation BP Pulse",
+      "type": "charging_station",
+      "lat": 54.968422,
+      "lon": -2.46434,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "BP Pulse",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8913552100",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.050499,
+      "lon": -2.814019,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8913586714",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.049141,
+      "lon": -2.888072,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8913589712",
+      "name": "Lancaster City Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.05533,
+      "lon": -2.825393,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12258797167",
+      "name": "Ladestation EV Point",
+      "type": "charging_station",
+      "lat": 54.055974,
+      "lon": -2.825359,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 150.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EV Point",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Apple Pay",
+          "Contactless",
+          "Google Pay"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8913601684",
+      "name": "Lancaster City Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.047295,
+      "lon": -2.804565,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8914765216",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.930012,
+      "lon": -2.918691,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9178336255",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.986657,
+      "lon": -2.519722,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9207981981",
+      "name": "Yorkshire Dales National Park - podpoint",
+      "type": "charging_station",
+      "lat": 54.117827,
+      "lon": -2.390664,
+      "operator": "Yorkshire Dales National Park",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "podpoint",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-9215121819",
+      "name": "Ladestation Miners Arms",
+      "type": "charging_station",
+      "lat": 54.788233,
+      "lon": -2.341931,
+      "operator": "Miners Arms",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cash"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9215128355",
+      "name": "Ullswater Road Garage - podpoint",
+      "type": "charging_station",
+      "lat": 54.656718,
+      "lon": -2.76177,
+      "operator": "Ullswater Road Garage",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "podpoint",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9215154353",
+      "name": "Shap Parish Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.52913,
+      "lon": -2.676007,
+      "operator": "Shap Parish Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9288179317",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.897275,
+      "lon": -2.254008,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9609959359",
+      "name": "Staveley Mill Yard - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.377417,
+      "lon": -2.814998,
+      "operator": "Staveley Mill Yard",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-9609967567",
+      "name": "Haven Cottage - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.434753,
+      "lon": -2.966803,
+      "operator": "Haven Cottage",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9610593114",
+      "name": "Carlisle City Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.898194,
+      "lon": -2.936102,
+      "operator": "Carlisle City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9699309857",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.973063,
+      "lon": -2.249175,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-9727580279",
+      "name": "Lancaster City Council - EVBOX",
+      "type": "charging_station",
+      "lat": 54.045114,
+      "lon": -2.899478,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "EVBOX",
+        "network": "EB Go!",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-9731283810",
+      "name": "Botcherby Community Centre - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.894015,
+      "lon": -2.905715,
+      "operator": "Botcherby Community Centre",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9797460556",
+      "name": "The Belah Community Centre - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.913063,
+      "lon": -2.94409,
+      "operator": "The Belah Community Centre",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1299805737",
+      "name": "Rydal Hall - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.44867,
+      "lon": -2.980287,
+      "operator": "Rydal Hall",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-9813325822",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.225998,
+      "lon": -2.77341,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-9853684248",
+      "name": "Ladestation Upfront Coffee Shop",
+      "type": "charging_station",
+      "lat": 54.715701,
+      "lon": -2.850445,
+      "operator": "Upfront Coffee Shop",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9853689330",
+      "name": "Ladestation Farfield Mill",
+      "type": "charging_station",
+      "lat": 54.321654,
+      "lon": -2.49801,
+      "operator": "Farfield Mill",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9853708756",
+      "name": "Ladestation The Fat Lamb",
+      "type": "charging_station",
+      "lat": 54.416096,
+      "lon": -2.403495,
+      "operator": "The Fat Lamb",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9853731957",
+      "name": "Ladestation Sun Inn",
+      "type": "charging_station",
+      "lat": 54.348905,
+      "lon": -2.825128,
+      "operator": "Sun Inn",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9929211092",
+      "name": "Currock Community Centre - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.879074,
+      "lon": -2.937263,
+      "operator": "Currock Community Centre",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9931681830",
+      "name": "Dale House Barn - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.024631,
+      "lon": -2.406512,
+      "operator": "Dale House Barn",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9953594719",
+      "name": "Gamblesby Village Hall - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.752577,
+      "lon": -2.608141,
+      "operator": "Gamblesby Village Hall",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9963527180",
+      "name": "Morton Manor Community Centre - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.885752,
+      "lon": -2.964899,
+      "operator": "Morton Manor Community Centre",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9963573369",
+      "name": "Petteril Bank School - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.8727,
+      "lon": -2.907733,
+      "operator": "Petteril Bank School",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9963673761",
+      "name": "Harraby Community Campus - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.881047,
+      "lon": -2.89356,
+      "operator": "Harraby Community Campus",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10005974627",
+      "name": "Yorkshire Subterranean Society - podpoint",
+      "type": "charging_station",
+      "lat": 54.120973,
+      "lon": -2.291808,
+      "operator": "Yorkshire Subterranean Society",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "podpoint",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10087937585",
+      "name": "South Lakeland District Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.191121,
+      "lon": -2.9121,
+      "operator": "South Lakeland District Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10087980670",
+      "name": "South Lakeland District Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.323127,
+      "lon": -2.746167,
+      "operator": "South Lakeland District Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10097460101",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.05431,
+      "lon": -2.810117,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10118540512",
+      "name": "Ladestation Pye Motors",
+      "type": "charging_station",
+      "lat": 54.055886,
+      "lon": -2.83481,
+      "operator": "Pye Motors",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10118540619",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.056342,
+      "lon": -2.835296,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10220643164",
+      "name": "South Lakeland District Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.430265,
+      "lon": -2.963264,
+      "operator": "South Lakeland District Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10231193059",
+      "name": "Ionity Carlisle",
+      "type": "charging_station",
+      "lat": 54.927511,
+      "lon": -2.950019,
+      "operator": "IONITY",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10235655457",
+      "name": "South Lakeland District Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.366039,
+      "lon": -2.920011,
+      "operator": "South Lakeland District Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12068064156",
+      "name": "Ladestation Spar",
+      "type": "charging_station",
+      "lat": 54.367224,
+      "lon": -2.920896,
+      "operator": "Spar",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12246271008",
+      "name": "Ladestation Fallbarrow Holiday Park",
+      "type": "charging_station",
+      "lat": 54.366729,
+      "lon": -2.92166,
+      "operator": "Fallbarrow Holiday Park",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10282304020",
+      "name": "South Lakeland District Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.327463,
+      "lon": -2.745865,
+      "operator": "South Lakeland District Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10573687487",
+      "name": "Ladestation Pod Point",
+      "type": "charging_station",
+      "lat": 54.15213,
+      "lon": -2.469696,
+      "operator": "Pod Point",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10679419053",
+      "name": "Lancaster City Council - iCharge Ltd",
+      "type": "charging_station",
+      "lat": 54.034591,
+      "lon": -2.797423,
+      "operator": "Lancaster City Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "iCharge Ltd",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10789056112",
+      "name": "The Lakeland Village - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.255817,
+      "lon": -2.989362,
+      "operator": "The Lakeland Village",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10908423382",
+      "name": "Ladestation The Hyning Estate",
+      "type": "charging_station",
+      "lat": 54.36621,
+      "lon": -2.634269,
+      "operator": "The Hyning Estate",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10960595620",
+      "name": "Cumberland Council - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.941234,
+      "lon": -2.736138,
+      "operator": "Cumberland Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11009057793",
+      "name": "Ladestation BP Chargemaster",
+      "type": "charging_station",
+      "lat": 54.067388,
+      "lon": -2.802565,
+      "operator": "BP Chargemaster",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11018494223",
+      "name": "Ladestation Tritium",
+      "type": "charging_station",
+      "lat": 54.041285,
+      "lon": -2.793842,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Tritium",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11018610405",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.125357,
+      "lon": -2.751907,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12772005715",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.127175,
+      "lon": -2.750422,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11020994906",
+      "name": "InstaVolt - Instavolt",
+      "type": "charging_station",
+      "lat": 54.158776,
+      "lon": -2.733806,
+      "operator": "InstaVolt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Instavolt",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11021010515",
+      "name": "Ladestation Tritium",
+      "type": "charging_station",
+      "lat": 54.083668,
+      "lon": -2.800691,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Tritium",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11048032009",
+      "name": "Ladestation Osprey",
+      "type": "charging_station",
+      "lat": 54.067746,
+      "lon": -2.278472,
+      "operator": "Osprey",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11159890396",
+      "name": "Bampton Memorial Hall - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.556662,
+      "lon": -2.74891,
+      "operator": "Bampton Memorial Hall",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11289782296",
+      "name": "Yealand Village Hall - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.170773,
+      "lon": -2.761938,
+      "operator": "Yealand Village Hall",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11410667155",
+      "name": "BP Pulse - BP Pulse",
+      "type": "charging_station",
+      "lat": 54.04058,
+      "lon": -2.780415,
+      "operator": "BP Pulse",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "BP Pulse",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1488079975",
+      "name": "Zest - Zest",
+      "type": "charging_station",
+      "lat": 54.038065,
+      "lon": -2.790012,
+      "operator": "Zest",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Zest",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11735042852",
+      "name": "EVC - Autel",
+      "type": "charging_station",
+      "lat": 54.365213,
+      "lon": -2.920225,
+      "operator": "EVC",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Autel",
+        "network": "EVC",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11831553397",
+      "name": "VendElectric - Rolec EV",
+      "type": "charging_station",
+      "lat": 54.059394,
+      "lon": -2.834328,
+      "operator": "VendElectric",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Rolec EV",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11844186585",
+      "name": "Ladestation Pod Point",
+      "type": "charging_station",
+      "lat": 54.101095,
+      "lon": -2.276026,
+      "operator": "Pod Point",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11915698930",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.972893,
+      "lon": -2.09866,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13672619657",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.974962,
+      "lon": -2.099166,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12031334752",
+      "name": "Ladestation Pod Point",
+      "type": "charging_station",
+      "lat": 54.076111,
+      "lon": -2.755335,
+      "operator": "Pod Point",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12072318593",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.694358,
+      "lon": -2.66386,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12178543107",
+      "name": "SJ Bargh - iCharge",
+      "type": "charging_station",
+      "lat": 54.068084,
+      "lon": -2.783202,
+      "operator": "SJ Bargh",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "iCharge",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1308410888",
+      "name": "Lune Aqueduct Car Park Charging Station",
+      "type": "charging_station",
+      "lat": 54.066774,
+      "lon": -2.785074,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12206908238",
+      "name": "Ladestation Charge your car",
+      "type": "charging_station",
+      "lat": 54.992782,
+      "lon": -2.450389,
+      "operator": "Charge your car",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12215918104",
+      "name": "Hutton Roof Village Hall - Charge My Street",
+      "type": "charging_station",
+      "lat": 54.201909,
+      "lon": -2.660362,
+      "operator": "Hutton Roof Village Hall",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Charge My Street",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12251184710",
+      "name": "Ladestation Langdale Chase Hotel",
+      "type": "charging_station",
+      "lat": 54.407384,
+      "lon": -2.946489,
+      "operator": "Langdale Chase Hotel",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12312953740",
+      "name": "Ladestation Fraser Hall",
+      "type": "charging_station",
+      "lat": 54.183046,
+      "lon": -2.559379,
+      "operator": "Fraser Hall",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12565496551",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.377486,
+      "lon": -2.825251,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12565709465",
+      "name": "Ladestation Pod Point",
+      "type": "charging_station",
+      "lat": 54.304513,
+      "lon": -2.192877,
+      "operator": "Pod Point",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12602229344",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.076964,
+      "lon": -2.83789,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12655968761",
+      "name": "EV OpenCharge - Rolec EV",
+      "type": "charging_station",
+      "lat": 54.339712,
+      "lon": -2.734095,
+      "operator": "EV OpenCharge",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Rolec EV",
+        "network": "EV OpenCharge",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12758347768",
+      "name": "Ladestation Northumberland County Council",
+      "type": "charging_station",
+      "lat": 54.968595,
+      "lon": -2.459736,
+      "operator": "Northumberland County Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12777193297",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 54.156132,
+      "lon": -2.736169,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12848628997",
+      "name": "Ladestation ChargeMyStreet",
+      "type": "charging_station",
+      "lat": 54.711554,
+      "lon": -2.87523,
+      "operator": "ChargeMyStreet",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12855091328",
+      "name": "Ladestation Charge My Street",
+      "type": "charging_station",
+      "lat": 54.745412,
+      "lon": -2.002949,
+      "operator": "Charge My Street",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13025709136",
+      "name": "Mer - Mer",
+      "type": "charging_station",
+      "lat": 54.749256,
+      "lon": -2.009263,
+      "operator": "Mer",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1418183220",
+      "name": "Mer - Mer",
+      "type": "charging_station",
+      "lat": 54.748699,
+      "lon": -2.007541,
+      "operator": "Mer",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13436153540",
+      "name": "Ladestation Arnold Clark",
+      "type": "charging_station",
+      "lat": 54.922718,
+      "lon": -2.946826,
+      "operator": "Arnold Clark",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 9
+          }
+        ],
+        "capacity": 9
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1267155597",
+      "name": "PodPoint - PodPoint",
+      "type": "charging_station",
+      "lat": 54.373756,
+      "lon": -2.99726,
+      "operator": "PodPoint",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "PodPoint",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1292184645",
+      "name": "Ladestation Swarco",
+      "type": "charging_station",
+      "lat": 54.449527,
+      "lon": -2.611547,
+      "operator": "Swarco",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 8
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1292184646",
+      "name": "Tebay Southbound Supercharger",
+      "type": "charging_station",
+      "lat": 54.453506,
+      "lon": -2.606169,
+      "operator": "Tesla",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1365555033",
+      "name": "Gridserve - Gridserve",
+      "type": "charging_station",
+      "lat": 54.314535,
+      "lon": -2.634997,
+      "operator": "Gridserve",
+      "address": {
+        "postcode": "LA8 0NW",
+        "city": "Kendal"
+      },
+      "power": {
+        "max_kw": 40.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 40.0,
+            "count": 1
+          }
+        ],
+        "capacity": 9
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Gridserve",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1366019425",
+      "name": "Sainsbury's - Smart Charge",
+      "type": "charging_station",
+      "lat": 54.341129,
+      "lon": -2.738958,
+      "operator": "Sainsbury's",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Smart Charge",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1370094879",
+      "name": "Gridserve - Gridserve",
+      "type": "charging_station",
+      "lat": 54.951576,
+      "lon": -2.978442,
+      "operator": "Gridserve",
+      "address": {
+        "postcode": "CA6 4HA",
+        "city": "Carlisle"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Gridserve",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1374413321",
+      "name": "Rothay Manor Hotel - Fuuse",
+      "type": "charging_station",
+      "lat": 54.42707,
+      "lon": -2.96766,
+      "operator": "Rothay Manor Hotel",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 23.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 23.0,
+            "count": 5
+          }
+        ],
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "Fuuse",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1395450508",
+      "name": "Ladestation Roam",
+      "type": "charging_station",
+      "lat": 54.153081,
+      "lon": -2.489179,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Roam",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1418711244",
+      "name": "Mer - Mer",
+      "type": "charging_station",
+      "lat": 54.743401,
+      "lon": -2.003003,
+      "operator": "Mer",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Mer",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1463203856",
+      "name": "Storrs Hall Hotel - Monta",
+      "type": "charging_station",
+      "lat": 54.339458,
+      "lon": -2.935965,
+      "operator": "Storrs Hall Hotel",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "Monta",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1463203857",
+      "name": "Storrs Hall Hotel - Monta",
+      "type": "charging_station",
+      "lat": 54.339957,
+      "lon": -2.934776,
+      "operator": "Storrs Hall Hotel",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "Monta",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

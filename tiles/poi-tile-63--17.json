@@ -1,0 +1,49 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 63,
+    "lon": -17,
+    "bounds": {
+      "south": 63,
+      "north": 64,
+      "west": -17,
+      "east": -16
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-11465779860",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 63.923847,
+      "lon": -17.707242,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app"
+      }
+    }
+  ]
+}

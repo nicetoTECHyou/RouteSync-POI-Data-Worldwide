@@ -1,0 +1,74 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 60,
+    "lon": -1,
+    "bounds": {
+      "south": 60,
+      "north": 61,
+      "west": -1,
+      "east": 0
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-6597123688",
+      "name": "Ladestation evolt",
+      "type": "charging_station",
+      "lat": 60.496639,
+      "lon": -1.160002,
+      "operator": "evolt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10789474455",
+      "name": "8 North Ness",
+      "type": "charging_station",
+      "lat": 60.15863,
+      "lon": -1.146978,
+      "operator": "ChargePlace Scotland",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Account Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12049997641",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 60.136831,
+      "lon": -1.275335,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

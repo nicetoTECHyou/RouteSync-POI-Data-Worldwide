@@ -1,0 +1,114 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 55,
+    "lon": 13,
+    "bounds": {
+      "south": 55,
+      "north": 56,
+      "west": 13,
+      "east": 14
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 4,
+  "pois": [
+    {
+      "id": "osm-1360725602",
+      "name": "Ladestation Kraftringen",
+      "type": "charging_station",
+      "lat": 55.694295,
+      "lon": 13.242156,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "SE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "Kraftringen",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1373340982",
+      "name": "E.ON - E.ON",
+      "type": "charging_station",
+      "lat": 55.670447,
+      "lon": 13.162189,
+      "operator": "E.ON",
+      "address": {
+        "country": "SE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "E.ON",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1391597323",
+      "name": "Malmö Toftanäs Supercharger",
+      "type": "charging_station",
+      "lat": 55.598019,
+      "lon": 13.096028,
+      "operator": "Tesla",
+      "address": {
+        "country": "SE"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 16
+          }
+        ],
+        "capacity": 16
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1414012563",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.865306,
+      "lon": 13.692744,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "SE"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

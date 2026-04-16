@@ -1,0 +1,3549 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 55,
+    "lon": 11,
+    "bounds": {
+      "south": 55,
+      "north": 56,
+      "west": 11,
+      "east": 12
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 129,
+  "pois": [
+    {
+      "id": "osm-4960520235",
+      "name": "Ladestation E.ON",
+      "type": "charging_station",
+      "lat": 55.679712,
+      "lon": 11.087987,
+      "operator": "E.ON",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12045543179",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.678915,
+      "lon": 11.091202,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5643394278",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.591288,
+      "lon": 11.86167,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6004548803",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.510455,
+      "lon": 11.379269,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6114556052",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.390699,
+      "lon": 11.353158,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1490157554",
+      "name": "Clever",
+      "type": "charging_station",
+      "lat": 55.391163,
+      "lon": 11.354674,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1490157557",
+      "name": "Norlys - McDonald's",
+      "type": "charging_station",
+      "lat": 55.392086,
+      "lon": 11.353788,
+      "operator": "Norlys",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Credit Cards",
+          "Nfc"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1490157558",
+      "name": "Norlys - Burger King",
+      "type": "charging_station",
+      "lat": 55.392168,
+      "lon": 11.352385,
+      "operator": "Norlys",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Credit Cards",
+          "Nfc"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7944515222",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.853511,
+      "lon": 11.577512,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13381456259",
+      "name": "OK - OK",
+      "type": "charging_station",
+      "lat": 55.852733,
+      "lon": 11.577569,
+      "operator": "OK",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "OK",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1430021392",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.849784,
+      "lon": 11.574469,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8169137447",
+      "name": "E.ON - E.ON Drive",
+      "type": "charging_station",
+      "lat": 55.450797,
+      "lon": 11.789015,
+      "operator": "E.ON",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9385756646",
+      "name": "AC/DC",
+      "type": "charging_station",
+      "lat": 55.453182,
+      "lon": 11.789056,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12669260963",
+      "name": "Ladestation Q8 Danmark",
+      "type": "charging_station",
+      "lat": 55.451306,
+      "lon": 11.789188,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Q8 Danmark",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1231401205",
+      "name": "OK Ringsted",
+      "type": "charging_station",
+      "lat": 55.452462,
+      "lon": 11.788568,
+      "operator": "OK",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 175.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 175.0,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 100.0,
+            "count": 3
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-8928106586",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.963266,
+      "lon": 11.850112,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11093186217",
+      "name": "Clever",
+      "type": "charging_station",
+      "lat": 55.962124,
+      "lon": 11.850475,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12966453132",
+      "name": "Ladestation Norlys",
+      "type": "charging_station",
+      "lat": 55.963485,
+      "lon": 11.852181,
+      "operator": "Norlys",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 22.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9385756645",
+      "name": "Ladestation Powerfuel",
+      "type": "charging_station",
+      "lat": 55.442596,
+      "lon": 11.801888,
+      "operator": "Powerfuel",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9993745568",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.192043,
+      "lon": 11.655492,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10016460949",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.823324,
+      "lon": 11.667741,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10137724923",
+      "name": "Cirkel K Havnegade, Næstved",
+      "type": "charging_station",
+      "lat": 55.22332,
+      "lon": 11.758375,
+      "operator": "Circle K",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10797327609",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.01226,
+      "lon": 11.908716,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13673366649",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.009865,
+      "lon": 11.909116,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1491972554",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.010498,
+      "lon": 11.904342,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1492040901",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.008747,
+      "lon": 11.906841,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10797327611",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.007161,
+      "lon": 11.915788,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10797327612",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.013101,
+      "lon": 11.897812,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10797327613",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.023411,
+      "lon": 11.890267,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10797327614",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.02139,
+      "lon": 11.893522,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10857823749",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.665976,
+      "lon": 11.350635,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11062254997",
+      "name": "Spirii - Rasmus Degn A/S",
+      "type": "charging_station",
+      "lat": 55.488037,
+      "lon": 11.295944,
+      "operator": "Spirii",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 2
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Spirii",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11132661778",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.439526,
+      "lon": 11.796243,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Clever",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11132689927",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.67898,
+      "lon": 11.111751,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11132690525",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.676621,
+      "lon": 11.124063,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11255344086",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.297296,
+      "lon": 11.418068,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1484663122",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.294191,
+      "lon": 11.416593,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11420414743",
+      "name": "Lynladestation RingStedet - Clever",
+      "type": "charging_station",
+      "lat": 55.454361,
+      "lon": 11.788646,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 16
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 20
+          }
+        ],
+        "capacity": 36
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Clever A/S",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11771037211",
+      "name": "E.ON - E.ON Drive",
+      "type": "charging_station",
+      "lat": 55.715893,
+      "lon": 11.709761,
+      "operator": "E.ON",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11934603043",
+      "name": "ECDrive - Monta",
+      "type": "charging_station",
+      "lat": 55.936869,
+      "lon": 11.722409,
+      "operator": "ECDrive",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Monta",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-12035987469",
+      "name": "Clever",
+      "type": "charging_station",
+      "lat": 55.08046,
+      "lon": 11.959245,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-12057550870",
+      "name": "Skælskør cykelplads",
+      "type": "charging_station",
+      "lat": 55.252181,
+      "lon": 11.289998,
+      "operator": "Slagelse Kommune",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12057760879",
+      "name": "Ladestation Udby Kirke",
+      "type": "charging_station",
+      "lat": 55.075468,
+      "lon": 11.947568,
+      "operator": "Udby Kirke",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12136480807",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.210634,
+      "lon": 11.197172,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12246090191",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.008222,
+      "lon": 11.900688,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12258428413",
+      "name": "Ladestation Ok",
+      "type": "charging_station",
+      "lat": 55.967504,
+      "lon": 11.364726,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Ok",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12269055085",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.659357,
+      "lon": 11.397709,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12789050051",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.659607,
+      "lon": 11.401402,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12790065691",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.659075,
+      "lon": 11.395261,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12343523893",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.942735,
+      "lon": 11.509974,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12559296845",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.954208,
+      "lon": 11.87388,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12559296846",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.954559,
+      "lon": 11.872392,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12559296847",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.954315,
+      "lon": 11.871226,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12590399237",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.000453,
+      "lon": 11.976617,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12595613764",
+      "name": "Ladestation OK",
+      "type": "charging_station",
+      "lat": 55.005863,
+      "lon": 11.96341,
+      "operator": "OK",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12598666398",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.942612,
+      "lon": 11.8644,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12629892005",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.000053,
+      "lon": 11.954084,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12760321219",
+      "name": "Shell Recharge",
+      "type": "charging_station",
+      "lat": 55.922509,
+      "lon": 11.662321,
+      "operator": "Shell Recharge",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Shell Recharge",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12762836952",
+      "name": "OK-ladestation",
+      "type": "charging_station",
+      "lat": 55.922689,
+      "lon": 11.666508,
+      "operator": "OK",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 20.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 20.0,
+            "count": 5
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "OK",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1447191819",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.925674,
+      "lon": 11.664003,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12770447440",
+      "name": "drivee ApS - drivee",
+      "type": "charging_station",
+      "lat": 55.928508,
+      "lon": 11.659553,
+      "operator": "drivee ApS",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "drivee",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-13319421562",
+      "name": "OK - OK",
+      "type": "charging_station",
+      "lat": 55.929521,
+      "lon": 11.657772,
+      "operator": "OK",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "OK",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12770692043",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.921784,
+      "lon": 11.669856,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13672791470",
+      "name": "OK - OK",
+      "type": "charging_station",
+      "lat": 55.92382,
+      "lon": 11.670751,
+      "operator": "OK",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "OK",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13674726730",
+      "name": "drivee - drivee",
+      "type": "charging_station",
+      "lat": 55.923836,
+      "lon": 11.673104,
+      "operator": "drivee",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "drivee",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-12815164851",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.953147,
+      "lon": 11.872348,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12844631567",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.176077,
+      "lon": 11.649214,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12871286121",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.260836,
+      "lon": 11.518449,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12961358755",
+      "name": "Ladestation Verdo",
+      "type": "charging_station",
+      "lat": 55.966289,
+      "lon": 11.84647,
+      "operator": "Verdo",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12977371259",
+      "name": "Næstved Supercharger",
+      "type": "charging_station",
+      "lat": 55.255771,
+      "lon": 11.80656,
+      "operator": "Tesla",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13176504458",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.286535,
+      "lon": 11.815885,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Membership Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13192156807",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.976194,
+      "lon": 11.301217,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13204537631",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.705796,
+      "lon": 11.675474,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1436902167",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.704412,
+      "lon": 11.67122,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1479669911",
+      "name": "OK - OK",
+      "type": "charging_station",
+      "lat": 55.70574,
+      "lon": 11.670857,
+      "operator": "OK",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "OK",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13358913065",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.67015,
+      "lon": 11.41414,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13598609803",
+      "name": "OK Jægerspris, SuperBrugsen",
+      "type": "charging_station",
+      "lat": 55.850325,
+      "lon": 11.986902,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "OK",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-13664625032",
+      "name": "Ladestation OK",
+      "type": "charging_station",
+      "lat": 55.034306,
+      "lon": 11.877352,
+      "operator": "OK",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13664634112",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.037123,
+      "lon": 11.882395,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13664673177",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.706829,
+      "lon": 11.713535,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13664703423",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.705683,
+      "lon": 11.715019,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13668596909",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.915979,
+      "lon": 11.66732,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Clever Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13669939200",
+      "name": "Spirii - Spirii",
+      "type": "charging_station",
+      "lat": 55.914711,
+      "lon": 11.674843,
+      "operator": "Spirii",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Spirii",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ]
+      }
+    },
+    {
+      "id": "osm-13675866703",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.603205,
+      "lon": 11.583977,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1184726857",
+      "name": "Circle K Trafikcenter Slagelse",
+      "type": "charging_station",
+      "lat": 55.387749,
+      "lon": 11.362399,
+      "operator": "Circle K",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1197614412",
+      "name": "Slagelse Supercharger",
+      "type": "charging_station",
+      "lat": 55.387977,
+      "lon": 11.361779,
+      "operator": "Tesla",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 26
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 10
+          }
+        ],
+        "capacity": 26
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13682062144",
+      "name": "Norlys - Norlys",
+      "type": "charging_station",
+      "lat": 55.937703,
+      "lon": 11.701792,
+      "operator": "Norlys",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Norlys",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-13697410013",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.946609,
+      "lon": 11.760956,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-13697781430",
+      "name": "OK - ok",
+      "type": "charging_station",
+      "lat": 55.414939,
+      "lon": 11.350149,
+      "operator": "OK",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "ok",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13704115138",
+      "name": "Spirii - Spirii",
+      "type": "charging_station",
+      "lat": 55.908971,
+      "lon": 11.661278,
+      "operator": "Spirii",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Spirii",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-13724844093",
+      "name": "Ladestation Denne ladestation er privat. Desværre",
+      "type": "charging_station",
+      "lat": 55.64673,
+      "lon": 11.566838,
+      "operator": "Denne ladestation er privat. Desværre",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-516175348",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.686609,
+      "lon": 11.700931,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1058323241",
+      "name": "Halsskov UFC - E.ON Drive & Clever",
+      "type": "charging_station",
+      "lat": 55.34769,
+      "lon": 11.120194,
+      "operator": "Halsskov UFC - E.ON Drive & Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 270.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 270.0,
+            "count": 6
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 63.0,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1172167593",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 55.165713,
+      "lon": 11.959364,
+      "operator": "Circle K",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1172167597",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 55.169178,
+      "lon": 11.955989,
+      "operator": "Circle K",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1192510451",
+      "name": "Uno-X - Uno-X",
+      "type": "charging_station",
+      "lat": 55.657596,
+      "lon": 11.673757,
+      "operator": "Uno-X",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Uno-X",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1217596655",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 55.697893,
+      "lon": 11.72683,
+      "operator": "Circle K",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1259635780",
+      "name": "IONITY - Ionity",
+      "type": "charging_station",
+      "lat": 55.353889,
+      "lon": 11.141329,
+      "operator": "IONITY",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 24
+          }
+        ],
+        "capacity": 24
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Ionity",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1262665595",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 55.640172,
+      "lon": 11.830903,
+      "operator": "Circle K",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 63.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1304901890",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.30966,
+      "lon": 11.394988,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1307328663",
+      "name": "Dagli'Brugsen - OK",
+      "type": "charging_station",
+      "lat": 55.926694,
+      "lon": 11.915549,
+      "operator": "Dagli'Brugsen",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 75.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 75.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "OK",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1307551458",
+      "name": "Netto Møllehegnet - Jægerspris",
+      "type": "charging_station",
+      "lat": 55.851008,
+      "lon": 11.986048,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1313376146",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 55.559354,
+      "lon": 11.961192,
+      "operator": "Circle K",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1317920385",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 55.121221,
+      "lon": 11.969154,
+      "operator": "Circle K",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1366734627",
+      "name": "Ladestation Allego",
+      "type": "charging_station",
+      "lat": 55.12897,
+      "lon": 11.941975,
+      "operator": "Allego",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1367194490",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.183595,
+      "lon": 11.864372,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1367205044",
+      "name": "Clever - Rønnede",
+      "type": "charging_station",
+      "lat": 55.257108,
+      "lon": 11.99658,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 18
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1380358719",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 55.684551,
+      "lon": 11.090568,
+      "operator": "Circle K",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1384020496",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.521425,
+      "lon": 11.494879,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1384558140",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.678075,
+      "lon": 11.088513,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1387850696",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.554998,
+      "lon": 11.953361,
+      "operator": "Clever",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 200.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 200.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1387860601",
+      "name": "Circle K",
+      "type": "charging_station",
+      "lat": 55.460063,
+      "lon": 11.79921,
+      "operator": "Circle K",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Circle K",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1387874205",
+      "name": "Ladestation E.ON",
+      "type": "charging_station",
+      "lat": 55.435489,
+      "lon": 11.803922,
+      "operator": "E.ON",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 24
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 2
+          }
+        ],
+        "capacity": 26
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1416139943",
+      "name": "E.ON - E.ON Drive",
+      "type": "charging_station",
+      "lat": 55.700637,
+      "lon": 11.651882,
+      "operator": "E.ON",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 110.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 110.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1416142711",
+      "name": "E.ON - E.ON Drive",
+      "type": "charging_station",
+      "lat": 55.701785,
+      "lon": 11.65674,
+      "operator": "E.ON",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 110.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 110.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1472734990",
+      "name": "E.ON - E.ON Drive",
+      "type": "charging_station",
+      "lat": 55.703334,
+      "lon": 11.666989,
+      "operator": "E.ON",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1416147867",
+      "name": "E.ON - E.ON Drive",
+      "type": "charging_station",
+      "lat": 55.455216,
+      "lon": 11.6072,
+      "operator": "E.ON",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 110.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 110.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1416151632",
+      "name": "E.ON - E.ON Drive",
+      "type": "charging_station",
+      "lat": 55.455387,
+      "lon": 11.596408,
+      "operator": "E.ON",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 110.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 110.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 62.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1436027088",
+      "name": "E.ON - E.ON Drive",
+      "type": "charging_station",
+      "lat": 55.981507,
+      "lon": 11.312045,
+      "operator": "E.ON",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "E.ON Drive",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-1448337472",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.280358,
+      "lon": 11.81262,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1450968214",
+      "name": "Ladestation Norlys",
+      "type": "charging_station",
+      "lat": 55.306497,
+      "lon": 11.529679,
+      "operator": "Norlys",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 400
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1456997597",
+      "name": "Spirii - EDF",
+      "type": "charging_station",
+      "lat": 55.352895,
+      "lon": 11.140083,
+      "operator": "Spirii",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 19
+          }
+        ],
+        "capacity": 19
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "EDF",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1477004036",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.418541,
+      "lon": 11.567373,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1486286830",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.584596,
+      "lon": 11.654625,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1486526040",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.720078,
+      "lon": 11.707597,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1490981376",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 55.598314,
+      "lon": 11.972991,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DK"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1491963973",
+      "name": "Ladestation Clever",
+      "type": "charging_station",
+      "lat": 55.000898,
+      "lon": 11.894333,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 200.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 200.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1492047933",
+      "name": "Clever - Clever",
+      "type": "charging_station",
+      "lat": 55.00936,
+      "lon": 11.910588,
+      "operator": "Clever",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Clever",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1497404005",
+      "name": "Ladestation Fasned",
+      "type": "charging_station",
+      "lat": 55.790676,
+      "lon": 11.579454,
+      "operator": "Fasned",
+      "address": {
+        "country": "DK"
+      },
+      "power": {
+        "max_kw": 400.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 400.0,
+            "count": 4
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

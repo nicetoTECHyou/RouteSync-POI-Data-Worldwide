@@ -1,0 +1,90 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 63,
+    "lon": -19,
+    "bounds": {
+      "south": 63,
+      "north": 64,
+      "west": -19,
+      "east": -18
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-11165926928",
+      "name": "N1 Vík í Mýrdal",
+      "type": "charging_station",
+      "lat": 63.417689,
+      "lon": -19.002097,
+      "operator": "N1",
+      "address": {},
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "N1",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11874112373",
+      "name": "Ladestation EVlink",
+      "type": "charging_station",
+      "lat": 63.404646,
+      "lon": -19.106872,
+      "operator": "EVlink",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

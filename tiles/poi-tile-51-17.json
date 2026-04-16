@@ -1,0 +1,140 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 51,
+    "lon": 17,
+    "bounds": {
+      "south": 51,
+      "north": 52,
+      "west": 17,
+      "east": 18
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-1230414714",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.216585,
+      "lon": 17.40409,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1299515515",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.203459,
+      "lon": 17.379749,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1410860822",
+      "name": "Ladestation greenway",
+      "type": "charging_station",
+      "lat": 51.281764,
+      "lon": 17.986548,
+      "operator": "greenway",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1482335679",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.114446,
+      "lon": 17.062278,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1488623879",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 51.21167,
+      "lon": 17.374665,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "PL"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

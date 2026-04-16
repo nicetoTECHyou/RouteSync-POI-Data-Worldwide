@@ -1,0 +1,111 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 63,
+    "lon": -16,
+    "bounds": {
+      "south": 63,
+      "north": 64,
+      "west": -16,
+      "east": -15
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-6721193267",
+      "name": "Freysnes (Hótel Skaftafell)",
+      "type": "charging_station",
+      "lat": 63.990085,
+      "lon": -16.895201,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 63.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11465768031",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 63.899983,
+      "lon": -16.609591,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-12917594503",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 63.881416,
+      "lon": -16.646114,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

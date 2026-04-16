@@ -1,0 +1,69 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 65,
+    "lon": -17,
+    "bounds": {
+      "south": 65,
+      "north": 66,
+      "west": -17,
+      "east": -16
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-6721193274",
+      "name": "Laugar Reykjadal - Hverfahleðsla",
+      "type": "charging_station",
+      "lat": 65.721617,
+      "lon": -17.372702,
+      "operator": "Orka náttúrunnar",
+      "address": {},
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "ON",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11081866800",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 65.707094,
+      "lon": -17.890503,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

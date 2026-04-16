@@ -1,0 +1,126 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 58,
+    "lon": -4,
+    "bounds": {
+      "south": 58,
+      "north": 59,
+      "west": -4,
+      "east": -3
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 4,
+  "pois": [
+    {
+      "id": "osm-9197605273",
+      "name": "Ladestation ChargePlace Scotland",
+      "type": "charging_station",
+      "lat": 58.024864,
+      "lon": -4.401344,
+      "operator": "ChargePlace Scotland",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10740264334",
+      "name": "Ladestation ChargePlace Scotland",
+      "type": "charging_station",
+      "lat": 58.56777,
+      "lon": -4.739857,
+      "operator": "ChargePlace Scotland",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12085189327",
+      "name": "Ladestation ChargePlace Scotland",
+      "type": "charging_station",
+      "lat": 58.525201,
+      "lon": -4.22286,
+      "operator": "ChargePlace Scotland",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13265560466",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 58.477356,
+      "lon": -4.417083,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

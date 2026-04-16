@@ -1,0 +1,133 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 54,
+    "lon": 13,
+    "bounds": {
+      "south": 54,
+      "north": 55,
+      "west": 13,
+      "east": 14
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 4,
+  "pois": [
+    {
+      "id": "osm-629018215",
+      "name": "Ladestation Inselwerke / Plugsurfing",
+      "type": "charging_station",
+      "lat": 54.087897,
+      "lon": 13.864503,
+      "operator": "Inselwerke / Plugsurfing",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1288596388",
+      "name": "Vattenfall InCharge - Vattenfall",
+      "type": "charging_station",
+      "lat": 54.365916,
+      "lon": 13.703041,
+      "operator": "Vattenfall InCharge",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1422102142",
+      "name": "Ladestation Vattenfall InCharge",
+      "type": "charging_station",
+      "lat": 54.352165,
+      "lon": 13.464123,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Vattenfall InCharge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Account Cards",
+          "Girocard",
+          "Mastercard",
+          "Visa"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1497665478",
+      "name": "Tesla Supercharger",
+      "type": "charging_station",
+      "lat": 54.301974,
+      "lon": 13.095999,
+      "operator": "Tesla",
+      "address": {
+        "country": "DE"
+      },
+      "power": {
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

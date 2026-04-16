@@ -1,0 +1,76 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 56,
+    "lon": 15,
+    "bounds": {
+      "south": 56,
+      "north": 57,
+      "west": 15,
+      "east": 16
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-1298489650",
+      "name": "Emmaboda Golfklubb - ChargeNode",
+      "type": "charging_station",
+      "lat": 56.533303,
+      "lon": 15.593619,
+      "operator": "Emmaboda Golfklubb",
+      "address": {
+        "country": "SE"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargeNode",
+        "network": "ChargeNode",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1375026735",
+      "name": "Karlskrona (Stora)",
+      "type": "charging_station",
+      "lat": 56.195733,
+      "lon": 15.641786,
+      "operator": "Eviny",
+      "address": {
+        "street": "Verkövägen 5",
+        "postcode": "371 42",
+        "city": "Lyckeby"
+      },
+      "power": {
+        "max_kw": 62.5,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 62.5,
+            "count": 2
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Eviny",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

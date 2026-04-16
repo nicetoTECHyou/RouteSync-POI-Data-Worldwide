@@ -1,0 +1,75 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 56,
+    "lon": -7,
+    "bounds": {
+      "south": 56,
+      "north": 57,
+      "west": -7,
+      "east": -6
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-3753256285",
+      "name": "Ladestation ChargePlace Scotland",
+      "type": "charging_station",
+      "lat": 56.955058,
+      "lon": -7.48712,
+      "operator": "ChargePlace Scotland",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-4607673094",
+      "name": "Ladestation ChargePlace Scotland",
+      "type": "charging_station",
+      "lat": 56.9538,
+      "lon": -7.487331,
+      "operator": "ChargePlace Scotland",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

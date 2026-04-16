@@ -1,0 +1,483 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 52,
+    "lon": -4,
+    "bounds": {
+      "south": 52,
+      "north": 53,
+      "west": -4,
+      "east": -3
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 18,
+  "pois": [
+    {
+      "id": "osm-6740381243",
+      "name": "Kent-Ewan",
+      "type": "charging_station",
+      "lat": 52.08915,
+      "lon": -4.645962,
+      "operator": "Tesco",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "Pod Point",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-7416697078",
+      "name": "Gail-Mary",
+      "type": "charging_station",
+      "lat": 52.038209,
+      "lon": -4.47094,
+      "operator": "Pod Point",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Pod Point",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9110574251",
+      "name": "e-bike charging",
+      "type": "charging_station",
+      "lat": 52.417602,
+      "lon": -4.065207,
+      "operator": "Ceredigion County Council",
+      "address": {
+        "country": "GB"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9110574252",
+      "name": "e-bike charging",
+      "type": "charging_station",
+      "lat": 52.413945,
+      "lon": -4.067506,
+      "operator": "Ceredigion County Council",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9134894317",
+      "name": "Ladestation Ceredigion County Council/Aberystwyth University",
+      "type": "charging_station",
+      "lat": 52.416255,
+      "lon": -4.063312,
+      "operator": "Ceredigion County Council/Aberystwyth University",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9889011589",
+      "name": "Ladestation Dragon Charging",
+      "type": "charging_station",
+      "lat": 52.016742,
+      "lon": -4.744128,
+      "operator": "Dragon Charging",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9926413523",
+      "name": "Aberystwyth Supercharger",
+      "type": "charging_station",
+      "lat": 52.404671,
+      "lon": -4.064617,
+      "operator": "Tesla",
+      "address": {
+        "street": "Ffordd Parc y Llyn",
+        "postcode": "SY23 3TL",
+        "city": "Aberystwyth",
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10048990911",
+      "name": "Ladestation Ensto",
+      "type": "charging_station",
+      "lat": 52.002137,
+      "lon": -4.990547,
+      "operator": "Ensto",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10087321264",
+      "name": "Najm-Crew",
+      "type": "charging_station",
+      "lat": 52.412331,
+      "lon": -4.083795,
+      "operator": "Pod Point",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10879882013",
+      "name": "Ladestation National Trust",
+      "type": "charging_station",
+      "lat": 52.831333,
+      "lon": -4.72262,
+      "operator": "National Trust",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10932486866",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.924282,
+      "lon": -4.125361,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11065414733",
+      "name": "Ladestation Swarco",
+      "type": "charging_station",
+      "lat": 52.543741,
+      "lon": -4.047063,
+      "operator": "Swarco",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12142426134",
+      "name": "Ladestation ICS",
+      "type": "charging_station",
+      "lat": 52.410122,
+      "lon": -4.077432,
+      "operator": "ICS",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12143791655",
+      "name": "Ladestation Rolec",
+      "type": "charging_station",
+      "lat": 52.91537,
+      "lon": -4.096782,
+      "operator": "Rolec",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 5
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12806177739",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.823282,
+      "lon": -4.6182,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13130767241",
+      "name": "Ladestation ics",
+      "type": "charging_station",
+      "lat": 52.243917,
+      "lon": -4.259577,
+      "operator": "ics",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13130924847",
+      "name": "Cyngor Gwynedd - Evolt",
+      "type": "charging_station",
+      "lat": 52.889483,
+      "lon": -4.413499,
+      "operator": "Cyngor Gwynedd",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "Evolt",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app"
+      }
+    },
+    {
+      "id": "osm-1433978923",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 52.935817,
+      "lon": -4.558665,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "GB"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}
