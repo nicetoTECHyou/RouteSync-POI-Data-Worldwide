@@ -1,0 +1,50 @@
+name: Regenerate Charging Station Database
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'  # Every Monday at 03:00 UTC
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install osmium
+      
+      - name: Run generation script
+        run: python scripts/generate.py
+      
+      - name: Run conversion pipeline
+        run: python scripts/convert_to_routesync.py
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet tiles/ manifest.json stats.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add tiles/ manifest.json stats.json
+          STATION_COUNT=$(python3 -c "import json; d=json.load(open('stats.json')); print(d['total_stations'])")
+          git commit -m "🔄 Update database: ${STATION_COUNT} charging stations"
+          git push
