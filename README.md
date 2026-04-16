@@ -1,260 +1,107 @@
-# RouteSync Charging Station Database
+# RouteSync POI Data - Worldwide EV Charging Stations
 
-<div align="center">
+[![Total Stations](https://img.shields.io/badge/Stations-112%2C104+-blue)](stats.json)
+[![Version](https://img.shields.io/badge/Version-3.0.0-green)](manifest.json)
+[![Source](https://img.shields.io/badge/Source-OpenStreetMap-orange)]()
 
-**Die größte Open-Source Ladesäulen-Datenbank für RouteSync**
-**The largest open-source EV charging station database for RouteSync**
+The world's largest open EV charging station database for the **RouteSync** navigation app.
 
-[![Format](https://img.shields.io/badge/Format-RouteSync%20POI%20v1.5.0-blue)](#)
-[![Stations](https://img.shields.io/badge/Stations-87%2C272+-green)](#)
-[![Tiles](https://img.shields.io/badge/Tiles-597-orange)](#)
-[![License](https://img.shields.io/badge/License-ODbL%20v1.0-yellow)](#)
-[![Data Sources](https://img.shields.io/badge/Sources-OSM%20%2B%20NREL%2FAFDC-informational)](#)
+## Database v3.0.0
 
-</div>
+| Metric | Value |
+|--------|-------|
+| Total Stations | 112,104+ |
+| Tiles | 2,908 |
+| Coverage | 80+ countries |
+| Sources | OpenStreetMap, NREL/AFDC |
+| Last Updated | April 2026 |
 
----
+## Data Sources
 
-## Übersicht / Overview
+1. **OpenStreetMap** (via Overpass API) — Worldwide coverage
+2. **NREL/AFDC** — US Alternative Fuel Data
+3. **Geofabrik PBF** — Local OSM data extraction
 
-Diese Datenbank enthält **87.272+ eindeutige EV-Ladestationen** in einem optimierten Format für die [RouteSync](https://github.com/nicetoTECHyou/RouteSync-POI-Data) App. Die Daten wurden aus mehreren Quellen aggregiert, bereinigt, dedupliziert und mit vollständigen Details angereichert.
+## RouteSync POI Format v1.5.0+
 
-This database contains **87,272+ unique EV charging stations** in an optimized format for the [RouteSync](https://github.com/nicetoTECHyou/RouteSync-POI-Data) app. Data has been aggregated from multiple sources, cleaned, deduplicated, and enriched with full details.
-
-### Abdeckung / Coverage
-
-| Region | Stationen | Länder |
-|--------|-----------|--------|
-| Europa | ~87.000 | 22+ Länder |
-| Nordamerika | ~200 | USA |
-| **Gesamt / Total** | **87.272** | **23+** |
-
-### Top 10 Länder / Top 10 Countries
-
-| Land / Country | Stationen |
-|---------------|-----------|
-| Deutschland (DE) | 34.778 |
-| Frankreich (FR) | 17.765 |
-| Niederlande (NL) | 10.131 |
-| Großbritannien (GB) | 4.980 |
-| Italien (IT) | 4.006 |
-| Spanien (ES) | 3.132 |
-| Norwegen (NO) | 1.894 |
-| Schweiz (CH) | 1.722 |
-| Dänemark (DK) | 1.714 |
-| Schweden (SE) | 429 |
-
----
-
-## Datenquellen / Data Sources
-
-| Quelle | Beschreibung | Stationen |
-|--------|-------------|-----------|
-| **OpenStreetMap** | Globale crowd-sourced Kartendaten via Overpass API | ~105.600 |
-| **NREL/AFDC** | US Dept. of Energy Alternative Fuel Data Center | ~6.600 |
-| **(Deduplizierung)** | Entfernung von Duplikaten (50m Radius) | -25.000 |
-
----
-
-## Datenformat / Data Format
-
-### Dateistruktur / File Structure
-
+### Tile Structure
 ```
-RouteSync-Charging-Stations/
-├── README.md                    # Diese Datei / This file
-├── LICENSE                      # ODbL v1.0 Lizenz
-├── manifest.json                # Tile-Index mit Metadaten
-├── stats.json                   # Detaillierte Statistiken
-├── .gitignore                   # Git Ignore Regeln
-├── .github/
-│   └── workflows/
-│       └── regenerate.yml       # Wöchentliche Auto-Aktualisierung
-├── scripts/
-│   ├── generate.py              # Vollständiger Generierungsskript
-│   └── convert_to_routesync.py  # Konvertierungspipeline
-└── tiles/
-    ├── poi-tile-34-44.json      # Tile-Dateien (Lat-Lon Grid)
-    ├── poi-tile-36--2.json
-    ├── poi-tile-48-11.json
-    └── ... (597 Dateien)
+tiles/poi-tile-{lat}-{lon}.json
 ```
 
-### Tile-Format / Tile Format
+Each tile covers a 1° x 1° geographic area and contains all charging stations within it.
 
-Jede Tile-Datei folgt dem **RouteSync POI v1.5.0+** Standard:
-
+### Station Object
 ```json
 {
-  "format": "routesync-poi-v1.5.0",
-  "tile": {
-    "lat": 52,
-    "lon": 13,
-    "bounds": {
-      "south": 52,
-      "north": 53,
-      "west": 13,
-      "east": 14
-    }
+  "id": "osm-123456789",
+  "name": "Tesla Supercharger München",
+  "type": "charging_station",
+  "lat": 48.135125,
+  "lon": 11.581981,
+  "operator": "Tesla",
+  "address": {
+    "street": "Leopoldstraße",
+    "housenumber": "12",
+    "postcode": "80802",
+    "city": "München",
+    "country": "DE"
   },
-  "generated": "2026-04-16T14:52:46Z",
-  "count": 234,
-  "pois": [
-    {
-      "id": "osm-12345678",
-      "name": "EnBW Ladestation Berlin Mitte",
-      "type": "charging_station",
-      "lat": 52.520006,
-      "lon": 13.404954,
-      "operator": "EnBW",
-      "address": {
-        "street": "Friedrichstraße 123",
-        "postcode": "10117",
-        "city": "Berlin",
-        "country": "DE"
-      },
-      "power": {
-        "max_kw": 150,
-        "capacity": 4,
-        "sockets": [
-          {
-            "type": "CCS (Type 2)",
-            "kw": 150,
-            "count": 2
-          },
-          {
-            "type": "Type 2",
-            "kw": 22,
-            "count": 2
-          }
-        ]
-      },
-      "amenities": {
-        "opening_hours": "Mo-Fr 06:00-22:00",
-        "fee": true,
-        "payment_methods": ["Credit Card", "RFID"],
-        "wheelchair": true,
-        "nearby_services": ["restaurant", "wifi"]
-      },
-      "source": "osm",
-      "tags": {
-        "access": "yes",
-        "brand": "EnBW",
-        "network": "EnBW HyperNetz"
-      }
-    }
-  ]
+  "power": {
+    "max_kw": 250.0,
+    "sockets": [
+      {"type": "CCS Combo 2", "kw": 250.0, "count": 8},
+      {"type": "Type 2", "kw": 22.0, "count": 4}
+    ],
+    "capacity": 12
+  },
+  "source": "osm",
+  "amenities": {"fee": true}
 }
 ```
 
-### POI-Felder / POI Fields
+## API Integration
 
-| Feld | Typ | Beschreibung |
-|------|-----|-------------|
-| `id` | String | Eindeutige ID (`osm-12345` oder `nrel-67890`) |
-| `name` | String | Anzeigename der Ladestation |
-| `type` | String | Immer `charging_station` |
-| `lat` | Float | Breitengrad (6 Dezimalstellen) |
-| `lon` | Float | Längengrad (6 Dezimalstellen) |
-| `operator` | String | Bereinigter Operator-Name |
-| `address` | Object | Adresse (street, city, postcode, country) |
-| `power` | Object | Leistung (max_kw, capacity, sockets[]) |
-| `power.sockets[].type` | String | Steckertyp (CCS, CHAdeMO, Type 2, etc.) |
-| `power.sockets[].kw` | Float | Leistung pro Stecker in kW |
-| `power.sockets[].count` | Integer | Anzahl der Stecker |
-| `amenities` | Object | Zusätzliche Infos (Öffnungszeiten, Bezahlung, etc.) |
-| `source` | String | Datenquelle (`osm` oder `nrel`) |
+### Load Manifest
+```javascript
+const manifest = await fetch('manifest.json').then(r => r.json());
+```
 
-### Unterstützte Steckertypen / Supported Connector Types
+### Load Tile
+```javascript
+const tile = await fetch(`tiles/poi-tile-${lat}-${lon}.json`).then(r => r.json());
+```
 
-| Steckertyp | Typisch kW | Häufigkeit |
-|-----------|-----------|-----------|
-| Type 2 | 22 | 84.886 |
-| CCS (Type 2) | 50-300 | 46.706 |
-| CHAdeMO | 50 | 9.392 |
-| Schuko | 2.3 | 9.131 |
-| Tesla Supercharger | 150-250 | 3.329 |
-| Type 1 (J1772) | 7.2 | 514 |
-| CEE Blau (16A) | 3.7 | 308 |
-| CCS (Type 1) | 50 | 109 |
+### Find Nearest Station
+```javascript
+function findNearest(lat, lon, stations) {
+  return stations.reduce((nearest, s) => {
+    const dist = Math.hypot(s.lat - lat, s.lon - lon);
+    return dist < nearest.dist ? {station: s, dist} : nearest;
+  }, {station: null, dist: Infinity});
+}
+```
 
-### Top Betreiber / Top Operators
+## Top Operators
 
-| Betreiber | Stationen |
-|-----------|-----------|
-| SG Zuid-Holland | 2.864 |
-| Allego | 2.830 |
-| Gemeente Den Haag | 2.102 |
-| TotalEnergies | 1.546 |
-| Vattenfall InCharge | 1.198 |
-| EnBW | 1.172 |
-| Tesla | 1.125 |
-| Izivia | 1.012 |
-| Enel X | 935 |
-| Bouygues E&S | 668 |
+| Operator | Stations |
+|----------|---------|
+| Unknown | 30,000+ |
+| Tesla | 4,000+ |
+| Allego | 2,800+ |
+| Province of South Holland | 2,800+ |
+| ChargePoint | 2,000+ |
+| TotalEnergies | 1,500+ |
+| Vattenfall InCharge | 1,100+ |
+
+## License
+
+This data is derived from OpenStreetMap and is licensed under the [Open Database License (ODbL) v1.0](LICENSE).
+
+## Contributing
+
+Data is automatically updated from OpenStreetMap. For corrections, please edit the OSM data directly at [openstreetmap.org](https://www.openstreetmap.org).
 
 ---
 
-## Leistungsklassen / Power Distribution
-
-| Klasse | Leistung | Stationen |
-|--------|---------|-----------|
-| DC Schnellladung | 50+ kW | 11.894 |
-| Schnellladung | 22-50 kW | 25.194 |
-| Normalladung | 7-22 kW | 6.449 |
-| Langsamladung | < 7 kW | 2.212 |
-| Unbekannt | - | 41.523 |
-
----
-
-## Nutzung in RouteSync / Usage in RouteSync
-
-1. Lade das Repository herunter / Download this repository
-2. Kopiere den `tiles/` Ordner in dein RouteSync-Projekt / Copy the `tiles/` folder to your RouteSync project
-3. RouteSync lädt automatisch die benötigten Tiles basierend auf der GPS-Position / RouteSync automatically loads needed tiles based on GPS position
-
----
-
-## Automatische Aktualisierung / Auto-Update
-
-Die Datenbank wird wöchentlich über GitHub Actions automatisch aktualisiert:
-
-- **Montag 03:00 UTC**: Neue Daten von Overpass API & NREL
-- **Konvertierung**: Rohdaten → RouteSync POI Format
-- **Deduplizierung**: Doppelte Stationen entfernen
-- **Commit & Push**: Automatisches Update des Repos
-
----
-
-## Datenverbesserung / Data Enhancement
-
-Jede Station wird automatisch angereichert mit:
-
-- **Bereinigte Operator-Namen** (z.B. "EnBW Energie Baden-Württemberg AG" → "EnBW")
-- **Intelligente Namensgebung** (Operator + Marke + Standort)
-- **Leistungsdaten** (max kW, Steckertypen, Anzahl)
-- **Adressen** (Straße, PLZ, Stadt, Land)
-- **Amenities** (Öffnungszeiten, Bezahlung, Barrierefreiheit, Services)
-- **Stecker-Typ-Normalisierung** (einheitliche Benennung)
-
----
-
-## Mitmachen / Contributing
-
-Beiträge sind willkommen! Insbesondere:
-
-- Korrektur von Stationen (falsche Daten, geschlossene Stationen)
-- Neue Datenquellen hinzufügen
-- Verbesserung der Konvertierungspipeline
-- Übersetzungen und Dokumentation
-
----
-
-## Lizenz / License
-
-Dieses Projekt ist unter der **Open Database License (ODbL) v1.0** lizenziert.
-
-Die OpenStreetMap-Daten stehen unter der [Open Database License](https://opendatacommons.org/licenses/odbl/).
-Die NREL/AFDC-Daten sind Public Domain (US Government).
-
-© 2026 RouteSync Charging Station Database Contributors
+**Built for RouteSync** — The Future of EV Navigation
