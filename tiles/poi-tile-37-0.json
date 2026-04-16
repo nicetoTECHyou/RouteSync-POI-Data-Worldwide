@@ -1,0 +1,794 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 37,
+    "lon": 0,
+    "bounds": {
+      "south": 37,
+      "north": 38,
+      "west": 0,
+      "east": 1
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 33,
+  "pois": [
+    {
+      "id": "osm-5223758374",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.992115,
+      "lon": -0.686399,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5633243627",
+      "name": "Ladestation jimbofresh(levante sur)",
+      "type": "charging_station",
+      "lat": 37.701399,
+      "lon": -0.92194,
+      "operator": "jimbofresh(levante sur)",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5681290421",
+      "name": "Ladestation Cano Natur",
+      "type": "charging_station",
+      "lat": 37.77947,
+      "lon": -0.890451,
+      "operator": "Cano Natur",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8369437517",
+      "name": "Iberdrola - Iberdrola",
+      "type": "charging_station",
+      "lat": 37.927891,
+      "lon": -0.736022,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12415404766",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.926974,
+      "lon": -0.735803,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8936548563",
+      "name": "Iberdrola",
+      "type": "charging_station",
+      "lat": 37.910824,
+      "lon": -0.740424,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Iberdrola",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12943321270",
+      "name": "Eranovum",
+      "type": "charging_station",
+      "lat": 37.909476,
+      "lon": -0.744022,
+      "operator": "Eranovum",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Eranovum",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9917822391",
+      "name": "Ibedrola",
+      "type": "charging_station",
+      "lat": 37.824778,
+      "lon": -0.807265,
+      "operator": "Ibedrola",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9917822392",
+      "name": "Lahita",
+      "type": "charging_station",
+      "lat": 37.823692,
+      "lon": -0.809366,
+      "operator": "E. Leclerc",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 9
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10660894073",
+      "name": "San Pedro del Pinatar Supercharger",
+      "type": "charging_station",
+      "lat": 37.823226,
+      "lon": -0.809719,
+      "operator": "Tesla",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12415935102",
+      "name": "Ladestation Endesa X",
+      "type": "charging_station",
+      "lat": 37.822632,
+      "lon": -0.812405,
+      "operator": "Endesa X",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10267136309",
+      "name": "Ladestation Lidl",
+      "type": "charging_station",
+      "lat": 37.821779,
+      "lon": -0.813133,
+      "operator": "Lidl",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10665631769",
+      "name": "Ladestation Zenia Boulevard",
+      "type": "charging_station",
+      "lat": 37.92881,
+      "lon": -0.736434,
+      "operator": "Zenia Boulevard",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 2.3,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11211823426",
+      "name": "Ionity La Zenia",
+      "type": "charging_station",
+      "lat": 37.925692,
+      "lon": -0.7362,
+      "operator": "IONITY",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13318058190",
+      "name": "Ladestation Galp",
+      "type": "charging_station",
+      "lat": 37.929834,
+      "lon": -0.737014,
+      "operator": "Galp",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13504882096",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.928576,
+      "lon": -0.736936,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10669287021",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.933031,
+      "lon": -0.726963,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11157792584",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.963072,
+      "lon": -0.704662,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11920600506",
+      "name": "Wenea - Wenea",
+      "type": "charging_station",
+      "lat": 37.617023,
+      "lon": -0.955858,
+      "operator": "Wenea",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Wenea",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11920600507",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.605995,
+      "lon": -0.990655,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11920600508",
+      "name": "Ladestation Repsol",
+      "type": "charging_station",
+      "lat": 37.620084,
+      "lon": -0.988299,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11920600509",
+      "name": "Ladestation Endesa",
+      "type": "charging_station",
+      "lat": 37.617033,
+      "lon": -0.983764,
+      "operator": "Endesa",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11920600510",
+      "name": "Ladestation Repsol",
+      "type": "charging_station",
+      "lat": 37.61639,
+      "lon": -0.984165,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13265082646",
+      "name": "Ladestation ingeteam",
+      "type": "charging_station",
+      "lat": 37.617131,
+      "lon": -0.985152,
+      "operator": "ingeteam",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11920600512",
+      "name": "Wenea - Wenea",
+      "type": "charging_station",
+      "lat": 37.737805,
+      "lon": -0.915269,
+      "operator": "Wenea",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Wenea",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11920600513",
+      "name": "Ladestation Repsol",
+      "type": "charging_station",
+      "lat": 37.673632,
+      "lon": -0.730851,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11920600514",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.627611,
+      "lon": -0.710145,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11921977692",
+      "name": "Zunder - Zunder",
+      "type": "charging_station",
+      "lat": 37.734394,
+      "lon": -0.952344,
+      "operator": "Zunder",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Zunder",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13110864701",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.89691,
+      "lon": -0.753264,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13137877899",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.607009,
+      "lon": -0.980607,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13144365644",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.611343,
+      "lon": -0.980065,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13158668489",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.627394,
+      "lon": -0.984651,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "permissive",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13313154456",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.968651,
+      "lon": -0.743335,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

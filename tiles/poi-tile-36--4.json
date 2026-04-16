@@ -1,0 +1,64 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": -4,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": -4,
+      "east": -3
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-396062293",
+      "name": "Supercharger Torre del Mar, Spain",
+      "type": "charging_station",
+      "lat": 36.75235,
+      "lon": -4.096538,
+      "operator": "Tesla",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1379277190",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 36.631686,
+      "lon": -4.499718,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

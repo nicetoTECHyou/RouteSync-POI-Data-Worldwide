@@ -1,0 +1,55 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 40,
+    "lon": -74,
+    "bounds": {
+      "south": 40,
+      "north": 41,
+      "west": -74,
+      "east": -73
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-36368",
+      "name": "Element Hotels - Ewing",
+      "type": "charging_station",
+      "lat": 40.286518,
+      "lon": -74.807516,
+      "operator": "P",
+      "address": {
+        "street": "1000 Sam Weinroth Rd",
+        "city": "Ewing",
+        "state": "NJ",
+        "postcode": "08628",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; for guest use only",
+        "status": "T"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; for guest use only",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2266 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 37,
+    "lon": 24,
+    "bounds": {
+      "south": 37,
+      "north": 38,
+      "west": 24,
+      "east": 25
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 57,
+  "pois": [
+    {
+      "id": "osm-5643876715",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.713425,
+      "lon": 24.056207,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13351920176",
+      "name": "DΕΙ blue - Οργανισμός Λιμένος Λαυρίου",
+      "type": "charging_station",
+      "lat": 37.711316,
+      "lon": 24.056038,
+      "operator": "Οργανισμός Λιμένος Λαυρίου Α.Ε.",
+      "address": {
+        "postcode": "19500",
+        "city": "Λαύριο"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13524867738",
+      "name": "nrg - My market Λαύριο",
+      "type": "charging_station",
+      "lat": 37.711246,
+      "lon": 24.053255,
+      "operator": "My Market",
+      "address": {
+        "postcode": "19500",
+        "city": "Λαύριο"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12973245370",
+      "name": "Joltie - Κτηνιατρικό κέντρο",
+      "type": "charging_station",
+      "lat": 37.835653,
+      "lon": 24.931518,
+      "operator": "Κτηνιατρικό κέντρο",
+      "address": {
+        "postcode": "84500",
+        "city": "Άνδρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13051526850",
+      "name": "EKO Charge&Go - Suite Home Villas",
+      "type": "charging_station",
+      "lat": 37.833583,
+      "lon": 24.929255,
+      "operator": "Suite Home Villas Andros",
+      "address": {
+        "postcode": "84500",
+        "city": "Άνδρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EKO Charge&Go",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13086745498",
+      "name": "EKO Charge&Go - Explore Andros",
+      "type": "charging_station",
+      "lat": 37.83482,
+      "lon": 24.933035,
+      "operator": "Explore Andros",
+      "address": {
+        "postcode": "84500",
+        "city": "Άνδρος"
+      },
+      "power": {
+        "max_kw": 30.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 30.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EKO Charge&Go",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12973245371",
+      "name": "nrg - Casa Di Fiori",
+      "type": "charging_station",
+      "lat": 37.831145,
+      "lon": 24.922464,
+      "operator": "Casa Di Fiori",
+      "address": {
+        "postcode": "84500",
+        "city": "Άνδρος"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12973245373",
+      "name": "Chargespot - Hotel Perrakis",
+      "type": "charging_station",
+      "lat": 37.87643,
+      "lon": 24.762449,
+      "operator": "Hotel Perrakis",
+      "address": {
+        "postcode": "84501",
+        "city": "Άνδρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12973245374",
+      "name": "nrg - Μασούτης Άνδρος",
+      "type": "charging_station",
+      "lat": 37.881446,
+      "lon": 24.742895,
+      "operator": "Μασούτης",
+      "address": {
+        "postcode": "84500",
+        "city": "Γαύριο"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-20:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-20:00",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12973252277",
+      "name": "Joltie - Ταβέρνα Μπαρμπαρόλα",
+      "type": "charging_station",
+      "lat": 37.856492,
+      "lon": 24.938152,
+      "operator": "Ταβέρνα Μπαρμπαρόλα",
+      "address": {
+        "postcode": "84500",
+        "city": "Άνδρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12974241867",
+      "name": "Joltie - CSP Hermes parking",
+      "type": "charging_station",
+      "lat": 37.439011,
+      "lon": 24.938512,
+      "operator": "CSP HERMES NEORION",
+      "address": {
+        "street": "Νεωρίου 2",
+        "postcode": "84100",
+        "city": "Ερμούπολη"
+      },
+      "power": {
+        "max_kw": 47.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 47.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12974249291",
+      "name": "Joltie - Syros INN",
+      "type": "charging_station",
+      "lat": 37.42031,
+      "lon": 24.88104,
+      "operator": "Syros INN",
+      "address": {
+        "postcode": "84100",
+        "city": "Σύρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12974249292",
+      "name": "DEI blue - ΑΒ Βασιλόπουλος",
+      "type": "charging_station",
+      "lat": 37.425466,
+      "lon": 24.907401,
+      "operator": "ΑΒ Βασιλόπουλος",
+      "address": {
+        "postcode": "84100",
+        "city": "Σύρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12974283428",
+      "name": "nrg - Porto Kea Suites",
+      "type": "charging_station",
+      "lat": 37.657511,
+      "lon": 24.317143,
+      "operator": "Porto Kea Suites",
+      "address": {
+        "postcode": "84002",
+        "city": "Κέα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12974283429",
+      "name": "DΕΙ blue - Keos Hotel",
+      "type": "charging_station",
+      "lat": 37.659645,
+      "lon": 24.317781,
+      "operator": "Keos Hotel",
+      "address": {
+        "postcode": "84020",
+        "city": "Κέα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13717762188",
+      "name": "DΕΙ blue - Kea Bliss Hotel",
+      "type": "charging_station",
+      "lat": 37.659861,
+      "lon": 24.318924,
+      "operator": "Kea Bliss Hotel",
+      "address": {
+        "postcode": "84020",
+        "city": "Κέα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12974303255",
+      "name": "nrg - Cavo Perlevos Studios",
+      "type": "charging_station",
+      "lat": 37.675387,
+      "lon": 24.353011,
+      "operator": "Cavo Perlevos Studios",
+      "address": {
+        "postcode": "84002",
+        "city": "Κέα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12974303256",
+      "name": "DΕΙ blue - One Kea Suites",
+      "type": "charging_station",
+      "lat": 37.67067,
+      "lon": 24.350591,
+      "operator": "One Kea Suites",
+      "address": {
+        "postcode": "84020",
+        "city": "Κέα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12976284371",
+      "name": "Joltie - Δρυοπίδα Ιατρείο",
+      "type": "charging_station",
+      "lat": 37.384064,
+      "lon": 24.428637,
+      "operator": "Δήμος Κύθνου",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12976284372",
+      "name": "Joltie - Δρυοπίδα γήπεδο",
+      "type": "charging_station",
+      "lat": 37.381492,
+      "lon": 24.433128,
+      "operator": "Δήμος Κύθνου",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12976288809",
+      "name": "Joltie - Χώρα Parking 2",
+      "type": "charging_station",
+      "lat": 37.413228,
+      "lon": 24.429454,
+      "operator": "Δήμος Κύθνου",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13273213005",
+      "name": "Joltie - Chora Kythnos Suites",
+      "type": "charging_station",
+      "lat": 37.411121,
+      "lon": 24.426696,
+      "operator": "Chora Kythnos Suites",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13273213006",
+      "name": "Joltie - Messaria Hotel",
+      "type": "charging_station",
+      "lat": 37.41279,
+      "lon": 24.428641,
+      "operator": "Messaria Hotel",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12976288810",
+      "name": "Joltie - Λουτρά Parking",
+      "type": "charging_station",
+      "lat": 37.441479,
+      "lon": 24.425392,
+      "operator": "Δημοτικό Λιμενικό Ταμείο Σύρου",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12976288811",
+      "name": "Joltie - Λουτρά Μαρίνα",
+      "type": "charging_station",
+      "lat": 37.443196,
+      "lon": 24.426177,
+      "operator": "Δημοτικό Λιμενικό Ταμείο Σύρου",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13273170837",
+      "name": "Joltie - Porto Klaras Suites Studios",
+      "type": "charging_station",
+      "lat": 37.443456,
+      "lon": 24.425199,
+      "operator": "Porto Klaras Suites Studios",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13705017324",
+      "name": "Joltie - Kythnos Bay Hotel",
+      "type": "charging_station",
+      "lat": 37.44312,
+      "lon": 24.42438,
+      "operator": "Kythnos Bay Hotel",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12976294680",
+      "name": "Joltie - Μέριχας Λιμάνι",
+      "type": "charging_station",
+      "lat": 37.390545,
+      "lon": 24.39683,
+      "operator": "Δήμος Κύθνου",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12976294681",
+      "name": "Joltie - Μέριχας Parking",
+      "type": "charging_station",
+      "lat": 37.38647,
+      "lon": 24.398099,
+      "operator": "Δήμος Κύθνου",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13050566864",
+      "name": "Joltie - Nicolas Hotel",
+      "type": "charging_station",
+      "lat": 37.761977,
+      "lon": 24.949553,
+      "operator": "Nicolas Hotel",
+      "address": {
+        "postcode": "84502",
+        "city": "Άνδρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13050566865",
+      "name": "Joltie - Ασπίδα",
+      "type": "charging_station",
+      "lat": 37.771752,
+      "lon": 24.949668,
+      "operator": "Super Market Ασπίδα",
+      "address": {
+        "postcode": "84502",
+        "city": "Άνδρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13064899687",
+      "name": "DEI blue - Kalami Suites",
+      "type": "charging_station",
+      "lat": 37.144574,
+      "lon": 24.513202,
+      "operator": "Kalami Suites",
+      "address": {
+        "postcode": "84005",
+        "city": "Λιβάδι",
+        "country": "GR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13267671026",
+      "name": "EV Loader - Aigaion Aetherium Apartments",
+      "type": "charging_station",
+      "lat": 37.139821,
+      "lon": 24.511142,
+      "operator": "Aigaion Aetherium Apartments",
+      "address": {
+        "postcode": "84005",
+        "city": "Σέριφος"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EV Loader",
+        "network": "EV Loader",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13181410111",
+      "name": "Blink - Cape Suites",
+      "type": "charging_station",
+      "lat": 37.30988,
+      "lon": 24.364283,
+      "operator": "Cape Suites",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Blink",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13246679119",
+      "name": "Open Mobility - Kythea Souites",
+      "type": "charging_station",
+      "lat": 37.382036,
+      "lon": 24.450288,
+      "operator": "Kythea Souites Kythnos",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Open Mobility",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13267034635",
+      "name": "EV Loader - Micra Anglia Hotel",
+      "type": "charging_station",
+      "lat": 37.837276,
+      "lon": 24.936453,
+      "operator": "Micra Anglia Hotel",
+      "address": {
+        "postcode": "84500",
+        "city": "Άνδρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EV Loader",
+        "network": "EV Loader",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13267094929",
+      "name": "EV Loader - Water Shop",
+      "type": "charging_station",
+      "lat": 37.426773,
+      "lon": 24.927318,
+      "operator": "Water Shop",
+      "address": {
+        "postcode": "84100",
+        "city": "Ερμούπολη"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EV Loader",
+        "network": "EV Loader",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13267606653",
+      "name": "EV Loader - View Kythnos",
+      "type": "charging_station",
+      "lat": 37.361485,
+      "lon": 24.39551,
+      "operator": "View Kythnos",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EV Loader",
+        "network": "EV Loader",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13267671024",
+      "name": "EV Loader - Dorkas Apartments",
+      "type": "charging_station",
+      "lat": 37.139136,
+      "lon": 24.512827,
+      "operator": "Dorkas Luxury Rooms & Apartments",
+      "address": {
+        "postcode": "84005",
+        "city": "Σέριφος"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "EV Loader",
+        "network": "EV Loader",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13267671027",
+      "name": "EV Loader - Homa Villas",
+      "type": "charging_station",
+      "lat": 37.129095,
+      "lon": 24.468986,
+      "operator": "Homa Villas",
+      "address": {
+        "postcode": "84005",
+        "city": "Σέριφος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "EV Loader",
+        "network": "EV Loader",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13273200375",
+      "name": "Joltie - Κανάλα",
+      "type": "charging_station",
+      "lat": 37.34614,
+      "lon": 24.436225,
+      "operator": "Δήμος Κύθνου",
+      "address": {
+        "postcode": "84006",
+        "city": "Κύθνος"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13348638092",
+      "name": "DΕΙ blue - Σκλαβενίτης Λούτσα",
+      "type": "charging_station",
+      "lat": 37.969043,
+      "lon": 24.003016,
+      "operator": "Σκλαβενίτης",
+      "address": {
+        "postcode": "19016",
+        "city": "Άρτεμις"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13351695393",
+      "name": "DΕΙ blue - Σκλαβενίτης Πόρτο Ράφτη",
+      "type": "charging_station",
+      "lat": 37.88631,
+      "lon": 24.004125,
+      "operator": "Σκλαβενίτης",
+      "address": {
+        "street": "Ελευθερίου Βενιζέλου",
+        "postcode": "19003",
+        "city": "Πόρτο Ράφτη"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13351920177",
+      "name": "DΕΙ blue - Λιμένας Λαυρίου",
+      "type": "charging_station",
+      "lat": 37.713275,
+      "lon": 24.063489,
+      "operator": "Οργανισμός Λιμένος Λαυρίου Α.Ε.",
+      "address": {
+        "postcode": "19500",
+        "city": "Λαύριο"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13351920178",
+      "name": "DΕΙ blue - ΑΗΣ Λαυρίου",
+      "type": "charging_station",
+      "lat": 37.74553,
+      "lon": 24.063945,
+      "operator": "ΔΕΗ - ΑΗΣ Λαυρίου",
+      "address": {
+        "postcode": "19001",
+        "city": "Θορικό"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13353848505",
+      "name": "Joltie - Beautycom Πόρτο Ράφτη",
+      "type": "charging_station",
+      "lat": 37.888819,
+      "lon": 24.006628,
+      "operator": "Beautycom",
+      "address": {
+        "street": "Γρέγου 10",
+        "postcode": "19003",
+        "city": "Πόρτο Ράφτη"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13353871448",
+      "name": "Joltie - Poseidon Beach Villas",
+      "type": "charging_station",
+      "lat": 37.656768,
+      "lon": 24.023381,
+      "operator": "Poseidon Beach Villas",
+      "address": {
+        "street": "Αθήνών - Σουνίου 67",
+        "postcode": "19500",
+        "city": "Σούνιο"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13524867737",
+      "name": "nrg - Grecotel Cape Sounio",
+      "type": "charging_station",
+      "lat": 37.659246,
+      "lon": 24.016237,
+      "operator": "Grecotel Cape Sounio",
+      "address": {
+        "postcode": "19500",
+        "city": "Σούνιο"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13356042639",
+      "name": "ChargePlus - My Market Λαύριο",
+      "type": "charging_station",
+      "lat": 37.716697,
+      "lon": 24.055929,
+      "operator": "My Market Λαύριο",
+      "address": {
+        "street": "Φωκίωνος Νέγρη 3",
+        "postcode": "19500",
+        "city": "Λαύριο"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ChargePlus",
+        "network": "eVplus",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13480055331",
+      "name": "Chargespot - Γαλαξίας Λαύριο",
+      "type": "charging_station",
+      "lat": 37.71625,
+      "lon": 24.052995,
+      "operator": "Γαλαξίας",
+      "address": {
+        "street": "Κορδέλλα & Μαρμαρά",
+        "postcode": "19500",
+        "city": "Λαύριο"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13480246563",
+      "name": "Chargespot - Nakal Beach Bar",
+      "type": "charging_station",
+      "lat": 37.869595,
+      "lon": 24.027274,
+      "operator": "Nakal Beach Bar",
+      "address": {
+        "street": "Αυλακιού 100",
+        "postcode": "19003",
+        "city": "Πόρτο Ράφτη"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13480246564",
+      "name": "Chargespot - G4S Πόρτο Ράφτη",
+      "type": "charging_station",
+      "lat": 37.884272,
+      "lon": 24.010263,
+      "operator": "G4S Πόρτο Ράφτη",
+      "address": {
+        "street": "Αυλακιού",
+        "postcode": "19003",
+        "city": "Πόρτο Ράφτη"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13480301847",
+      "name": "Chargespot - Γαλαξίας Λούτσα AC",
+      "type": "charging_station",
+      "lat": 37.969631,
+      "lon": 24.006057,
+      "operator": "Γαλαξίας",
+      "address": {
+        "street": "Κωνσταντίνου Καραμανλή 11-13",
+        "postcode": "19016",
+        "city": "Άρτεμις"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13507056560",
+      "name": "Fortizo - Olympic Marine",
+      "type": "charging_station",
+      "lat": 37.695837,
+      "lon": 24.057834,
+      "operator": "Olympic Marine",
+      "address": {
+        "postcode": "19500",
+        "city": "Λαύριο"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Fortizo",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13522894138",
+      "name": "nrg - My market Λούτσα",
+      "type": "charging_station",
+      "lat": 37.96591,
+      "lon": 24.005877,
+      "operator": "My Market",
+      "address": {
+        "street": "Βραυρώνος 15",
+        "postcode": "19016",
+        "city": "Λούτσα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13524867739",
+      "name": "nrg - AVIN 4048",
+      "type": "charging_station",
+      "lat": 37.786545,
+      "lon": 24.057803,
+      "operator": "Avin ΜΑΚΡΑΙΩΝ 4048",
+      "address": {
+        "street": "Λαυρίου",
+        "postcode": "19001",
+        "city": "Κερατέα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13720161611",
+      "name": "nrg - Aegean Paradiso",
+      "type": "charging_station",
+      "lat": 37.408436,
+      "lon": 24.963929,
+      "operator": "Aegean Paradiso",
+      "address": {
+        "postcode": "84100",
+        "city": "Σύρος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

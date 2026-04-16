@@ -1,0 +1,115 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 41,
+    "lon": -3,
+    "bounds": {
+      "south": 41,
+      "north": 42,
+      "west": -3,
+      "east": -2
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-1339176501",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.013352,
+      "lon": -3.445586,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1418845182",
+      "name": "Ladestation Wenea",
+      "type": "charging_station",
+      "lat": 41.188098,
+      "lon": -3.583671,
+      "operator": "Wenea",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1418876135",
+      "name": "Ladestation Endesa",
+      "type": "charging_station",
+      "lat": 41.653987,
+      "lon": -3.699772,
+      "operator": "Endesa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 40,
+    "lon": -4,
+    "bounds": {
+      "south": 40,
+      "north": 41,
+      "west": -4,
+      "east": -3
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 8,
+  "pois": [
+    {
+      "id": "osm-722791267",
+      "name": "Repsol - Repsol",
+      "type": "charging_station",
+      "lat": 40.910271,
+      "lon": -4.093497,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 16
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Repsol",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-772903671",
+      "name": "Ladestation IBIL",
+      "type": "charging_station",
+      "lat": 40.625101,
+      "lon": -4.028199,
+      "operator": "IBIL",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1181325745",
+      "name": "Ladestation Zunder",
+      "type": "charging_station",
+      "lat": 40.965506,
+      "lon": -4.097386,
+      "operator": "Zunder",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1323157762",
+      "name": "Ladestation Endesa X",
+      "type": "charging_station",
+      "lat": 40.967771,
+      "lon": -4.094308,
+      "operator": "Endesa X",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1265501166",
+      "name": "Iberdrola - Iberdrola",
+      "type": "charging_station",
+      "lat": 40.922742,
+      "lon": -4.07821,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1277183478",
+      "name": "Repsol - Repsol",
+      "type": "charging_station",
+      "lat": 40.921112,
+      "lon": -4.112192,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "Repsol",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1394602576",
+      "name": "Eranovum",
+      "type": "charging_station",
+      "lat": 40.960908,
+      "lon": -4.10087,
+      "operator": "Eranovum",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "Eranovum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1431441605",
+      "name": "TotalEnergies - TotalEnergies",
+      "type": "charging_station",
+      "lat": 40.679825,
+      "lon": -4.631986,
+      "operator": "TotalEnergies",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "TotalEnergies",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    }
+  ]
+}

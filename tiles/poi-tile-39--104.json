@@ -1,0 +1,65 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 39,
+    "lon": -104,
+    "bounds": {
+      "south": 39,
+      "north": 40,
+      "west": -104,
+      "east": -103
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-38522",
+      "name": "Denver International Airport - Canopy Airport Parking",
+      "type": "charging_station",
+      "lat": 39.843886,
+      "lon": -104.771138,
+      "operator": "P",
+      "address": {
+        "street": "8100 Tower Rd",
+        "city": "Commerce City",
+        "state": "CO",
+        "postcode": "80022",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-15",
+            "kw": 1.4,
+            "count": 1
+          }
+        ],
+        "capacity": 28
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": 36,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": 36,
+      "east": 37
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-4234689289",
+      "name": "Ladestation ابو احمد بغدادي",
+      "type": "charging_station",
+      "lat": 36.225489,
+      "lon": 36.774859,
+      "operator": "ابو احمد بغدادي",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5711097746",
+      "name": "Reles İthalat ve İhracat Araç Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 36.280477,
+      "lon": 36.19196,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-5711111693",
+      "name": "Araç Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 36.573067,
+      "lon": 36.159103,
+      "operator": "Reles İthalat ve İhracat",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7077989417",
+      "name": "SHARZ Hypco Hatay Akaryakıt",
+      "type": "charging_station",
+      "lat": 36.478162,
+      "lon": 36.258878,
+      "operator": "SHARZ",
+      "address": {
+        "street": "Kıcı Mahallesi, Hatay İskenderun Yolu, 31350 Belen/Hatay",
+        "city": "BELEN"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13346560357",
+      "name": "Super Tajj Ev Charger. 2 - Super Tajj Ev Charger. 2",
+      "type": "charging_station",
+      "lat": 36.217081,
+      "lon": 36.691517,
+      "operator": "Super Tajj Ev Charger. 2",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Super Tajj Ev Charger. 2",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

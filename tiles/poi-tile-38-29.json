@@ -1,0 +1,278 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 38,
+    "lon": 29,
+    "bounds": {
+      "south": 38,
+      "north": 39,
+      "west": 29,
+      "east": 30
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 13,
+  "pois": [
+    {
+      "id": "osm-6745035547",
+      "name": "Zes Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.677953,
+      "lon": 29.440651,
+      "operator": "ZES",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "ZES",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12299879199",
+      "name": "Sharz.Net - Sharz.Net Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.678485,
+      "lon": 29.449549,
+      "operator": "Sharz.Net",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Sharz.Net Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12299944576",
+      "name": "Ladestation Trugo Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.676945,
+      "lon": 29.217677,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Trugo Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13647646763",
+      "name": "Uşak Supercharger",
+      "type": "charging_station",
+      "lat": 38.670878,
+      "lon": 29.424319,
+      "operator": "Tesla",
+      "address": {},
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13698191678",
+      "name": "Ladestation Shell Recharge Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.676568,
+      "lon": 29.388794,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Shell Recharge Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13698191684",
+      "name": "Wat Mobilite - Wat Mobilite Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.67575,
+      "lon": 29.389231,
+      "operator": "Wat Mobilite",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Wat Mobilite Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13698191679",
+      "name": "Zes Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.666621,
+      "lon": 29.399891,
+      "operator": "ZES",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "zes",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13698191680",
+      "name": "Otojet - Otojet Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.669886,
+      "lon": 29.413553,
+      "operator": "Otojet",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Otojet Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13698191681",
+      "name": "Eşarj - Eşarj Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.669682,
+      "lon": 29.416284,
+      "operator": "Eşarj",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Eşarj Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13698191685",
+      "name": "En Yakıt - En Yakıt Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.6759,
+      "lon": 29.388207,
+      "operator": "En Yakıt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "En Yakıt Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13698191686",
+      "name": "Togg - Trugo Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.673802,
+      "lon": 29.429391,
+      "operator": "Togg",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Trugo Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13698191687",
+      "name": "Eşarj - Eşarj Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.673434,
+      "lon": 29.428436,
+      "operator": "Eşarj",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Eşarj Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13698191689",
+      "name": "D-Charge - D-Charge Şarj İstasyonu",
+      "type": "charging_station",
+      "lat": 38.675052,
+      "lon": 29.435993,
+      "operator": "D-Charge",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "D-Charge Şarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

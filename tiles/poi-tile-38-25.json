@@ -1,0 +1,58 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 38,
+    "lon": 25,
+    "bounds": {
+      "south": 38,
+      "north": 39,
+      "west": 25,
+      "east": 26
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-13063270839",
+      "name": "nrg - Almiriki Hotel",
+      "type": "charging_station",
+      "lat": 38.340435,
+      "lon": 25.992266,
+      "operator": "Almiriki Hotel",
+      "address": {
+        "postcode": "82102",
+        "city": "Χίος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

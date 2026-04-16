@@ -1,0 +1,224 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 37,
+    "lon": 30,
+    "bounds": {
+      "south": 37,
+      "north": 38,
+      "west": 30,
+      "east": 31
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 7,
+  "pois": [
+    {
+      "id": "osm-6805201711",
+      "name": "ZES - Centrum Garden",
+      "type": "charging_station",
+      "lat": 37.782443,
+      "lon": 30.564571,
+      "operator": "ZES",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 3
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6805201722",
+      "name": "SHARZ - Total Emin Oto",
+      "type": "charging_station",
+      "lat": 37.798922,
+      "lon": 30.539917,
+      "operator": "SHARZ",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12514835930",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.801655,
+      "lon": 30.536896,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-7077951363",
+      "name": "SHARZ Çelik Petrol",
+      "type": "charging_station",
+      "lat": 37.920478,
+      "lon": 30.301854,
+      "operator": "SHARZ",
+      "address": {
+        "street": "Kükürt, 32700 Keçiborlu/Isparta",
+        "city": "KEÇİBORLU"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7077951381",
+      "name": "SHARZ Yeniköy Döşemealtı Petrol",
+      "type": "charging_station",
+      "lat": 37.009081,
+      "lon": 30.627472,
+      "operator": "SHARZ",
+      "address": {
+        "street": "Yeşilbayır, Akdeniz Blv. No: 105 D:No: 105, 07190 Döşemealtı/Ant",
+        "city": "DÖŞEMEALTI"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11073994052",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.72682,
+      "lon": 30.293824,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13647657654",
+      "name": "Isparta Supercharger",
+      "type": "charging_station",
+      "lat": 37.910229,
+      "lon": 30.311181,
+      "operator": "Tesla",
+      "address": {},
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

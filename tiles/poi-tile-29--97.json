@@ -1,0 +1,54 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 29,
+    "lon": -97,
+    "bounds": {
+      "south": 29,
+      "north": 30,
+      "west": -97,
+      "east": -96
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-39754",
+      "name": "Nissan - San Marcos",
+      "type": "charging_station",
+      "lat": 29.841733,
+      "lon": -97.971466,
+      "operator": "P",
+      "address": {
+        "street": "2980 S IH-35",
+        "city": "San Marcos",
+        "state": "TX",
+        "postcode": "78666",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 39,
+    "lon": 28,
+    "bounds": {
+      "south": 39,
+      "north": 40,
+      "west": 28,
+      "east": 29
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-6745035829",
+      "name": "ZES - Festival Outlet",
+      "type": "charging_station",
+      "lat": 39.840737,
+      "lon": 28.142974,
+      "operator": "ZES",
+      "address": {},
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

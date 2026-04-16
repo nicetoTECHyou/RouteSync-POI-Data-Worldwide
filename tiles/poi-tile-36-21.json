@@ -1,0 +1,849 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": 21,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": 21,
+      "east": 22
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 23,
+  "pois": [
+    {
+      "id": "osm-10038936087",
+      "name": "Peroulia Beach Restaurant",
+      "type": "charging_station",
+      "lat": 36.826881,
+      "lon": 21.930776,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10038936088",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 36.770342,
+      "lon": 21.930133,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10038936089",
+      "name": "To Limanaki",
+      "type": "charging_station",
+      "lat": 36.780833,
+      "lon": 21.936123,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10038936097",
+      "name": "Liokrina Villas",
+      "type": "charging_station",
+      "lat": 36.781088,
+      "lon": 21.917527,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10038936098",
+      "name": "EV Loader - Paradise Resort",
+      "type": "charging_station",
+      "lat": 36.80356,
+      "lon": 21.781795,
+      "operator": "Paradise Resort",
+      "address": {
+        "postcode": "24006",
+        "city": "Φοινικούντα"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EV Loader",
+        "network": "EV Loader",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10038936099",
+      "name": "nrg - Navarino Dunes main parking",
+      "type": "charging_station",
+      "lat": 36.996843,
+      "lon": 21.651614,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 8
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 4
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13276363628",
+      "name": "nrg - Navarino Dunes parking north",
+      "type": "charging_station",
+      "lat": 36.997752,
+      "lon": 21.650578,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13123700055",
+      "name": "nrg - Navarino Agora",
+      "type": "charging_station",
+      "lat": 36.939033,
+      "lon": 21.713355,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 14
+          }
+        ],
+        "capacity": 14
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13123700056",
+      "name": "nrg - Navarino Waterfront",
+      "type": "charging_station",
+      "lat": 36.940704,
+      "lon": 21.713123,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 16
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 4
+          }
+        ],
+        "capacity": 20
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13521192497",
+      "name": "nrg - Navarino Waterfront",
+      "type": "charging_station",
+      "lat": 36.938279,
+      "lon": 21.712177,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13521192498",
+      "name": "nrg - Navarino Agora",
+      "type": "charging_station",
+      "lat": 36.941347,
+      "lon": 21.712298,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13521192499",
+      "name": "nrg - Navarino Agora",
+      "type": "charging_station",
+      "lat": 36.939104,
+      "lon": 21.711608,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13521192500",
+      "name": "nrg - W Costa Navarino",
+      "type": "charging_station",
+      "lat": 36.940475,
+      "lon": 21.712627,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13521211101",
+      "name": "nrg - Mandarin Oriental P3",
+      "type": "charging_station",
+      "lat": 36.937043,
+      "lon": 21.711112,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13124032425",
+      "name": "EKO Charge&Go - EKO Δεληγιάννης",
+      "type": "charging_station",
+      "lat": 36.810163,
+      "lon": 21.913059,
+      "operator": "EKO ΔΕΛΗΓΙΑΝΝΗΣ",
+      "address": {
+        "postcode": "24004",
+        "city": "Χαρακοπιό"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EKO Charge&Go",
+        "network": "",
+        "opening_hours": "Mo-Su 07:00-22:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13124080547",
+      "name": "Chargespot - Καραμπάτσου",
+      "type": "charging_station",
+      "lat": 36.971725,
+      "lon": 21.810007,
+      "operator": "Supermarket Αφοι Καραμπάτσου",
+      "address": {
+        "postcode": "24001",
+        "city": "Σουληνάρι"
+      },
+      "power": {
+        "max_kw": 14.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 14.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13173933682",
+      "name": "Chargespot - Camvillia Resort",
+      "type": "charging_station",
+      "lat": 36.838242,
+      "lon": 21.927458,
+      "operator": "Camvillia Resort",
+      "address": {
+        "postcode": "24004",
+        "city": "Κορώνη",
+        "country": "GR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13174213444",
+      "name": "DΕΙ blue - Camping Erodios",
+      "type": "charging_station",
+      "lat": 36.952763,
+      "lon": 21.696129,
+      "operator": "Camping Erodios",
+      "address": {
+        "postcode": "24001",
+        "city": "Πύλος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13174213445",
+      "name": "DΕΙ blue - Zoe Seaside Resort",
+      "type": "charging_station",
+      "lat": 36.950717,
+      "lon": 21.700907,
+      "operator": "Zoe Seaside Resort",
+      "address": {
+        "postcode": "24001",
+        "city": "Πύλος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13271898592",
+      "name": "EV Loader - Camping Loutsa",
+      "type": "charging_station",
+      "lat": 36.804592,
+      "lon": 21.822155,
+      "operator": "Camping Loutsa",
+      "address": {
+        "postcode": "24006",
+        "city": "Φοινικούντα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EV Loader",
+        "network": "EV Loader",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13521211102",
+      "name": "nrg - Mandarin Oriental P2",
+      "type": "charging_station",
+      "lat": 36.934947,
+      "lon": 21.713367,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13521211103",
+      "name": "nrg - Mandarin Oriental P1",
+      "type": "charging_station",
+      "lat": 36.935966,
+      "lon": 21.713305,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13521211104",
+      "name": "nrg - Mandarin Oriental",
+      "type": "charging_station",
+      "lat": 36.931013,
+      "lon": 21.715658,
+      "operator": "Costa Navarino",
+      "address": {
+        "postcode": "24001"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    }
+  ]
+}

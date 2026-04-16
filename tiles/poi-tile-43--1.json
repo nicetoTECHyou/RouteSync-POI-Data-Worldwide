@@ -1,0 +1,215 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 43,
+    "lon": -1,
+    "bounds": {
+      "south": 43,
+      "north": 44,
+      "west": -1,
+      "east": 0
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 8,
+  "pois": [
+    {
+      "id": "osm-952029104",
+      "name": "Ladestation carrefour",
+      "type": "charging_station",
+      "lat": 43.55099,
+      "lon": -1.124503,
+      "operator": "carrefour",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1088856264",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.447405,
+      "lon": -1.575391,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1243192888",
+      "name": "Tesla Supercharger",
+      "type": "charging_station",
+      "lat": 43.276169,
+      "lon": -1.987867,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1388332155",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.279872,
+      "lon": -1.982297,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1442147419",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.277798,
+      "lon": -1.978945,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1251186314",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 43.281922,
+      "lon": -1.916708,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1429268772",
+      "name": "Bayonne Supercharger",
+      "type": "charging_station",
+      "lat": 43.493794,
+      "lon": -1.452396,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Tesla Supercharger",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "wheelchair": true
+      }
+    },
+    {
+      "id": "osm-1435289500",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.478923,
+      "lon": -1.452351,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

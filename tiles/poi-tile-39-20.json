@@ -1,0 +1,64 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 39,
+    "lon": 20,
+    "bounds": {
+      "south": 39,
+      "north": 40,
+      "west": 20,
+      "east": 21
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-1027685683",
+      "name": "Lidl Ιωάννινα",
+      "type": "charging_station",
+      "lat": 39.627783,
+      "lon": 20.859419,
+      "operator": "Lidl Ιωάννινα",
+      "address": {
+        "postcode": "45500",
+        "city": "Ιωάννινα"
+      },
+      "power": {
+        "max_kw": 20.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 20.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 20.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 20.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "Lidl",
+        "network": "Lidl",
+        "opening_hours": "Mo-Sa 07:45-21:00; Su,PH off"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Sa 07:45-21:00; Su,PH off",
+        "authentication": "none",
+        "fee": false,
+        "parking_fee": false
+      }
+    }
+  ]
+}

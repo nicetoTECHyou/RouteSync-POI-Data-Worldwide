@@ -1,0 +1,7205 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 41,
+    "lon": -7,
+    "bounds": {
+      "south": 41,
+      "north": 42,
+      "west": -7,
+      "east": -6
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 193,
+  "pois": [
+    {
+      "id": "osm-5370437952",
+      "name": "VRL-00007",
+      "type": "charging_station",
+      "lat": 41.299398,
+      "lon": -7.750169,
+      "operator": "EDP",
+      "address": {
+        "city": "Vila Real"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11303436717",
+      "name": "VRL-00026",
+      "type": "charging_station",
+      "lat": 41.297696,
+      "lon": -7.749985,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8112888363",
+      "name": "TRC-80001",
+      "type": "charging_station",
+      "lat": 41.018282,
+      "lon": -7.776986,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1452468724",
+      "name": "TRC-00003/4",
+      "type": "charging_station",
+      "lat": 41.019221,
+      "lon": -7.773826,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8112945346",
+      "name": "TBC-80002",
+      "type": "charging_station",
+      "lat": 41.122802,
+      "lon": -7.601442,
+      "operator": "Atlante",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8112945347",
+      "name": "TBC-00004",
+      "type": "charging_station",
+      "lat": 41.116562,
+      "lon": -7.569565,
+      "operator": "KLC Serviços",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "KLC",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8112945348",
+      "name": "AMM-90001",
+      "type": "charging_station",
+      "lat": 41.108694,
+      "lon": -7.693658,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8112945349",
+      "name": "LMG-00002",
+      "type": "charging_station",
+      "lat": 41.100588,
+      "lon": -7.810883,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13481538237",
+      "name": "LMG-00021",
+      "type": "charging_station",
+      "lat": 41.100804,
+      "lon": -7.810058,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8112945350",
+      "name": "LMG-00003",
+      "type": "charging_station",
+      "lat": 41.096561,
+      "lon": -7.807504,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12188496424",
+      "name": "LMG-00016",
+      "type": "charging_station",
+      "lat": 41.099346,
+      "lon": -7.807229,
+      "operator": "Galp Power",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 90.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 90.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8112945351",
+      "name": "VLF-90001",
+      "type": "charging_station",
+      "lat": 41.082884,
+      "lon": -7.142016,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10066693060",
+      "name": "VLF-90002",
+      "type": "charging_station",
+      "lat": 41.081658,
+      "lon": -7.143527,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8112955255",
+      "name": "SJP-90001",
+      "type": "charging_station",
+      "lat": 41.146388,
+      "lon": -7.402334,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8113026403",
+      "name": "SMP-90001",
+      "type": "charging_station",
+      "lat": 41.210979,
+      "lon": -7.788129,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1454933946",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.209922,
+      "lon": -7.78578,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8113054721",
+      "name": "ALJ-80001",
+      "type": "charging_station",
+      "lat": 41.275828,
+      "lon": -7.477116,
+      "operator": "Atlante",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9986743356",
+      "name": "ALJ-00003",
+      "type": "charging_station",
+      "lat": 41.278286,
+      "lon": -7.476023,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11196096117",
+      "name": "ALJ-00004",
+      "type": "charging_station",
+      "lat": 41.280813,
+      "lon": -7.473275,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8113054722",
+      "name": "CRZ-00001",
+      "type": "charging_station",
+      "lat": 41.242403,
+      "lon": -7.306303,
+      "operator": "Powerdot",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8113069559",
+      "name": "VRL-00010",
+      "type": "charging_station",
+      "lat": 41.3092,
+      "lon": -7.737743,
+      "operator": "Dourogás",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "douromobe",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13191443841",
+      "name": "VRL-00050",
+      "type": "charging_station",
+      "lat": 41.313398,
+      "lon": -7.735123,
+      "operator": "Goldenergy",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 13.8,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 13.8,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Goldenergy",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8113074614",
+      "name": "MDB-00001",
+      "type": "charging_station",
+      "lat": 41.410113,
+      "lon": -7.954439,
+      "operator": "Powerdot",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8113074615",
+      "name": "CBT-90001",
+      "type": "charging_station",
+      "lat": 41.392021,
+      "lon": -7.999503,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8115529942",
+      "name": "CHV-00002",
+      "type": "charging_station",
+      "lat": 41.765063,
+      "lon": -7.469409,
+      "operator": "Galp Power",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8115529944",
+      "name": "VNH-00001",
+      "type": "charging_station",
+      "lat": 41.834785,
+      "lon": -7.002433,
+      "operator": "Powerdot",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8115700034",
+      "name": "CBC-90010",
+      "type": "charging_station",
+      "lat": 41.514801,
+      "lon": -7.990394,
+      "operator": "Powerdot",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12580062302",
+      "name": "CBC-00012",
+      "type": "charging_station",
+      "lat": 41.51428,
+      "lon": -7.988805,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12580174658",
+      "name": "CBC-00013",
+      "type": "charging_station",
+      "lat": 41.51294,
+      "lon": -7.993847,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12926595822",
+      "name": "CBC-00015",
+      "type": "charging_station",
+      "lat": 41.512104,
+      "lon": -7.991069,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8116398345",
+      "name": "VRL-90004",
+      "type": "charging_station",
+      "lat": 41.294271,
+      "lon": -7.735527,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8227492516",
+      "name": "VRL-00048",
+      "type": "charging_station",
+      "lat": 41.293258,
+      "lon": -7.735883,
+      "operator": "Galp Power",
+      "address": {
+        "city": "Vila Real",
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Lidl",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10891755085",
+      "name": "VRL-00021",
+      "type": "charging_station",
+      "lat": 41.293021,
+      "lon": -7.737753,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10948988809",
+      "name": "VRL-000019",
+      "type": "charging_station",
+      "lat": 41.294435,
+      "lon": -7.738571,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11632262277",
+      "name": "VRL-00013",
+      "type": "charging_station",
+      "lat": 41.292358,
+      "lon": -7.736933,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1487821336",
+      "name": "VRL-00056…58",
+      "type": "charging_station",
+      "lat": 41.297104,
+      "lon": -7.735302,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "09:00-23:00"
+      },
+      "amenities": {
+        "opening_hours": "09:00-23:00",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8116398346",
+      "name": "VRL-90005",
+      "type": "charging_station",
+      "lat": 41.302388,
+      "lon": -7.739293,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 3.7,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 3.7,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8116398347",
+      "name": "VRL-90003",
+      "type": "charging_station",
+      "lat": 41.299932,
+      "lon": -7.744211,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 3.7,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 3.7,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8116398353",
+      "name": "VRL-00001",
+      "type": "charging_station",
+      "lat": 41.305099,
+      "lon": -7.743273,
+      "operator": "Atlante",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 3.7,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 3.7,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10217263456",
+      "name": "VRL-00014",
+      "type": "charging_station",
+      "lat": 41.306581,
+      "lon": -7.742274,
+      "operator": "Goldenergy",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1495229655",
+      "name": "VRL-00045/46/47",
+      "type": "charging_station",
+      "lat": 41.304048,
+      "lon": -7.744997,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8199289504",
+      "name": "Quinta do Tedo Tesla Destination Charger",
+      "type": "charging_station",
+      "lat": 41.156741,
+      "lon": -7.640018,
+      "operator": "Tesla",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Tesla Destination",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "Tesla",
+        "network": "Tesla",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8199289505",
+      "name": "Quinta Seara d'Ordens Tesla Destination Charger",
+      "type": "charging_station",
+      "lat": 41.18842,
+      "lon": -7.727602,
+      "operator": "Tesla",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Tesla Destination",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "Tesla",
+        "network": "Tesla",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8199423477",
+      "name": "Pena Park Hotel Tesla Destination Charger",
+      "type": "charging_station",
+      "lat": 41.503867,
+      "lon": -7.801821,
+      "operator": "Tesla",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Tesla Destination",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "Tesla",
+        "network": "Tesla",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1346643063",
+      "name": "Ribeira de Pena Supercharger",
+      "type": "charging_station",
+      "lat": 41.503404,
+      "lon": -7.80097,
+      "operator": "Tesla",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 10
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Tesla",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8199446702",
+      "name": "Hotel Casino Chaves Tesla Destination Charger",
+      "type": "charging_station",
+      "lat": 41.760239,
+      "lon": -7.488905,
+      "operator": "Tesla",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Tesla Destination",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "Tesla",
+        "network": "Tesla",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1454921779",
+      "name": "CHV-00005/6",
+      "type": "charging_station",
+      "lat": 41.76177,
+      "lon": -7.487767,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8235126215",
+      "name": "CHV-00027",
+      "type": "charging_station",
+      "lat": 41.758885,
+      "lon": -7.46974,
+      "operator": "Galp Power",
+      "address": {
+        "city": "Chaves"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Lidl",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8287704638",
+      "name": "Quinta do Crasto",
+      "type": "charging_station",
+      "lat": 41.16481,
+      "lon": -7.628334,
+      "operator": "Quinta do Crasto",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Tesla Destination",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "Tesla",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8287713628",
+      "name": "Quinta da Côrte",
+      "type": "charging_station",
+      "lat": 41.162974,
+      "lon": -7.547641,
+      "operator": "Quinta da Côrte",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Tesla Destination",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "Tesla",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8307307696",
+      "name": "Casa da Quinta de Santa Cruz",
+      "type": "charging_station",
+      "lat": 41.184583,
+      "lon": -7.811784,
+      "operator": "Casa da Quinta de Santa Cruz",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8307371534",
+      "name": "Porsche Destination Charging",
+      "type": "charging_station",
+      "lat": 41.151485,
+      "lon": -7.68242,
+      "operator": "Porsche",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "Porsche",
+        "network": "Porsche",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8307392486",
+      "name": "Friautomóveis",
+      "type": "charging_station",
+      "lat": 41.596976,
+      "lon": -7.313214,
+      "operator": "Friautomóveis",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8307397344",
+      "name": "JAPautomotive",
+      "type": "charging_station",
+      "lat": 41.276166,
+      "lon": -7.716653,
+      "operator": "JAPautomotive",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10022775159",
+      "name": "JAP Blue",
+      "type": "charging_station",
+      "lat": 41.277739,
+      "lon": -7.713192,
+      "operator": "JapBlue",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8307406367",
+      "name": "MW by Trius Hotel",
+      "type": "charging_station",
+      "lat": 41.256577,
+      "lon": -7.769383,
+      "operator": "Magnificat Wine Boutique Hotel",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8307407928",
+      "name": "BTC-00001",
+      "type": "charging_station",
+      "lat": 41.686986,
+      "lon": -7.66734,
+      "operator": "Powerdot",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8309494922",
+      "name": "RSD-90001",
+      "type": "charging_station",
+      "lat": 41.105817,
+      "lon": -7.965102,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8309502490",
+      "name": "PRG-80001",
+      "type": "charging_station",
+      "lat": 41.162503,
+      "lon": -7.79249,
+      "operator": "Atlante",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9920134222",
+      "name": "PRG-00002",
+      "type": "charging_station",
+      "lat": 41.164665,
+      "lon": -7.793667,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Repsol",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12033959113",
+      "name": "PRG-00017",
+      "type": "charging_station",
+      "lat": 41.164874,
+      "lon": -7.79823,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Lidl",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13663650580",
+      "name": "PRG-00009",
+      "type": "charging_station",
+      "lat": 41.16408,
+      "lon": -7.789972,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8309512826",
+      "name": "MSF-00001",
+      "type": "charging_station",
+      "lat": 41.157829,
+      "lon": -7.892739,
+      "operator": "Galp Power",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8309562557",
+      "name": "MUR-90001",
+      "type": "charging_station",
+      "lat": 41.405722,
+      "lon": -7.450638,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13123537578",
+      "name": "MUR-00002",
+      "type": "charging_station",
+      "lat": 41.406154,
+      "lon": -7.450075,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Repsol",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8309582383",
+      "name": "Porsche Destination Charging",
+      "type": "charging_station",
+      "lat": 41.418024,
+      "lon": -7.006158,
+      "operator": "Porsche",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "Porsche",
+        "network": "Porsche",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8312996633",
+      "name": "CHV-00001",
+      "type": "charging_station",
+      "lat": 41.73698,
+      "lon": -7.469228,
+      "operator": "Atlante",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9847826024",
+      "name": "CHV-00011",
+      "type": "charging_station",
+      "lat": 41.732289,
+      "lon": -7.467909,
+      "operator": "Powerdot",
+      "address": {
+        "city": "Chaves"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 80.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12046802447",
+      "name": "CHV-00026",
+      "type": "charging_station",
+      "lat": 41.731859,
+      "lon": -7.469007,
+      "operator": "Cepsa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 300.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 300.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Moeve",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8313008424",
+      "name": "MTR-90004",
+      "type": "charging_station",
+      "lat": 41.840926,
+      "lon": -7.950025,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8313008736",
+      "name": "LMG-90004",
+      "type": "charging_station",
+      "lat": 41.086246,
+      "lon": -7.798827,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8313012013",
+      "name": "RPN-90001",
+      "type": "charging_station",
+      "lat": 41.519641,
+      "lon": -7.793079,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8385277365",
+      "name": "MDL-00014",
+      "type": "charging_station",
+      "lat": 41.493607,
+      "lon": -7.181707,
+      "operator": "Galp Power",
+      "address": {
+        "city": "Mirandela",
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Lidl",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11275817610",
+      "name": "MDL-00007",
+      "type": "charging_station",
+      "lat": 41.493193,
+      "lon": -7.176589,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Repsol",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8427190382",
+      "name": "MTR-00008",
+      "type": "charging_station",
+      "lat": 41.823207,
+      "lon": -7.791682,
+      "operator": "Alfa Energia",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "ALFA Energia",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8439046055",
+      "name": "VLP-00002",
+      "type": "charging_station",
+      "lat": 41.60993,
+      "lon": -7.313818,
+      "operator": "Atlante",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1454264642",
+      "name": "VLP-00005/6",
+      "type": "charging_station",
+      "lat": 41.609193,
+      "lon": -7.310363,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8792974362",
+      "name": "VPA-00002",
+      "type": "charging_station",
+      "lat": 41.492904,
+      "lon": -7.645527,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8830322333",
+      "name": "Adega de Favaios",
+      "type": "charging_station",
+      "lat": 41.271086,
+      "lon": -7.504879,
+      "operator": "Adega de Favaios",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8833322154",
+      "name": "MDL-00010",
+      "type": "charging_station",
+      "lat": 41.496659,
+      "lon": -7.178422,
+      "operator": "Atlante",
+      "address": {
+        "city": "Mirandela",
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11673676755",
+      "name": "MDL-00008",
+      "type": "charging_station",
+      "lat": 41.49583,
+      "lon": -7.175635,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8891759742",
+      "name": "ahoxus (call for emergencies)",
+      "type": "charging_station",
+      "lat": 41.270651,
+      "lon": -7.674194,
+      "operator": "cauema",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-9018342467",
+      "name": "TMC-90001",
+      "type": "charging_station",
+      "lat": 41.173948,
+      "lon": -7.049957,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13289895632",
+      "name": "TMC-00005",
+      "type": "charging_station",
+      "lat": 41.175864,
+      "lon": -7.052772,
+      "operator": "DTE",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "e-flow",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13687369179",
+      "name": "TMC-00004",
+      "type": "charging_station",
+      "lat": 41.174777,
+      "lon": -7.05277,
+      "operator": "DTE",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "e-flow",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9066262142",
+      "name": "Ladestation Goldenergy",
+      "type": "charging_station",
+      "lat": 41.29423,
+      "lon": -7.746105,
+      "operator": "Goldenergy",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9108791146",
+      "name": "Quinta da Pacheca",
+      "type": "charging_station",
+      "lat": 41.154388,
+      "lon": -7.797062,
+      "operator": "Quinta da Pacheca",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9118724923",
+      "name": "Logical Gravity - uCharge",
+      "type": "charging_station",
+      "lat": 41.70282,
+      "lon": -7.514103,
+      "operator": "Logical Gravity",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "uCharge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9180448193",
+      "name": "Quinta da Cumieira (para emergências)",
+      "type": "charging_station",
+      "lat": 41.25807,
+      "lon": -7.762067,
+      "operator": "Quinta da Cumeira",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 3.7,
+        "sockets": [
+          {
+            "type": "Schuko",
+            "kw": 3.7,
+            "count": 2
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9208602995",
+      "name": "MDL-00004",
+      "type": "charging_station",
+      "lat": 41.481207,
+      "lon": -7.179331,
+      "operator": "Powerdot",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9214178420",
+      "name": "CHV-00004",
+      "type": "charging_station",
+      "lat": 41.741691,
+      "lon": -7.466784,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-9245406422",
+      "name": "Ladestation Quinta de São Bernardo",
+      "type": "charging_station",
+      "lat": 41.146111,
+      "lon": -7.885495,
+      "operator": "Quinta de São Bernardo",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9309416862",
+      "name": "LMG-00009",
+      "type": "charging_station",
+      "lat": 41.102767,
+      "lon": -7.797208,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11287170755",
+      "name": "LMG-00012",
+      "type": "charging_station",
+      "lat": 41.10205,
+      "lon": -7.798225,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9455303728",
+      "name": "Hotel Aguiar da Pena",
+      "type": "charging_station",
+      "lat": 41.499369,
+      "lon": -7.647579,
+      "operator": "Hotel Aguiar da Pena",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9828511813",
+      "name": "Douro Cister",
+      "type": "charging_station",
+      "lat": 41.060918,
+      "lon": -7.740988,
+      "operator": "Douro Cister",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9847863913",
+      "name": "LMG-00010",
+      "type": "charging_station",
+      "lat": 41.099569,
+      "lon": -7.818582,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13238830705",
+      "name": "LMG-00023",
+      "type": "charging_station",
+      "lat": 41.095932,
+      "lon": -7.8128,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13512541112",
+      "name": "LMG-00020",
+      "type": "charging_station",
+      "lat": 41.096177,
+      "lon": -7.817318,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9920099816",
+      "name": "MDL-00005",
+      "type": "charging_station",
+      "lat": 41.482543,
+      "lon": -7.194711,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 90.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 90.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9986743351",
+      "name": "Iberdrola - Iberdrola",
+      "type": "charging_station",
+      "lat": 41.715489,
+      "lon": -7.487644,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-9986743360",
+      "name": "Iberdrola - Iberdrola",
+      "type": "charging_station",
+      "lat": 41.742916,
+      "lon": -7.469222,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-1385615469",
+      "name": "Continente Bom Dia Chaves",
+      "type": "charging_station",
+      "lat": 41.744199,
+      "lon": -7.470076,
+      "operator": "Continente",
+      "address": {
+        "street": "Avenida Doutor António Granjo",
+        "postcode": "5400-080",
+        "city": "Chaves",
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Continente Plug&Charge",
+        "network": "Continente Plug&Charge",
+        "opening_hours": "09:00-21:00"
+      },
+      "amenities": {
+        "opening_hours": "09:00-21:00",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10022775151",
+      "name": "Quinta das Fontaínhas",
+      "type": "charging_station",
+      "lat": 41.165129,
+      "lon": -7.892555,
+      "operator": "Quinta das Fontaínhas",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10109795256",
+      "name": "Casa do Rio",
+      "type": "charging_station",
+      "lat": 41.070208,
+      "lon": -7.078963,
+      "operator": "Casa do Rio",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10157924951",
+      "name": "Sol e Chuva",
+      "type": "charging_station",
+      "lat": 41.745454,
+      "lon": -7.869431,
+      "operator": "Sol e Chuva",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10202612684",
+      "name": "VRL-00016",
+      "type": "charging_station",
+      "lat": 41.314226,
+      "lon": -7.731619,
+      "operator": "NRG",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 180.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 180.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 80.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1454932918",
+      "name": "VRL-00028/29",
+      "type": "charging_station",
+      "lat": 41.315165,
+      "lon": -7.7303,
+      "operator": "Galp Power",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10215848702",
+      "name": "VFL-00003",
+      "type": "charging_station",
+      "lat": 41.308743,
+      "lon": -7.153633,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10229505394",
+      "name": "Galp Power - Galp electric",
+      "type": "charging_station",
+      "lat": 41.093209,
+      "lon": -7.140302,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10297349995",
+      "name": "Quinta & Casa das Hortas",
+      "type": "charging_station",
+      "lat": 41.146464,
+      "lon": -7.955652,
+      "operator": "Quinta & Casa das Hortas",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10830131115",
+      "name": "MDB-00004",
+      "type": "charging_station",
+      "lat": 41.378659,
+      "lon": -7.95161,
+      "operator": "NRG",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10981449248",
+      "name": "SJP-00002",
+      "type": "charging_station",
+      "lat": 41.145106,
+      "lon": -7.411524,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10981449250",
+      "name": "AMM-00004",
+      "type": "charging_station",
+      "lat": 41.099156,
+      "lon": -7.68627,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-10996132272",
+      "name": "CHV-00012",
+      "type": "charging_station",
+      "lat": 41.698443,
+      "lon": -7.476177,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11808082240",
+      "name": "VLP-00004",
+      "type": "charging_station",
+      "lat": 41.592693,
+      "lon": -7.303138,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11103231978",
+      "name": "VRL-00024",
+      "type": "charging_station",
+      "lat": 41.313999,
+      "lon": -7.732834,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1368508382",
+      "name": "Continente Vila Real",
+      "type": "charging_station",
+      "lat": 41.310949,
+      "lon": -7.73395,
+      "operator": "Continente",
+      "address": {
+        "street": "Avenida do Regimento de Infantaria",
+        "postcode": "5000-436",
+        "city": "Vila Real"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Continente Plug&Charge",
+        "network": "Continente Plug&Charge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1440046655",
+      "name": "VRL-00015",
+      "type": "charging_station",
+      "lat": 41.311707,
+      "lon": -7.72457,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11275817605",
+      "name": "MDL-00009",
+      "type": "charging_station",
+      "lat": 41.501959,
+      "lon": -7.166475,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11292042515",
+      "name": "CHV-00018",
+      "type": "charging_station",
+      "lat": 41.74038,
+      "lon": -7.475135,
+      "operator": "Atlante",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "09:00-21:00"
+      },
+      "amenities": {
+        "opening_hours": "09:00-21:00",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11404287214",
+      "name": "CHV-00019",
+      "type": "charging_station",
+      "lat": 41.73975,
+      "lon": -7.476045,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Repsol",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12437722204",
+      "name": "EDP - edp Charge",
+      "type": "charging_station",
+      "lat": 41.738648,
+      "lon": -7.470734,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11352291973",
+      "name": "CHV-00017",
+      "type": "charging_station",
+      "lat": 41.759446,
+      "lon": -7.468506,
+      "operator": "Atlante",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1378594734",
+      "name": "CHV-00014",
+      "type": "charging_station",
+      "lat": 41.761209,
+      "lon": -7.46742,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11359073364",
+      "name": "CBC-00011",
+      "type": "charging_station",
+      "lat": 41.507873,
+      "lon": -7.988869,
+      "operator": "Evio",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11359196944",
+      "name": "MDL-00006",
+      "type": "charging_station",
+      "lat": 41.487622,
+      "lon": -7.182601,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11359317369",
+      "name": "EDP - edp Charge",
+      "type": "charging_station",
+      "lat": 41.162266,
+      "lon": -7.5699,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11483104396",
+      "name": "LMG-00013",
+      "type": "charging_station",
+      "lat": 41.0907,
+      "lon": -7.799495,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 90.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 90.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1454759312",
+      "name": "LMG-00007/8",
+      "type": "charging_station",
+      "lat": 41.088911,
+      "lon": -7.798352,
+      "operator": "Powerdot",
+      "address": {
+        "city": "Lamego"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "09:00-21:00"
+      },
+      "amenities": {
+        "opening_hours": "09:00-21:00",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11540540868",
+      "name": "RSD-00002",
+      "type": "charging_station",
+      "lat": 41.108373,
+      "lon": -7.956352,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12142756326",
+      "name": "RSD-00003",
+      "type": "charging_station",
+      "lat": 41.106588,
+      "lon": -7.962969,
+      "operator": "Galp Power",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11616428066",
+      "name": "BAO-00003",
+      "type": "charging_station",
+      "lat": 41.142806,
+      "lon": -7.94993,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11705037616",
+      "name": "CHV-00021",
+      "type": "charging_station",
+      "lat": 41.709417,
+      "lon": -7.567896,
+      "operator": "EVCE",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "MobiSmart",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11795142908",
+      "name": "Continente Bom Dia Vila Pouca de Aguiar",
+      "type": "charging_station",
+      "lat": 41.503938,
+      "lon": -7.641659,
+      "operator": "Continente",
+      "address": {
+        "street": "Avenida Miguel Torga",
+        "postcode": "5450-034",
+        "city": "Vila Pouca de Aguiar"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Continente Plug&Charge",
+        "network": "Continente Plug&Charge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11808213996",
+      "name": "VRL-00032",
+      "type": "charging_station",
+      "lat": 41.279525,
+      "lon": -7.706309,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1495869151",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.279172,
+      "lon": -7.711799,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "private",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11822870201",
+      "name": "SJP-00003",
+      "type": "charging_station",
+      "lat": 41.151013,
+      "lon": -7.417162,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 11.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 11.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11895647852",
+      "name": "CBT-00002",
+      "type": "charging_station",
+      "lat": 41.422123,
+      "lon": -7.985988,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11895647853",
+      "name": "VRL-00037",
+      "type": "charging_station",
+      "lat": 41.312284,
+      "lon": -7.760681,
+      "operator": "Atlante",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11921711742",
+      "name": "Ladestation Repsol",
+      "type": "charging_station",
+      "lat": 41.945402,
+      "lon": -7.416067,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11921711743",
+      "name": "Ladestation Repsol",
+      "type": "charging_station",
+      "lat": 41.939295,
+      "lon": -7.446208,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11949726698",
+      "name": "TMC-00002",
+      "type": "charging_station",
+      "lat": 41.239109,
+      "lon": -7.084534,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11963115974",
+      "name": "VLF-00005",
+      "type": "charging_station",
+      "lat": 41.069427,
+      "lon": -7.15495,
+      "operator": "Prio.E",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Prio",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-11992891053",
+      "name": "Iberdrola - Iberdrola",
+      "type": "charging_station",
+      "lat": 41.14458,
+      "lon": -7.755098,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12018724376",
+      "name": "VRL-00025",
+      "type": "charging_station",
+      "lat": 41.2573,
+      "lon": -7.651727,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12068698214",
+      "name": "TMC-00003",
+      "type": "charging_station",
+      "lat": 41.178196,
+      "lon": -7.041445,
+      "operator": "Galp Power",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12075901727",
+      "name": "RPN-00005",
+      "type": "charging_station",
+      "lat": 41.505904,
+      "lon": -7.799218,
+      "operator": "SOLX",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12101523362",
+      "name": "MDL-00012",
+      "type": "charging_station",
+      "lat": 41.485307,
+      "lon": -7.188179,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 90.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 90.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12146693128",
+      "name": "CHV-00024",
+      "type": "charging_station",
+      "lat": 41.782549,
+      "lon": -7.438531,
+      "operator": "Atlante",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 40.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 40.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12200052185",
+      "name": "LMG-00017",
+      "type": "charging_station",
+      "lat": 41.081559,
+      "lon": -7.798708,
+      "operator": "Galp Power",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Lidl",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12233069523",
+      "name": "RSD-00004",
+      "type": "charging_station",
+      "lat": 41.109612,
+      "lon": -7.953117,
+      "operator": "Charging Together",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 80.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Iberdrola bp pulse",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12244249343",
+      "name": "PRG-00004",
+      "type": "charging_station",
+      "lat": 41.16259,
+      "lon": -7.803449,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12297700041",
+      "name": "EDP - edp Charge",
+      "type": "charging_station",
+      "lat": 41.632872,
+      "lon": -7.572598,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 7.4,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.4,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12396651756",
+      "name": "PRG-00005",
+      "type": "charging_station",
+      "lat": 41.168036,
+      "lon": -7.8028,
+      "operator": "Atlante",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 110.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 110.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13516727515",
+      "name": "PRG-00015",
+      "type": "charging_station",
+      "lat": 41.170897,
+      "lon": -7.805234,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13516727517",
+      "name": "PRG-00012",
+      "type": "charging_station",
+      "lat": 41.166669,
+      "lon": -7.803809,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12400641239",
+      "name": "VRL-00040",
+      "type": "charging_station",
+      "lat": 41.201014,
+      "lon": -7.685091,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12471528373",
+      "name": "Iberdrola - Iberdrola",
+      "type": "charging_station",
+      "lat": 41.549733,
+      "lon": -7.605645,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12505490808",
+      "name": "VRL-00039",
+      "type": "charging_station",
+      "lat": 41.308477,
+      "lon": -7.761219,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12580194887",
+      "name": "CBC-00016",
+      "type": "charging_station",
+      "lat": 41.484178,
+      "lon": -7.959533,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1460608736",
+      "name": "CBC-?????",
+      "type": "charging_station",
+      "lat": 41.479396,
+      "lon": -7.954571,
+      "operator": "Mota Engil II",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Renewing",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12580232472",
+      "name": "CBC-00017",
+      "type": "charging_station",
+      "lat": 41.487942,
+      "lon": -7.96157,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12706036736",
+      "name": "CBC-00018",
+      "type": "charging_station",
+      "lat": 41.49385,
+      "lon": -7.983226,
+      "operator": "Helexia II",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 100.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 100.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Helexia",
+        "network": "Mobi.E",
+        "opening_hours": "07:00-23:00"
+      },
+      "amenities": {
+        "opening_hours": "07:00-23:00",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12871913979",
+      "name": "MDL-00013",
+      "type": "charging_station",
+      "lat": 41.477643,
+      "lon": -7.178638,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12955158967",
+      "name": "VPA-00005",
+      "type": "charging_station",
+      "lat": 41.543943,
+      "lon": -7.601519,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13012277297",
+      "name": "Charging Together - Iberdrola bp pulse",
+      "type": "charging_station",
+      "lat": 41.264826,
+      "lon": -7.589549,
+      "operator": "Charging Together",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 80.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Iberdrola bp pulse",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13050861880",
+      "name": "TRC-00002",
+      "type": "charging_station",
+      "lat": 41.029912,
+      "lon": -7.771374,
+      "operator": "Atlante",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Cards",
+          "Membership Card"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1391020270",
+      "name": "Continente Bom Dia Tarouca",
+      "type": "charging_station",
+      "lat": 41.031663,
+      "lon": -7.774365,
+      "operator": "Continente",
+      "address": {
+        "street": "EN 226",
+        "postcode": "3610-013",
+        "city": "Tarouca"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Continente Plug&Charge",
+        "network": "Continente Plug&Charge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13121741617",
+      "name": "LMG-00018",
+      "type": "charging_station",
+      "lat": 41.10776,
+      "lon": -7.80676,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13173766779",
+      "name": "VNH-00002",
+      "type": "charging_station",
+      "lat": 41.829986,
+      "lon": -7.010225,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13268649070",
+      "name": "LMG-00019",
+      "type": "charging_station",
+      "lat": 41.091458,
+      "lon": -7.805246,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13339523334",
+      "name": "LMG-00024",
+      "type": "charging_station",
+      "lat": 41.094232,
+      "lon": -7.811365,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13384440910",
+      "name": "PRG-00013",
+      "type": "charging_station",
+      "lat": 41.157864,
+      "lon": -7.777963,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13516727514",
+      "name": "PRG-00016",
+      "type": "charging_station",
+      "lat": 41.169303,
+      "lon": -7.79927,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13516727518",
+      "name": "PRG-00010",
+      "type": "charging_station",
+      "lat": 41.15961,
+      "lon": -7.786861,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13516727519",
+      "name": "PRG-00008",
+      "type": "charging_station",
+      "lat": 41.161276,
+      "lon": -7.778955,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13618986689",
+      "name": "PRG-00014",
+      "type": "charging_station",
+      "lat": 41.165943,
+      "lon": -7.783,
+      "operator": "True Kare",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "wowplug",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13648350558",
+      "name": "LMG-00022",
+      "type": "charging_station",
+      "lat": 41.127657,
+      "lon": -7.802757,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Membership Card"
+        ],
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1348344183",
+      "name": "Continente Modelo Régua",
+      "type": "charging_station",
+      "lat": 41.178568,
+      "lon": -7.794464,
+      "operator": "Continente",
+      "address": {
+        "street": "Rua de Lousada",
+        "postcode": "5050-106",
+        "city": "Peso da Régua"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Continente Plug&Charge",
+        "network": "Continente Plug&Charge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1355503512",
+      "name": "Régia Douro Park",
+      "type": "charging_station",
+      "lat": 41.270167,
+      "lon": -7.6964,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1392423029",
+      "name": "CRZ-00002/3",
+      "type": "charging_station",
+      "lat": 41.245765,
+      "lon": -7.305677,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1417752688",
+      "name": "SBR-00002/3",
+      "type": "charging_station",
+      "lat": 41.162595,
+      "lon": -7.595519,
+      "operator": "Galp Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Galp electric",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1432639700",
+      "name": "Quinta do Ventozelo Tesla Destination Charger",
+      "type": "charging_station",
+      "lat": 41.175956,
+      "lon": -7.515187,
+      "operator": "Tesla",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "Tesla",
+        "network": "Tesla",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1441485078",
+      "name": "MDB-00002/3",
+      "type": "charging_station",
+      "lat": 41.396439,
+      "lon": -7.970377,
+      "operator": "Circuitos Energy Solutions",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1454924811",
+      "name": "VPA-00003/4",
+      "type": "charging_station",
+      "lat": 41.506382,
+      "lon": -7.661054,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1454928781",
+      "name": "VRL-00043/44",
+      "type": "charging_station",
+      "lat": 41.323695,
+      "lon": -7.641101,
+      "operator": "Cable Energia",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Shell Recharge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1454928782",
+      "name": "VRL-00041/42",
+      "type": "charging_station",
+      "lat": 41.324448,
+      "lon": -7.641029,
+      "operator": "Cable Energia",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Shell Recharge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1459652518",
+      "name": "VLF-00006/7",
+      "type": "charging_station",
+      "lat": 41.083308,
+      "lon": -7.137078,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1468758424",
+      "name": "LMG-00025/26",
+      "type": "charging_station",
+      "lat": 41.143819,
+      "lon": -7.810893,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1495823704",
+      "name": "EDP - edp Charge",
+      "type": "charging_station",
+      "lat": 41.153399,
+      "lon": -7.784727,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1495823946",
+      "name": "EDP - edp Charge",
+      "type": "charging_station",
+      "lat": 41.154288,
+      "lon": -7.647747,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1495871268",
+      "name": "Iberdrola - Iberdrola",
+      "type": "charging_station",
+      "lat": 41.632152,
+      "lon": -7.574357,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 37,
+    "lon": -2,
+    "bounds": {
+      "south": 37,
+      "north": 38,
+      "west": -2,
+      "east": -1
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-1420358232",
+      "name": "Ladestation Endesa",
+      "type": "charging_station",
+      "lat": 37.187129,
+      "lon": -2.958397,
+      "operator": "Endesa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

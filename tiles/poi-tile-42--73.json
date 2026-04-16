@@ -1,0 +1,135 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 42,
+    "lon": -73,
+    "bounds": {
+      "south": 42,
+      "north": 43,
+      "west": -73,
+      "east": -72
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "nrel-35562",
+      "name": "New York State Energy Research Development Authority - Headquarters",
+      "type": "charging_station",
+      "lat": 42.702424,
+      "lon": -73.857693,
+      "operator": "P",
+      "address": {
+        "street": "17 Columbia Cir",
+        "city": "Albany",
+        "state": "NY",
+        "postcode": "12203",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Employee and guest use only; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 8
+      },
+      "amenities": {
+        "opening_hours": "Employee and guest use only; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-35563",
+      "name": "Saratoga Technology & Energy Park",
+      "type": "charging_station",
+      "lat": 42.969823,
+      "lon": -73.773021,
+      "operator": "SG",
+      "address": {
+        "street": "10 Hermes Rd",
+        "city": "Malta",
+        "state": "NY",
+        "postcode": "12020",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Employee and guest use only; drivers must bring their own cord for level 1 charging.",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 1.9,
+        "sockets": [
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "Employee and guest use only; drivers must bring their own cord for level 1 charging."
+      }
+    },
+    {
+      "id": "nrel-36532",
+      "name": "Hudson Valley Community College - TEC-SMART Building",
+      "type": "charging_station",
+      "lat": 42.97167,
+      "lon": -73.774182,
+      "operator": "SG",
+      "address": {
+        "street": "345 Hermes Rd",
+        "city": "Malta",
+        "state": "NY",
+        "postcode": "12020",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "7am-10pm M-Sat; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 1.9,
+        "sockets": [
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "7am-10pm M-Sat; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 33,
+    "lon": -117,
+    "bounds": {
+      "south": 33,
+      "north": 34,
+      "west": -117,
+      "east": -116
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "nrel-6425",
+      "name": "Galleria at Tyler",
+      "type": "charging_station",
+      "lat": 33.909914,
+      "lon": -117.459053,
+      "operator": "P",
+      "address": {
+        "street": "1299 Galleria at Tyler",
+        "city": "Riverside",
+        "state": "CA",
+        "postcode": "92503",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "6am-12am daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "6am-12am daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-21535",
+      "name": "Westfield MainPlace Mall",
+      "type": "charging_station",
+      "lat": 33.777054,
+      "lon": -117.870566,
+      "operator": "P",
+      "address": {
+        "street": "2800 N Main St",
+        "city": "Santa Ana",
+        "state": "CA",
+        "postcode": "92705",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 8
+      },
+      "amenities": {
+        "opening_hours": "Business hours",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-21561",
+      "name": "Brea Downtown Parking",
+      "type": "charging_station",
+      "lat": 33.919899,
+      "lon": -117.898618,
+      "operator": "LG",
+      "address": {
+        "street": "101 S Brea Blvd",
+        "city": "Brea",
+        "state": "CA",
+        "postcode": "92821",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Garage business hours; 4 hour parking limit",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "Garage business hours; 4 hour parking limit"
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 38,
+    "lon": 28,
+    "bounds": {
+      "south": 38,
+      "north": 39,
+      "west": 28,
+      "east": 29
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-6745035624",
+      "name": "ZES - Suresto",
+      "type": "charging_station",
+      "lat": 38.477089,
+      "lon": 28.112711,
+      "operator": "ZES",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

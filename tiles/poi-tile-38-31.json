@@ -1,0 +1,80 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 38,
+    "lon": 31,
+    "bounds": {
+      "south": 38,
+      "north": 39,
+      "west": 31,
+      "east": 32
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-6814092910",
+      "name": "ZES - Sultandağı Yaşar Petrol",
+      "type": "charging_station",
+      "lat": 38.552076,
+      "lon": 31.22968,
+      "operator": "ZES",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6814092952",
+      "name": "Sistem Yapı - Egepen",
+      "type": "charging_station",
+      "lat": 38.351884,
+      "lon": 31.434248,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

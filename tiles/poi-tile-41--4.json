@@ -1,0 +1,112 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 41,
+    "lon": -4,
+    "bounds": {
+      "south": 41,
+      "north": 42,
+      "west": -4,
+      "east": -3
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 4,
+  "pois": [
+    {
+      "id": "osm-1236446791",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.626491,
+      "lon": -4.766793,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1415719321",
+      "name": "Ladestation Acciona Energía",
+      "type": "charging_station",
+      "lat": 41.628401,
+      "lon": -4.774915,
+      "operator": "Acciona Energía",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Credit Cards",
+          "Debit Cards",
+          "Electronic Purses",
+          "Paypal"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1450714551",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.618465,
+      "lon": -4.787983,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1456650279",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.11802,
+      "lon": -4.264156,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

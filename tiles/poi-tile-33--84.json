@@ -1,0 +1,55 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 33,
+    "lon": -84,
+    "bounds": {
+      "south": 33,
+      "north": 34,
+      "west": -84,
+      "east": -83
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-37265",
+      "name": "1075 Peachtree",
+      "type": "charging_station",
+      "lat": 33.78412,
+      "lon": -84.3828,
+      "operator": "ENVIROSPARK",
+      "address": {
+        "street": "1075 Peachtree St NE",
+        "city": "Atlanta",
+        "state": "GA",
+        "postcode": "30309",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://envirosparkenergy.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "$0.40 per kWh"
+      }
+    }
+  ]
+}

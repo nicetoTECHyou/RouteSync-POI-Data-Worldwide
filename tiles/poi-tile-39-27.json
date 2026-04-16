@@ -1,0 +1,148 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 39,
+    "lon": 27,
+    "bounds": {
+      "south": 39,
+      "north": 40,
+      "west": 27,
+      "east": 28
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-7077951359",
+      "name": "SHARZ Yaylada AVM",
+      "type": "charging_station",
+      "lat": 39.657102,
+      "lon": 27.906228,
+      "operator": "SHARZ",
+      "address": {
+        "street": "Paşa Alanı, Bandırma Cd. No:74, 10020 Karesi/Balıkesir",
+        "city": "BALIKESİR MERKEZ"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12828816901",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 39.180456,
+      "lon": 27.677853,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13105696603",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 39.180719,
+      "lon": 27.676113,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12881063114",
+      "name": "Balıkesir - Izmir Bound Supercharger",
+      "type": "charging_station",
+      "lat": 39.757739,
+      "lon": 27.963019,
+      "operator": "Tesla",
+      "address": {},
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12963969048",
+      "name": "Balıkesir - Istanbul Bound Supercharger",
+      "type": "charging_station",
+      "lat": 39.756509,
+      "lon": 27.960215,
+      "operator": "Tesla",
+      "address": {},
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

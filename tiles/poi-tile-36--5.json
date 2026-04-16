@@ -1,0 +1,130 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": -5,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": -5,
+      "east": -4
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "osm-1122283134",
+      "name": "Ladestation Hemegas",
+      "type": "charging_station",
+      "lat": 36.9336,
+      "lon": -5.245983,
+      "operator": "Hemegas",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1132492086",
+      "name": "Repsol - Repsol",
+      "type": "charging_station",
+      "lat": 36.934142,
+      "lon": -5.254756,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Repsol",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1433082318",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 36.195456,
+      "lon": -5.428905,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1453737176",
+      "name": "Supercharger Estepona, Spain",
+      "type": "charging_station",
+      "lat": 36.45718,
+      "lon": -5.061501,
+      "operator": "Tesla",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1471907552",
+      "name": "Endesa - Endesa",
+      "type": "charging_station",
+      "lat": 36.202898,
+      "lon": -5.927163,
+      "operator": "Endesa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Endesa",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

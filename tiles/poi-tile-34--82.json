@@ -1,0 +1,330 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 34,
+    "lon": -82,
+    "bounds": {
+      "south": 34,
+      "north": 35,
+      "west": -82,
+      "east": -81
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 8,
+  "pois": [
+    {
+      "id": "nrel-38302",
+      "name": "Greenville Zoo",
+      "type": "charging_station",
+      "lat": 34.84709,
+      "lon": -82.387269,
+      "operator": "LG",
+      "address": {
+        "street": "150 Cleveland Park Dr",
+        "city": "Greenville",
+        "state": "SC",
+        "postcode": "29601",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Zoo hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "Zoo hours",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38303",
+      "name": "City of Greenville - Poinsett Garage",
+      "type": "charging_station",
+      "lat": 34.849724,
+      "lon": -82.400667,
+      "operator": "LG",
+      "address": {
+        "street": "25 W McBee Ave",
+        "city": "Greenville",
+        "state": "SC",
+        "postcode": "29601",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38304",
+      "name": "City of Greenville - Spring Street Garage",
+      "type": "charging_station",
+      "lat": 34.849889,
+      "lon": -82.397797,
+      "operator": "LG",
+      "address": {
+        "street": "316 S Spring St",
+        "city": "Greenville",
+        "state": "SC",
+        "postcode": "29601",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38309",
+      "name": "City of Greenville - Richardson Garage",
+      "type": "charging_station",
+      "lat": 34.852437,
+      "lon": -82.399901,
+      "operator": "LG",
+      "address": {
+        "street": "66 Richardson St",
+        "city": "Greenville",
+        "state": "SC",
+        "postcode": "29601",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38305",
+      "name": "City of Greenville - Church Street Garage",
+      "type": "charging_station",
+      "lat": 34.852754,
+      "lon": -82.393113,
+      "operator": "LG",
+      "address": {
+        "street": "320 N Church St",
+        "city": "Greenville",
+        "state": "SC",
+        "postcode": "29601",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38307",
+      "name": "City of Greenville - Commons Garage",
+      "type": "charging_station",
+      "lat": 34.852789,
+      "lon": -82.396195,
+      "operator": "LG",
+      "address": {
+        "street": "60 Beattie Pl",
+        "city": "Greenville",
+        "state": "SC",
+        "postcode": "29601",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38308",
+      "name": "Liberty Square Garage",
+      "type": "charging_station",
+      "lat": 34.85335,
+      "lon": -82.394826,
+      "operator": "LG",
+      "address": {
+        "street": "65 Beattie Pl",
+        "city": "Greenville",
+        "state": "SC",
+        "postcode": "29601",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-39414",
+      "name": "KEMET Corp",
+      "type": "charging_station",
+      "lat": 34.749177,
+      "lon": -82.279741,
+      "operator": "P",
+      "address": {
+        "street": "2835 Kemet Way",
+        "city": "Simpsonville",
+        "state": "SC",
+        "postcode": "29681",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "KEMET employee and official visitor use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "KEMET employee and official visitor use only"
+      }
+    }
+  ]
+}

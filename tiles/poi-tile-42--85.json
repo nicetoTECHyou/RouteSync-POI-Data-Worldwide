@@ -1,0 +1,55 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 42,
+    "lon": -85,
+    "bounds": {
+      "south": 42,
+      "north": 43,
+      "west": -85,
+      "east": -84
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-38778",
+      "name": "Peaches Bed & Breakfast",
+      "type": "charging_station",
+      "lat": 42.962078,
+      "lon": -85.659019,
+      "operator": "P",
+      "address": {
+        "street": "29 Gay Ave SE",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "postcode": "49503",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; for guest use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; for guest use only",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

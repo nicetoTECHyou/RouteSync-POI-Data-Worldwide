@@ -1,0 +1,74 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": 35,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": 35,
+      "east": 36
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-7077989448",
+      "name": "SHARZ Seyhan İstasyonu Yapsan Gaz",
+      "type": "charging_station",
+      "lat": 36.997469,
+      "lon": 35.248967,
+      "operator": "SHARZ",
+      "address": {
+        "street": "Yeşiloba Mahallesi, Turhan Cemal Beriker Blv., 01100",
+        "city": "SEYHAN"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1441660012",
+      "name": "Ladestation Esarj Sarj İstasyonu",
+      "type": "charging_station",
+      "lat": 36.907741,
+      "lon": 35.070484,
+      "operator": "Unbekannt",
+      "address": {},
+      "power": {
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Esarj Sarj İstasyonu",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

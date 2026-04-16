@@ -1,0 +1,983 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 41,
+    "lon": 8,
+    "bounds": {
+      "south": 41,
+      "north": 42,
+      "west": 8,
+      "east": 9
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 33,
+  "pois": [
+    {
+      "id": "osm-7238901839",
+      "name": "Bosch eBike Power Station",
+      "type": "charging_station",
+      "lat": 41.932695,
+      "lon": 8.742635,
+      "operator": "Boutique AppeBike",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-9164661457",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.707523,
+      "lon": 8.793704,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9954244471",
+      "name": "Ladestation e-motum",
+      "type": "charging_station",
+      "lat": 41.672733,
+      "lon": 8.918129,
+      "operator": "e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9960355017",
+      "name": "e motum",
+      "type": "charging_station",
+      "lat": 41.92845,
+      "lon": 8.764963,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11109169767",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 41.955503,
+      "lon": 8.798435,
+      "operator": "Freshmile",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12337509224",
+      "name": "Ajaccio Supercharger",
+      "type": "charging_station",
+      "lat": 41.951934,
+      "lon": 8.792844,
+      "operator": "Tesla",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Tesla Supercharger",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109169769",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.943433,
+      "lon": 8.753212,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11912180477",
+      "name": "Groupe Filippi-Auto - e-motum",
+      "type": "charging_station",
+      "lat": 41.943981,
+      "lon": 8.754694,
+      "operator": "Groupe Filippi-Auto",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "e-motum",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13140027228",
+      "name": "Carrefour Energies - EV Meter DUO",
+      "type": "charging_station",
+      "lat": 41.9424,
+      "lon": 8.745742,
+      "operator": "Carrefour Energies",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "EV Meter DUO",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109169772",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.927716,
+      "lon": 8.740141,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169773",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 41.908496,
+      "lon": 8.657465,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11229809904",
+      "name": "Hotel Stella di Mare",
+      "type": "charging_station",
+      "lat": 41.907907,
+      "lon": 8.66056,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11109169777",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.877695,
+      "lon": 8.786427,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169778",
+      "name": "Groupe Filippi-Auto - e-motum",
+      "type": "charging_station",
+      "lat": 41.893857,
+      "lon": 8.806314,
+      "operator": "Groupe Filippi-Auto",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "no",
+        "brand": "e-motum",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-13151580609",
+      "name": "Groupe Filippi-Auto - e-motum",
+      "type": "charging_station",
+      "lat": 41.892164,
+      "lon": 8.805347,
+      "operator": "Groupe Filippi-Auto",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "e-motum",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11109169779",
+      "name": "CAR2PLUG - KALLISTE RIVE SUD",
+      "type": "charging_station",
+      "lat": 41.85874,
+      "lon": 8.797038,
+      "operator": "CAR2PLUG",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "KALLISTE RIVE SUD",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169780",
+      "name": "Ladestation Freshmile",
+      "type": "charging_station",
+      "lat": 41.932618,
+      "lon": 8.790558,
+      "operator": "Freshmile",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169781",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 41.9234,
+      "lon": 8.82486,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169783",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.680914,
+      "lon": 8.915746,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169784",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.688053,
+      "lon": 8.930927,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169785",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.697897,
+      "lon": 8.896435,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169790",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.906105,
+      "lon": 8.668901,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169791",
+      "name": "Freshmile SAS - Freshmile",
+      "type": "charging_station",
+      "lat": 41.909315,
+      "lon": 8.639236,
+      "operator": "Freshmile SAS",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "Freshmile",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169792",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.916807,
+      "lon": 8.725979,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169795",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.621461,
+      "lon": 8.964013,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169804",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.645732,
+      "lon": 8.868415,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11109169806",
+      "name": "sas e-motum - e-motum",
+      "type": "charging_station",
+      "lat": 41.570971,
+      "lon": 8.95273,
+      "operator": "sas e-motum",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "e-motum",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-12246124027",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.908007,
+      "lon": 8.67913,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13102965431",
+      "name": "Ladestation YES55",
+      "type": "charging_station",
+      "lat": 41.670212,
+      "lon": 8.913841,
+      "operator": "YES55",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13102966084",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.670464,
+      "lon": 8.913004,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13115010436",
+      "name": "Ladestation YES55",
+      "type": "charging_station",
+      "lat": 41.669968,
+      "lon": 8.914381,
+      "operator": "YES55",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13124711243",
+      "name": "Ladestation DRIVECO",
+      "type": "charging_station",
+      "lat": 41.945838,
+      "lon": 8.755762,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "DRIVECO",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13128836756",
+      "name": "Groupe Filippi-Auto - e-motum",
+      "type": "charging_station",
+      "lat": 41.897734,
+      "lon": 8.809793,
+      "operator": "Groupe Filippi-Auto",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "e-motum",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

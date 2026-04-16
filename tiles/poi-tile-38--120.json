@@ -1,0 +1,93 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 38,
+    "lon": -120,
+    "bounds": {
+      "south": 38,
+      "north": 39,
+      "west": -120,
+      "east": -119
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "nrel-25507",
+      "name": "Mosquito Road Park and Ride",
+      "type": "charging_station",
+      "lat": 38.73323,
+      "lon": -120.78962,
+      "operator": "LG",
+      "address": {
+        "street": "Mosquito Rd & Clay St",
+        "city": "Placerville",
+        "state": "CA",
+        "postcode": "95667",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Lot business hours; overnight parking prohibited",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "Lot business hours; overnight parking prohibited",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-25522",
+      "name": "El Dorado County Government Center",
+      "type": "charging_station",
+      "lat": 38.72799,
+      "lon": -120.828,
+      "operator": "LG",
+      "address": {
+        "street": "2850 Fairlane Ct",
+        "city": "Placerville",
+        "state": "CA",
+        "postcode": "95667",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

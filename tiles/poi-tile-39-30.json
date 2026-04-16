@@ -1,0 +1,117 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 39,
+    "lon": 30,
+    "bounds": {
+      "south": 39,
+      "north": 40,
+      "west": 30,
+      "east": 31
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-7077989389",
+      "name": "SHARZ Divan Expres",
+      "type": "charging_station",
+      "lat": 39.783767,
+      "lon": 30.497057,
+      "operator": "SHARZ",
+      "address": {
+        "street": "Hoşnudiye, Şahin Cd 738/A, 26130 Tepebaşı/Eskişehir",
+        "city": "TEPEBAŞI"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13252465691",
+      "name": "Kütahya Supercharger",
+      "type": "charging_station",
+      "lat": 39.35857,
+      "lon": 30.056511,
+      "operator": "Tesla",
+      "address": {},
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1236451650",
+      "name": "SHARZ Koçoğlu Akaryakıt Tesisleri",
+      "type": "charging_station",
+      "lat": 39.889677,
+      "lon": 30.111199,
+      "operator": "SHARZ",
+      "address": {
+        "street": "Akpınar Mahallesi, 11300 Bozüyük/Bilecik",
+        "city": "BOZÜYÜK"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

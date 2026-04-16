@@ -1,0 +1,134 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 42,
+    "lon": -71,
+    "bounds": {
+      "south": 42,
+      "north": 43,
+      "west": -71,
+      "east": -70
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "nrel-38254",
+      "name": "SEAPORT GARAGE EAST GARAGE2 P1",
+      "type": "charging_station",
+      "lat": 42.349249,
+      "lon": -71.040928,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "1 Seaport Ln",
+        "city": "Boston",
+        "state": "MA",
+        "postcode": "02210",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    },
+    {
+      "id": "nrel-38525",
+      "name": "Charles Hotel - Harvard Square",
+      "type": "charging_station",
+      "lat": 42.372442,
+      "lon": -71.122882,
+      "operator": "P",
+      "address": {
+        "street": "1 Bennett St",
+        "city": "Cambridge",
+        "state": "MA",
+        "postcode": "02138",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-15",
+            "kw": 1.4,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-39294",
+      "name": "Eversource Energy Park",
+      "type": "charging_station",
+      "lat": 42.999265,
+      "lon": -71.467911,
+      "operator": "T",
+      "address": {
+        "street": "780 N Commercial St",
+        "city": "Manchester",
+        "state": "NH",
+        "postcode": "03101",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Employee use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "Employee use only"
+      }
+    }
+  ]
+}

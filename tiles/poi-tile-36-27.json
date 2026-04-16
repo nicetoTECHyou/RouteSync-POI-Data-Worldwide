@@ -1,0 +1,2174 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": 27,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": 27,
+      "east": 28
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 56,
+  "pois": [
+    {
+      "id": "osm-7077951361",
+      "name": "SHARZ Zeytinli Evleri Datça",
+      "type": "charging_station",
+      "lat": 36.727492,
+      "lon": 27.680937,
+      "operator": "SHARZ",
+      "address": {
+        "street": "İskele, Vatan Cd., 48900 Datça/Muğla",
+        "city": "DATÇA"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10648155711",
+      "name": "DEI blue - Αμαξοστάσιο Χάλκης",
+      "type": "charging_station",
+      "lat": 36.222888,
+      "lon": 27.607552,
+      "operator": "Δήμος Χάλκης",
+      "address": {
+        "postcode": "85110",
+        "city": "Χάλκη"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11951655366",
+      "name": "nrg - Astir Odysseus",
+      "type": "charging_station",
+      "lat": 36.891176,
+      "lon": 27.236813,
+      "operator": "Astir Odysseus Kos Resort & Spa",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12981658444",
+      "name": "nrg - Shell 492",
+      "type": "charging_station",
+      "lat": 36.803085,
+      "lon": 27.093455,
+      "operator": "Shell 492",
+      "address": {
+        "postcode": "85302",
+        "city": "Αντιμάχεια"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 60.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12981669815",
+      "name": "Chargespot - Atlantica Beach Resort",
+      "type": "charging_station",
+      "lat": 36.759511,
+      "lon": 27.112201,
+      "operator": "Atlantica Beach Resort",
+      "address": {
+        "postcode": "85302",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12981669817",
+      "name": "Chargespot - Atlantica Belvedere Resort",
+      "type": "charging_station",
+      "lat": 36.76003,
+      "lon": 27.107869,
+      "operator": "Atlantica Belvedere Resort",
+      "address": {
+        "postcode": "85302",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12981672601",
+      "name": "DEI blue - Μέλισσα Μελισσοκομείο",
+      "type": "charging_station",
+      "lat": 36.775286,
+      "lon": 27.03005,
+      "operator": "Μέλισσα Μελισσοκομείο",
+      "address": {
+        "postcode": "85301",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12981682760",
+      "name": "Chargespot - Kyma Rooms & Suites",
+      "type": "charging_station",
+      "lat": 36.786698,
+      "lon": 27.148318,
+      "operator": "Kyma Rooms & Suites",
+      "address": {
+        "postcode": "85302",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12981691196",
+      "name": "DEI blue - Gaia Royal Hotel",
+      "type": "charging_station",
+      "lat": 36.860845,
+      "lon": 27.116944,
+      "operator": "Gaia Royal Hotel",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12981691197",
+      "name": "Blink - Neptune Hotel",
+      "type": "charging_station",
+      "lat": 36.855906,
+      "lon": 27.112746,
+      "operator": "Neptune Hotel",
+      "address": {
+        "postcode": "85302"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Blink",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12981691198",
+      "name": "nrg - Marmari Palace",
+      "type": "charging_station",
+      "lat": 36.853399,
+      "lon": 27.104933,
+      "operator": "Marmari Palace",
+      "address": {
+        "postcode": "85302"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12981696022",
+      "name": "nrg - AVIN Αντιμάχεια",
+      "type": "charging_station",
+      "lat": 36.830224,
+      "lon": 27.12047,
+      "operator": "AVIN 4193",
+      "address": {
+        "postcode": "85302",
+        "city": "Αντιμάχεια"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12981696140",
+      "name": "DEI blue - Vestal Skoubourdis",
+      "type": "charging_station",
+      "lat": 36.859979,
+      "lon": 27.145913,
+      "operator": "Vestal Skoubourdis",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12981696141",
+      "name": "DEI blue - Ταβέρνα Πέρασμα",
+      "type": "charging_station",
+      "lat": 36.85604,
+      "lon": 27.13696,
+      "operator": "Gaia Royal Hotel",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12981698361",
+      "name": "nrg - Akti Beach Club",
+      "type": "charging_station",
+      "lat": 36.811458,
+      "lon": 27.170958,
+      "operator": "Akti Beach Club",
+      "address": {
+        "postcode": "85302"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12982510990",
+      "name": "nrg - Holiday Village",
+      "type": "charging_station",
+      "lat": 36.871715,
+      "lon": 27.139294,
+      "operator": "ATLANTICA HOLIDAY VILLAGE KOS",
+      "address": {
+        "postcode": "85300"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12982510991",
+      "name": "nrg - Marmari Beach Hotel",
+      "type": "charging_station",
+      "lat": 36.878661,
+      "lon": 27.146341,
+      "operator": "Marmari Beach Hotel",
+      "address": {
+        "postcode": "85300"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13068595094",
+      "name": "DEI blue - Sandy Beach Hotel",
+      "type": "charging_station",
+      "lat": 36.877026,
+      "lon": 27.142202,
+      "operator": "Sandy Beach Hotel",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12982510992",
+      "name": "nrg - Casa Paradiso",
+      "type": "charging_station",
+      "lat": 36.869422,
+      "lon": 27.136485,
+      "operator": "Grecotel Casa Paradiso",
+      "address": {
+        "postcode": "85300"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12983913931",
+      "name": "nrg - Shell 418",
+      "type": "charging_station",
+      "lat": 36.885583,
+      "lon": 27.251032,
+      "operator": "Shell 418",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 20.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12983913932",
+      "name": "DΕΙ blue - ELIN",
+      "type": "charging_station",
+      "lat": 36.884338,
+      "lon": 27.244141,
+      "operator": "ELIN Taxi Transfer",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12983913933",
+      "name": "DΕΙ blue - Σκλαβενίτης",
+      "type": "charging_station",
+      "lat": 36.883039,
+      "lon": 27.242369,
+      "operator": "Σκλαβενίτης",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως",
+        "country": "GR"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12983920746",
+      "name": "Blink - More Meni Residence",
+      "type": "charging_station",
+      "lat": 36.887512,
+      "lon": 27.184073,
+      "operator": "More Meni Residence",
+      "address": {
+        "postcode": "85300"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Blink",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12983920747",
+      "name": "Chargespot - Artemis Spa",
+      "type": "charging_station",
+      "lat": 36.888923,
+      "lon": 27.182521,
+      "operator": "Artemis - Gozen Karadinc OE",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12983920750",
+      "name": "DEI blue - Gaia Village Hotel",
+      "type": "charging_station",
+      "lat": 36.887598,
+      "lon": 27.182335,
+      "operator": "Gaia Village Hotel",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12983920752",
+      "name": "DEI blue - Sunshine Hotel",
+      "type": "charging_station",
+      "lat": 36.884797,
+      "lon": 27.183873,
+      "operator": "Sunshine Hotel",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12983945738",
+      "name": "nrg - Atlantica Thalassa Hotel",
+      "type": "charging_station",
+      "lat": 36.902677,
+      "lon": 27.259752,
+      "operator": "Atlantica Thalassa Hotel",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12983975527",
+      "name": "DΕΙ blue - Cosmopolitan Hotel",
+      "type": "charging_station",
+      "lat": 36.912622,
+      "lon": 27.277952,
+      "operator": "Cosmopolitan Hotel",
+      "address": {
+        "street": "Εθελοντών Παλαιών Πολεμιστών",
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12983975528",
+      "name": "DΕΙ blue - Lampi Resort",
+      "type": "charging_station",
+      "lat": 36.909371,
+      "lon": 27.271878,
+      "operator": "Lampi Resort",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12984078029",
+      "name": "DΕΙ blue - Artemis Hotel",
+      "type": "charging_station",
+      "lat": 36.904653,
+      "lon": 27.281669,
+      "operator": "Artemis Hotel",
+      "address": {
+        "street": "Εθελοντών Παλαιών Πολεμιστών",
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13068587098",
+      "name": "DEI blue - Theros All Suite Hotel",
+      "type": "charging_station",
+      "lat": 36.907388,
+      "lon": 27.282389,
+      "operator": "Theros All Suite Hotel",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13068587099",
+      "name": "DEI blue - Agean Houses",
+      "type": "charging_station",
+      "lat": 36.907435,
+      "lon": 27.280168,
+      "operator": "Agean Houses Hotel",
+      "address": {
+        "street": "Εθελοντών Παλαιών Πολεμιστών",
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12984192040",
+      "name": "DEI blue - Spirou Bath & Tile",
+      "type": "charging_station",
+      "lat": 36.88974,
+      "lon": 27.275338,
+      "operator": "Spirou Bath & Tile",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12984192041",
+      "name": "DEI blue - ΑΒ Βασιλόπουλος",
+      "type": "charging_station",
+      "lat": 36.892399,
+      "lon": 27.272409,
+      "operator": "ΑΒ Βασιλόπουλος",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12984195122",
+      "name": "EKO Charge&Go - EKO",
+      "type": "charging_station",
+      "lat": 36.895842,
+      "lon": 27.280477,
+      "operator": "EKO Καλυψώ 269",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EKO Charge&Go",
+        "network": "",
+        "opening_hours": "Mo-Su 06:00-22:00"
+      },
+      "amenities": {
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13050945738",
+      "name": "nrg - Lampros Steakhouse",
+      "type": "charging_station",
+      "lat": 36.89634,
+      "lon": 27.283339,
+      "operator": "Lampros Steakhouse",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12984270780",
+      "name": "DEI blue - Μαρίνα",
+      "type": "charging_station",
+      "lat": 36.891241,
+      "lon": 27.301632,
+      "operator": "Μονομετοχική Ανώνυμη Εταιρία Εκμετάλλευσης Τουριστικού Λιμένα Κω",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12984334153",
+      "name": "nrg - Kos Imperial Thalasso",
+      "type": "charging_station",
+      "lat": 36.87691,
+      "lon": 27.3463,
+      "operator": "Grecotel Kos Imperial Thalasso",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12988458564",
+      "name": "Joltie - Έριστος",
+      "type": "charging_station",
+      "lat": 36.433499,
+      "lon": 27.349496,
+      "operator": "Δήμος Τήλου",
+      "address": {
+        "postcode": "85002",
+        "city": "Τήλος"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12988461081",
+      "name": "Joltie - Άγιος Αντώνιος",
+      "type": "charging_station",
+      "lat": 36.458169,
+      "lon": 27.33268,
+      "operator": "Δήμος Τήλου",
+      "address": {
+        "postcode": "85002",
+        "city": "Τήλος"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12988461082",
+      "name": "Joltie - Αρχαιολογικό Μουσείο",
+      "type": "charging_station",
+      "lat": 36.453321,
+      "lon": 27.347448,
+      "operator": "Δήμος Τήλου",
+      "address": {
+        "postcode": "85002",
+        "city": "Τήλος"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12988461083",
+      "name": "Joltie - Δημαρχείο",
+      "type": "charging_station",
+      "lat": 36.454247,
+      "lon": 27.345525,
+      "operator": "Δήμος Τήλου",
+      "address": {
+        "postcode": "85002",
+        "city": "Τήλος"
+      },
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Joltie",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Rfid Card"
+        ],
+        "authentication": "app",
+        "fee": false,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12988507784",
+      "name": "DEI blue - Παλαιό Καρνάγιο",
+      "type": "charging_station",
+      "lat": 36.219734,
+      "lon": 27.615061,
+      "operator": "Δήμος Χάλκης",
+      "address": {
+        "postcode": "85110",
+        "city": "Χάλκη"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 3
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12988565786",
+      "name": "DΕΙ blue - Kourtis Super Market",
+      "type": "charging_station",
+      "lat": 36.059558,
+      "lon": 27.978476,
+      "operator": "Kourtis Super Market",
+      "address": {
+        "postcode": "85109",
+        "city": "Ρόδος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12988565787",
+      "name": "DΕΙ blue - Princess Andriana Resort",
+      "type": "charging_station",
+      "lat": 36.058341,
+      "lon": 27.976847,
+      "operator": "Princess Andriana Resort & Spa",
+      "address": {
+        "postcode": "85109",
+        "city": "Ρόδος"
+      },
+      "power": {
+        "max_kw": 60.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 60.0,
+            "count": 2
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12988578708",
+      "name": "Chargespot - Atlantica Dreams Resort",
+      "type": "charging_station",
+      "lat": 36.033999,
+      "lon": 27.936306,
+      "operator": "Atlantica Dreams Resort",
+      "address": {
+        "postcode": "85109",
+        "city": "Ρόδος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 6
+          }
+        ],
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12988592082",
+      "name": "DΕΙ blue - Mayia Exclusive Resort",
+      "type": "charging_station",
+      "lat": 36.062912,
+      "lon": 27.985965,
+      "operator": "Mayia Exclusive Resort & Spa",
+      "address": {
+        "postcode": "85109",
+        "city": "Ρόδος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12988592083",
+      "name": "nrg - Lindian Village",
+      "type": "charging_station",
+      "lat": 36.066831,
+      "lon": 27.991456,
+      "operator": "Lindian Village",
+      "address": {
+        "postcode": "85109",
+        "city": "Ρόδος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 3
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13204553219",
+      "name": "EKO Charge&Go - Kiotari Bay",
+      "type": "charging_station",
+      "lat": 36.06312,
+      "lon": 27.987089,
+      "operator": "Kiotari Bay",
+      "address": {
+        "postcode": "85109",
+        "city": "Ρόδος"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EKO Charge&Go",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13363202568",
+      "name": "EV Loader - Cleopatra Hotel",
+      "type": "charging_station",
+      "lat": 36.786634,
+      "lon": 27.146171,
+      "operator": "Cleopatra Hotel",
+      "address": {
+        "street": "Αθηνάς",
+        "postcode": "85302",
+        "city": "Καρδάμαινα"
+      },
+      "power": {
+        "max_kw": 7.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 7.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "EV Loader",
+        "network": "EV Loader",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13519967465",
+      "name": "nrg - Koia Resort",
+      "type": "charging_station",
+      "lat": 36.864891,
+      "lon": 27.350711,
+      "operator": "Koia Resort",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13531423458",
+      "name": "DΕΙ blue - Φάρμα Κως",
+      "type": "charging_station",
+      "lat": 36.878075,
+      "lon": 27.222881,
+      "operator": "Φάρμα Κως",
+      "address": {
+        "street": "Κως - Κέφαλος",
+        "postcode": "85300",
+        "city": "Ζηπάρι"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13531423460",
+      "name": "DΕΙ blue - Κωακός Ελαιώνας",
+      "type": "charging_station",
+      "lat": 36.876932,
+      "lon": 27.219847,
+      "operator": "Κωακός Ελαιώνας",
+      "address": {
+        "street": "Κως - Κέφαλος",
+        "postcode": "85300",
+        "city": "Ζηπάρι"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13583327363",
+      "name": "DEI blue - Helios Activity Holidays",
+      "type": "charging_station",
+      "lat": 36.81566,
+      "lon": 27.099154,
+      "operator": "Helios Activity Holidays",
+      "address": {
+        "postcode": "85302",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13655016651",
+      "name": "DEI blue - Caravia Beach Hotel",
+      "type": "charging_station",
+      "lat": 36.88063,
+      "lon": 27.155015,
+      "operator": "Caravia Beach Hotel",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13702978777",
+      "name": "nrg - Oceanis Beach & Spa Resort",
+      "type": "charging_station",
+      "lat": 36.87367,
+      "lon": 27.350212,
+      "operator": "Oceanis Beach & Spa Resort",
+      "address": {
+        "postcode": "85300",
+        "city": "Κως"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

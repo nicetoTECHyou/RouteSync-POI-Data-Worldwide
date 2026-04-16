@@ -1,0 +1,55 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": -80,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": -80,
+      "east": -79
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-39514",
+      "name": "Hotel Floyd",
+      "type": "charging_station",
+      "lat": 36.910575,
+      "lon": -80.31736,
+      "operator": "P",
+      "address": {
+        "street": "120 Wilson St",
+        "city": "Floyd",
+        "state": "VA",
+        "postcode": "24091",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "8am-10pm daily; guest use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "8am-10pm daily; guest use only",
+        "pricing": "Free for guests; $10 for non-guests"
+      }
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 33,
+    "lon": -118,
+    "bounds": {
+      "south": 33,
+      "north": 34,
+      "west": -118,
+      "east": -117
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 12,
+  "pois": [
+    {
+      "id": "nrel-1531",
+      "name": "LADWP - Haynes Power Plant",
+      "type": "charging_station",
+      "lat": 33.759802,
+      "lon": -118.096665,
+      "operator": "LG",
+      "address": {
+        "street": "6801 E 2nd St",
+        "city": "Long Beach",
+        "state": "CA",
+        "postcode": "90803",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 31
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-1552",
+      "name": "LADWP - Harbor Generating Station",
+      "type": "charging_station",
+      "lat": 33.770508,
+      "lon": -118.265628,
+      "operator": "LG",
+      "address": {
+        "street": "161 N Island Ave",
+        "city": "Wilmington",
+        "state": "CA",
+        "postcode": "90744",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 12
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-7172",
+      "name": "Hyatt Regency Long Beach",
+      "type": "charging_station",
+      "lat": 33.7637,
+      "lon": -118.192,
+      "operator": "P",
+      "address": {
+        "street": "200 S Pine Ave",
+        "city": "Long Beach",
+        "state": "CA",
+        "postcode": "90802",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot; guest use only; see valet for access",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot; guest use only; see valet for access",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-7184",
+      "name": "Los Angeles International Airport (LAX) - Lot 6",
+      "type": "charging_station",
+      "lat": 33.94325,
+      "lon": -118.403342,
+      "operator": "LG",
+      "address": {
+        "street": "1 World Way",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90045",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 20
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "$2 service fee + $0.45 per kWh"
+      }
+    },
+    {
+      "id": "nrel-28007",
+      "name": "Los Angeles International Airport (LAX) - Lot 1",
+      "type": "charging_station",
+      "lat": 33.944761,
+      "lon": -118.399767,
+      "operator": "LG",
+      "address": {
+        "street": "1 World Way",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90045",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 20
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "$2 service fee + $0.45 per kWh"
+      }
+    },
+    {
+      "id": "nrel-7250",
+      "name": "Office Max - Home Depot",
+      "type": "charging_station",
+      "lat": 33.94756,
+      "lon": -118.153806,
+      "operator": "T",
+      "address": {
+        "street": "7075 Firestone Blvd",
+        "city": "Downey",
+        "state": "CA",
+        "postcode": "90241",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-21402",
+      "name": "Los Angeles Harbor Department Headquarters",
+      "type": "charging_station",
+      "lat": 33.740758,
+      "lon": -118.28192,
+      "operator": "P",
+      "address": {
+        "street": "425 S Palos Verdes St",
+        "city": "San Pedro",
+        "state": "CA",
+        "postcode": "90731",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "8am-5pm daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "8am-5pm daily",
+        "pricing": "Free; pay for parking"
+      }
+    },
+    {
+      "id": "nrel-21609",
+      "name": "LADWP - Scattergood Generating Facility",
+      "type": "charging_station",
+      "lat": 33.917593,
+      "lon": -118.425334,
+      "operator": "LG",
+      "address": {
+        "street": "12700 Vista del Mar",
+        "city": "Playa del Rey",
+        "state": "CA",
+        "postcode": "90293",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 20
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-21618",
+      "name": "LA County DPW Imperial",
+      "type": "charging_station",
+      "lat": 33.930663,
+      "lon": -118.175758,
+      "operator": "POWERFLEX",
+      "address": {
+        "street": "5525 E Imperial Hwy",
+        "city": "South Gate",
+        "state": "CA",
+        "postcode": "90280",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": "https://www.powerflex.com",
+        "opening_hours": "",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "pricing": "$0.45 per kWh from 4pm-9pm; $0.30 per kWh all other times",
+        "payment_methods": [
+          "Proprietor"
+        ]
+      }
+    },
+    {
+      "id": "nrel-25171",
+      "name": "LADWP - Wilmington District Yard",
+      "type": "charging_station",
+      "lat": 33.773005,
+      "lon": -118.265821,
+      "operator": "LG",
+      "address": {
+        "street": "315 N Island Ave",
+        "city": "Wilmington",
+        "state": "CA",
+        "postcode": "90744",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 18
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-33180",
+      "name": "LADWP - Receiving Station C",
+      "type": "charging_station",
+      "lat": 33.799476,
+      "lon": -118.257977,
+      "operator": "LG",
+      "address": {
+        "street": "900 E Lomita Blvd",
+        "city": "Wilmington",
+        "state": "CA",
+        "postcode": "90744",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-33564",
+      "name": "Lakewood Center Mall",
+      "type": "charging_station",
+      "lat": 33.84788,
+      "lon": -118.13889,
+      "operator": "P",
+      "address": {
+        "street": "4500 Silva St",
+        "city": "Lakewood",
+        "state": "CA",
+        "postcode": "90712",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "5am-10pm daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "5am-10pm daily",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

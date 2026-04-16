@@ -1,0 +1,115 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 40,
+    "lon": -1,
+    "bounds": {
+      "south": 40,
+      "north": 41,
+      "west": -1,
+      "east": 0
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 4,
+  "pois": [
+    {
+      "id": "osm-7887862631",
+      "name": "CARGACOCHES - El Azafrán",
+      "type": "charging_station",
+      "lat": 40.837504,
+      "lon": -1.308252,
+      "operator": "Cargacoches",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11893693969",
+      "name": "Ladestation Feníe Energía",
+      "type": "charging_station",
+      "lat": 40.341002,
+      "lon": -1.109253,
+      "operator": "Feníe Energía",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13681641432",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 40.337891,
+      "lon": -1.100738,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12103189761",
+      "name": "Ladestation Repsol",
+      "type": "charging_station",
+      "lat": 40.912317,
+      "lon": -1.29904,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

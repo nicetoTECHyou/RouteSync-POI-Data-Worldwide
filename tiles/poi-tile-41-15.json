@@ -1,0 +1,854 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 41,
+    "lon": 15,
+    "bounds": {
+      "south": 41,
+      "north": 42,
+      "west": 15,
+      "east": 16
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 32,
+  "pois": [
+    {
+      "id": "osm-1446463811",
+      "name": "Stazione di ricarica bici elettriche",
+      "type": "charging_station",
+      "lat": 41.455882,
+      "lon": 15.954929,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13075743267",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 41.455192,
+      "lon": 15.956001,
+      "operator": "Enel X",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 90.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 90.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel X",
+        "network": "Enel X Way",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-4890217219",
+      "name": "Cerignola Supercharger",
+      "type": "charging_station",
+      "lat": 41.306351,
+      "lon": 15.899622,
+      "operator": "Tesla",
+      "address": {
+        "street": "Via Manfredonia",
+        "postcode": "71042",
+        "city": "Cerignola",
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 8
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6163484796",
+      "name": "Ladestation Enel",
+      "type": "charging_station",
+      "lat": 41.263461,
+      "lon": 15.902923,
+      "operator": "Enel",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6347587841",
+      "name": "Ladestation Enel",
+      "type": "charging_station",
+      "lat": 41.262021,
+      "lon": 15.904575,
+      "operator": "Enel",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6347587848",
+      "name": "Ladestation Enel",
+      "type": "charging_station",
+      "lat": 41.263153,
+      "lon": 15.898418,
+      "operator": "Enel",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6347587842",
+      "name": "Ladestation Enel",
+      "type": "charging_station",
+      "lat": 41.258835,
+      "lon": 15.911367,
+      "operator": "Enel",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6347587843",
+      "name": "Ladestation Enel",
+      "type": "charging_station",
+      "lat": 41.256025,
+      "lon": 15.911062,
+      "operator": "Enel",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6347587844",
+      "name": "Ladestation Enel",
+      "type": "charging_station",
+      "lat": 41.263328,
+      "lon": 15.882505,
+      "operator": "Enel",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6347587845",
+      "name": "Ladestation Enel",
+      "type": "charging_station",
+      "lat": 41.264951,
+      "lon": 15.91413,
+      "operator": "Enel",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6347587847",
+      "name": "Ladestation Enel",
+      "type": "charging_station",
+      "lat": 41.268011,
+      "lon": 15.909952,
+      "operator": "Enel",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6606142848",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.153784,
+      "lon": 15.379159,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6606142849",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.152262,
+      "lon": 15.381346,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8381749718",
+      "name": "Colonnina ricarica",
+      "type": "charging_station",
+      "lat": 41.063987,
+      "lon": 15.251893,
+      "operator": "Free charge EU domestic plug",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-8785276599",
+      "name": "Enel",
+      "type": "charging_station",
+      "lat": 41.29443,
+      "lon": 15.15752,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Enel",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9684614160",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 41.707264,
+      "lon": 15.724747,
+      "operator": "Enel X",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Enel X",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-10692607062",
+      "name": "Free To X",
+      "type": "charging_station",
+      "lat": 41.909716,
+      "lon": 15.168881,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Free to X",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11136692698",
+      "name": "Free To X Torre Fantine Est",
+      "type": "charging_station",
+      "lat": 41.908915,
+      "lon": 15.168567,
+      "operator": "Free To X",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Free To X",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10794812095",
+      "name": "Free to X - Free to X",
+      "type": "charging_station",
+      "lat": 41.06469,
+      "lon": 15.314206,
+      "operator": "Free to X",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Free to X",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11155497997",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 41.102674,
+      "lon": 15.053977,
+      "operator": "Enel X",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel X",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11244874523",
+      "name": "Free To X - Free To X",
+      "type": "charging_station",
+      "lat": 41.060222,
+      "lon": 15.013463,
+      "operator": "Free To X",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Free To X",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11358748024",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.699221,
+      "lon": 15.720133,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "none",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-11364288510",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 41.690955,
+      "lon": 15.395938,
+      "operator": "Enel X",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Enel X",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11364294084",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 41.690653,
+      "lon": 15.392745,
+      "operator": "Enel X",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Enel X",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11439982974",
+      "name": "Free To X - Free To X",
+      "type": "charging_station",
+      "lat": 41.5909,
+      "lon": 15.500388,
+      "operator": "Free To X",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Free To X",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11738165580",
+      "name": "Free To X - Free To X",
+      "type": "charging_station",
+      "lat": 41.591338,
+      "lon": 15.501642,
+      "operator": "Free To X",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Free To X",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12643114109",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 41.449553,
+      "lon": 15.536591,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "IT"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13081549637",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 41.448724,
+      "lon": 15.544219,
+      "operator": "Enel X",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel X",
+        "network": "Enel X Way",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13081379537",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 41.645562,
+      "lon": 15.938462,
+      "operator": "Enel X",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 1
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel X",
+        "network": "Enel X Way",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13084188821",
+      "name": "Enel X",
+      "type": "charging_station",
+      "lat": 41.454066,
+      "lon": 15.554373,
+      "operator": "Enel X",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 90.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 90.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Enel X",
+        "network": "Enel X Way",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-13582770701",
+      "name": "Enel X Stazione di Ricaria",
+      "type": "charging_station",
+      "lat": 41.144966,
+      "lon": 15.526911,
+      "operator": "Enel X",
+      "address": {
+        "street": "Strada Provinciale 98 del Casone",
+        "postcode": "71024"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-13723798660",
+      "name": "Ladestation Plenitude",
+      "type": "charging_station",
+      "lat": 41.051854,
+      "lon": 15.793598,
+      "operator": "Plenitude",
+      "address": {
+        "country": "IT"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

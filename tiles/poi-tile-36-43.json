@@ -1,0 +1,83 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": 43,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": 43,
+      "east": 44
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-4766453744",
+      "name": "Ladestation معمل اوكسجين الحدباء",
+      "type": "charging_station",
+      "lat": 36.340449,
+      "lon": 43.203106,
+      "operator": "معمل اوكسجين الحدباء",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12560903315",
+      "name": "Auto Parcha - Autel",
+      "type": "charging_station",
+      "lat": 36.179819,
+      "lon": 43.97856,
+      "operator": "Auto Parcha",
+      "address": {},
+      "power": {
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Autel",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "Cash"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12560903337",
+      "name": "KurdNeft - K Volt",
+      "type": "charging_station",
+      "lat": 36.220827,
+      "lon": 43.990826,
+      "operator": "KurdNeft",
+      "address": {},
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "K Volt",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 38,
+    "lon": -122,
+    "bounds": {
+      "south": 38,
+      "north": 39,
+      "west": -122,
+      "east": -121
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 4,
+  "pois": [
+    {
+      "id": "nrel-25516",
+      "name": "Office of Housing & Redevelopment",
+      "type": "charging_station",
+      "lat": 38.356907,
+      "lon": -122.001886,
+      "operator": "LG",
+      "address": {
+        "street": "40 Eldridge Ave",
+        "city": "Vacaville",
+        "state": "CA",
+        "postcode": "95688",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-27328",
+      "name": "Fairfield City Hall",
+      "type": "charging_station",
+      "lat": 38.25281,
+      "lon": -122.044229,
+      "operator": "LG",
+      "address": {
+        "street": "1000 Webster St",
+        "city": "Fairfield",
+        "state": "CA",
+        "postcode": "94533",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; 2 hour limit",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; 2 hour limit",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-27329",
+      "name": "Solano Community College",
+      "type": "charging_station",
+      "lat": 38.23723,
+      "lon": -122.123,
+      "operator": "LG",
+      "address": {
+        "street": "4000 Suisun Valley Rd",
+        "city": "Fairfield",
+        "state": "CA",
+        "postcode": "94534",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-27335",
+      "name": "Vallejo Ferry Terminal",
+      "type": "charging_station",
+      "lat": 38.105062,
+      "lon": -122.265895,
+      "operator": "LG",
+      "address": {
+        "street": "495 Mare Island Way",
+        "city": "Vallejo",
+        "state": "CA",
+        "postcode": "94590",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

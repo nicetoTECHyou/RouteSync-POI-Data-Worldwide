@@ -1,0 +1,66 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 37,
+    "lon": 42,
+    "bounds": {
+      "south": 37,
+      "north": 38,
+      "west": 42,
+      "east": 43
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-8910552460",
+      "name": "ZES - TP Haydaroğulları Petrol",
+      "type": "charging_station",
+      "lat": 37.33084,
+      "lon": 42.205628,
+      "operator": "ZES",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11402962569",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.156644,
+      "lon": 42.710478,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

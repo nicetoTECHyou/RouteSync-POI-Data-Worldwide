@@ -1,0 +1,321 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 29,
+    "lon": -95,
+    "bounds": {
+      "south": 29,
+      "north": 30,
+      "west": -95,
+      "east": -94
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 7,
+  "pois": [
+    {
+      "id": "nrel-36378",
+      "name": "BROOKFIELD PROP 300 CLAY STAT1",
+      "type": "charging_station",
+      "lat": 29.756604,
+      "lon": -95.372854,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "300 Clay St Allen Ctr Garage",
+        "city": "Houston",
+        "state": "TX",
+        "postcode": "77002",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    },
+    {
+      "id": "nrel-39726",
+      "name": "Baker Nissan North",
+      "type": "charging_station",
+      "lat": 29.913542,
+      "lon": -95.612404,
+      "operator": "P",
+      "address": {
+        "street": "19630 Northwest Fwy",
+        "city": "Houston",
+        "state": "TX",
+        "postcode": "77065",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours"
+      }
+    },
+    {
+      "id": "nrel-39727",
+      "name": "Central Houston Nissan",
+      "type": "charging_station",
+      "lat": 29.67646,
+      "lon": -95.42258,
+      "operator": "P",
+      "address": {
+        "street": "2901 S Loop W",
+        "city": "Houston",
+        "state": "TX",
+        "postcode": "77054",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-39728",
+      "name": "McDavid Nissan",
+      "type": "charging_station",
+      "lat": 29.625565,
+      "lon": -95.22531,
+      "operator": "P",
+      "address": {
+        "street": "11911 Gulf Fwy",
+        "city": "Houston",
+        "state": "TX",
+        "postcode": "77034",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-39729",
+      "name": "Mossy Nissan",
+      "type": "charging_station",
+      "lat": 29.78628,
+      "lon": -95.6005,
+      "operator": "P",
+      "address": {
+        "street": "12150 Katy Fwy",
+        "city": "Houston",
+        "state": "TX",
+        "postcode": "77079",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-39733",
+      "name": "Katy Nissan",
+      "type": "charging_station",
+      "lat": 29.775401,
+      "lon": -95.817065,
+      "operator": "P",
+      "address": {
+        "street": "25550 Kingsland Blvd",
+        "city": "Katy",
+        "state": "TX",
+        "postcode": "77494",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-39756",
+      "name": "Sterling McCall Nissan",
+      "type": "charging_station",
+      "lat": 29.64607,
+      "lon": -95.57668,
+      "operator": "P",
+      "address": {
+        "street": "12230 Southwest Fwy",
+        "city": "Stafford",
+        "state": "TX",
+        "postcode": "77477",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 39,
+    "lon": 25,
+    "bounds": {
+      "south": 39,
+      "north": 40,
+      "west": 25,
+      "east": 26
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 7,
+  "pois": [
+    {
+      "id": "osm-10630700240",
+      "name": "DEI blue - ΑΒ Βασιλόπουλος",
+      "type": "charging_station",
+      "lat": 39.881087,
+      "lon": 25.066983,
+      "operator": "ΑΒ Βασιλόπουλος",
+      "address": {
+        "postcode": "81400",
+        "city": "Μύρινα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11002339919",
+      "name": "Chargespot - Συνεργείο Μπλιάς",
+      "type": "charging_station",
+      "lat": 39.912516,
+      "lon": 25.201857,
+      "operator": "Συνεργείο Μπλιάς",
+      "address": {
+        "postcode": "81400",
+        "city": "Μύρινα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Chargespot",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12824089183",
+      "name": "DΕΙ blue - Ξενοδοχείο Εβγάτης",
+      "type": "charging_station",
+      "lat": 39.852657,
+      "lon": 25.121269,
+      "operator": "Ξενοδοχείο Εβγάτης",
+      "address": {
+        "postcode": "81400",
+        "city": "Μύρινα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12824096293",
+      "name": "DΕΙ blue - Victoria Apartments",
+      "type": "charging_station",
+      "lat": 39.857954,
+      "lon": 25.065758,
+      "operator": "Victoria Apartments",
+      "address": {
+        "postcode": "81400",
+        "city": "Μύρινα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12824106756",
+      "name": "nrg - Jumbo",
+      "type": "charging_station",
+      "lat": 39.888894,
+      "lon": 25.077917,
+      "operator": "Jumbo Λήμνου",
+      "address": {
+        "postcode": "81400",
+        "city": "Μύρινα"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-12955579934",
+      "name": "nrg - Aeolian Village",
+      "type": "charging_station",
+      "lat": 39.140931,
+      "lon": 25.922031,
+      "operator": "Aeolian Village",
+      "address": {
+        "postcode": "81105",
+        "city": "Ερεσός"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "nrg incharge",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Website"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-13042488388",
+      "name": "DΕΙ blue - Varos Village Hotel",
+      "type": "charging_station",
+      "lat": 39.931475,
+      "lon": 25.264289,
+      "operator": "Varos Village Hotel",
+      "address": {
+        "postcode": "81401",
+        "city": "Λήμνος"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "DEI Blue",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

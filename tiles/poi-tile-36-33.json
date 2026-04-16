@@ -1,0 +1,68 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": 33,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": 33,
+      "east": 34
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "osm-7077989441",
+      "name": "SHARZ Kayıkçıoğlu 2",
+      "type": "charging_station",
+      "lat": 36.371785,
+      "lon": 33.917855,
+      "operator": "SHARZ",
+      "address": {
+        "street": "Mukaddem Mahallesi, 303. Sk, 33940",
+        "city": "SİLİFKE"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-11649715569",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 36.15341,
+      "lon": 33.573042,
+      "operator": "Unbekannt",
+      "address": {},
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

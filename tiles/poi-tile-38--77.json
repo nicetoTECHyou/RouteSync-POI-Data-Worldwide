@@ -1,0 +1,108 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 38,
+    "lon": -77,
+    "bounds": {
+      "south": 38,
+      "north": 39,
+      "west": -77,
+      "east": -76
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 2,
+  "pois": [
+    {
+      "id": "nrel-39763",
+      "name": "Passport Nissan - Alexandria",
+      "type": "charging_station",
+      "lat": 38.80967,
+      "lon": -77.12219,
+      "operator": "P",
+      "address": {
+        "street": "150 S Pickett St",
+        "city": "Alexandria",
+        "state": "VA",
+        "postcode": "22304",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-39764",
+      "name": "Priority Nissan - Chantilly",
+      "type": "charging_station",
+      "lat": 38.899803,
+      "lon": -77.460327,
+      "operator": "P",
+      "address": {
+        "street": "14840 Stonecroft Center Ct",
+        "city": "Chantilly",
+        "state": "VA",
+        "postcode": "20151",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

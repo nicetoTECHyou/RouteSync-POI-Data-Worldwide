@@ -1,0 +1,55 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 32,
+    "lon": -117,
+    "bounds": {
+      "south": 32,
+      "north": 33,
+      "west": -117,
+      "east": -116
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-6355",
+      "name": "Scripps Green Hospital",
+      "type": "charging_station",
+      "lat": 32.89947,
+      "lon": -117.243,
+      "operator": "P",
+      "address": {
+        "street": "10666 N Torrey Pines Rd",
+        "city": "La Jolla",
+        "state": "CA",
+        "postcode": "92037",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free; parking fee"
+      }
+    }
+  ]
+}

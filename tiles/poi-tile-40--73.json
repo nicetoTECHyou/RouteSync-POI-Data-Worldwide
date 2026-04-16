@@ -1,0 +1,54 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 40,
+    "lon": -73,
+    "bounds": {
+      "south": 40,
+      "north": 41,
+      "west": -73,
+      "east": -72
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-35272",
+      "name": "New York Institute of Technology - Old Westbury Solar Carport Station",
+      "type": "charging_station",
+      "lat": 40.814019,
+      "lon": -73.608978,
+      "operator": "P",
+      "address": {
+        "street": "Valentines Ln & Northern Blvd",
+        "city": "Old Westbury",
+        "state": "NY",
+        "postcode": "11568",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 1.9,
+        "sockets": [
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "Drivers must bring their own J1772 cordset for Level 1 charging"
+      }
+    }
+  ]
+}

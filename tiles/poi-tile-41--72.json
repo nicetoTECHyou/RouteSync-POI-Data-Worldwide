@@ -1,0 +1,220 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 41,
+    "lon": -72,
+    "bounds": {
+      "south": 41,
+      "north": 42,
+      "west": -72,
+      "east": -71
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 5,
+  "pois": [
+    {
+      "id": "nrel-36924",
+      "name": "Propark America - Omni Hotel Chapel Square Garage",
+      "type": "charging_station",
+      "lat": 41.305794,
+      "lon": -72.927405,
+      "operator": "P",
+      "address": {
+        "street": "155 Temple St",
+        "city": "New Haven",
+        "state": "CT",
+        "postcode": "06510",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-36928",
+      "name": "New London Parking Authority - Water Street Public Parking Garage",
+      "type": "charging_station",
+      "lat": 41.355486,
+      "lon": -72.093784,
+      "operator": "LG",
+      "address": {
+        "street": "160 Water St",
+        "city": "New London",
+        "state": "CT",
+        "postcode": "06320",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "During garage hours; drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "amenities": {
+        "opening_hours": "During garage hours; drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free; parking fee",
+        "payment_methods": [
+          "A ANDROID_PAY APPLE_PAY CREDIT D Debit M V"
+        ]
+      }
+    },
+    {
+      "id": "nrel-36932",
+      "name": "The Parking Spot - Bradley International Airport",
+      "type": "charging_station",
+      "lat": 41.951328,
+      "lon": -72.663078,
+      "operator": "P",
+      "address": {
+        "street": "1186 South St",
+        "city": "Suffield",
+        "state": "CT",
+        "postcode": "06078",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot; see attendant for access; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-15",
+            "kw": 1.4,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot; see attendant for access; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free with valet"
+      }
+    },
+    {
+      "id": "nrel-37681",
+      "name": "The Hartford Financial Services Group",
+      "type": "charging_station",
+      "lat": 41.879631,
+      "lon": -72.729919,
+      "operator": "P",
+      "address": {
+        "street": "1 Griffin Rd N",
+        "city": "Windsor",
+        "state": "CT",
+        "postcode": "06095",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Employee and visitor use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "amenities": {
+        "opening_hours": "Employee and visitor use only"
+      }
+    },
+    {
+      "id": "nrel-38096",
+      "name": "Eversource",
+      "type": "charging_station",
+      "lat": 41.765253,
+      "lon": -72.671569,
+      "operator": "P",
+      "address": {
+        "street": "56 Prospect St",
+        "city": "Hartford",
+        "state": "CT",
+        "postcode": "06106",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      }
+    }
+  ]
+}

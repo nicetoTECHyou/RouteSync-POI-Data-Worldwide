@@ -1,0 +1,54 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 42,
+    "lon": -87,
+    "bounds": {
+      "south": 42,
+      "north": 43,
+      "west": -87,
+      "east": -86
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "nrel-36949",
+      "name": "GTC HORIZON MAINLOT",
+      "type": "charging_station",
+      "lat": 42.592469,
+      "lon": -87.915847,
+      "operator": "ChargePoint Network",
+      "address": {
+        "street": "4940 88th Avenue",
+        "city": "Kenosha",
+        "state": "WI",
+        "postcode": "53144",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.chargepoint.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily"
+      }
+    }
+  ]
+}

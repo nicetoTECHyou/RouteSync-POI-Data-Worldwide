@@ -1,0 +1,1194 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 34,
+    "lon": -118,
+    "bounds": {
+      "south": 34,
+      "north": 35,
+      "west": -118,
+      "east": -117
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 29,
+  "pois": [
+    {
+      "id": "nrel-1517",
+      "name": "LADWP - Truesdale Center",
+      "type": "charging_station",
+      "lat": 34.248319,
+      "lon": -118.387971,
+      "operator": "SHELL_RECHARGE",
+      "address": {
+        "street": "11797 Truesdale St",
+        "city": "Sun Valley",
+        "state": "CA",
+        "postcode": "91352",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": "https://www.shell.us/motorist/electric-vehicle-charging.html",
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 59
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-1523",
+      "name": "Los Angeles Convention Center",
+      "type": "charging_station",
+      "lat": 34.040539,
+      "lon": -118.271387,
+      "operator": "P",
+      "address": {
+        "street": "1201 S Figueroa St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90015",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "5:30am-9pm; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 8
+      },
+      "amenities": {
+        "opening_hours": "5:30am-9pm; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-1525",
+      "name": "LADWP - John Ferraro Building",
+      "type": "charging_station",
+      "lat": 34.059133,
+      "lon": -118.248589,
+      "operator": "LG",
+      "address": {
+        "street": "111 N Hope St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90012",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet and employee use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 394
+      },
+      "amenities": {
+        "opening_hours": "For fleet and employee use only"
+      }
+    },
+    {
+      "id": "nrel-33177",
+      "name": "LADWP - Boylston",
+      "type": "charging_station",
+      "lat": 34.059047,
+      "lon": -118.256812,
+      "operator": "LG",
+      "address": {
+        "street": "1141 W 2nd St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90026",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For employee use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 19
+      },
+      "amenities": {
+        "opening_hours": "For employee use only"
+      }
+    },
+    {
+      "id": "nrel-1556",
+      "name": "LADWP - Sylmar West",
+      "type": "charging_station",
+      "lat": 34.30309,
+      "lon": -118.480505,
+      "operator": "LG",
+      "address": {
+        "street": "13201 Sepulveda Blvd",
+        "city": "Sylmar",
+        "state": "CA",
+        "postcode": "91342",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 9
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-1572",
+      "name": "LADWP - EV Service Center",
+      "type": "charging_station",
+      "lat": 34.066801,
+      "lon": -118.227605,
+      "operator": "LG",
+      "address": {
+        "street": "1630 N Main St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90012",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet and employee use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 44
+      },
+      "amenities": {
+        "opening_hours": "For fleet and employee use only"
+      }
+    },
+    {
+      "id": "nrel-1573",
+      "name": "LADWP - Fairfax Center",
+      "type": "charging_station",
+      "lat": 34.036777,
+      "lon": -118.368841,
+      "operator": "LG",
+      "address": {
+        "street": "2311 S Fairfax Ave",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90016",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 14
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-1589",
+      "name": "LADWP - Palmetto Center",
+      "type": "charging_station",
+      "lat": 34.039736,
+      "lon": -118.236065,
+      "operator": "LG",
+      "address": {
+        "street": "1212 Palmetto St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90013",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 36
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-6405",
+      "name": "Galpin Motors",
+      "type": "charging_station",
+      "lat": 34.221665,
+      "lon": -118.468371,
+      "operator": "P",
+      "address": {
+        "street": "15421 Roscoe Blvd",
+        "city": "Sepulveda",
+        "state": "CA",
+        "postcode": "91343",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours; customer use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours; customer use only",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-6505",
+      "name": "City of Pasadena - Holly Street Garage",
+      "type": "charging_station",
+      "lat": 34.14762,
+      "lon": -118.147111,
+      "operator": "LG",
+      "address": {
+        "street": "150 E Holly St",
+        "city": "Pasadena",
+        "state": "CA",
+        "postcode": "91103",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 26
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free",
+        "payment_methods": [
+          "CREDIT"
+        ]
+      }
+    },
+    {
+      "id": "nrel-6506",
+      "name": "City of Pasadena - De Lacey Garage",
+      "type": "charging_station",
+      "lat": 34.145138,
+      "lon": -118.152655,
+      "operator": "LG",
+      "address": {
+        "street": "45 De Lacey Ave",
+        "city": "Pasadena",
+        "state": "CA",
+        "postcode": "91105",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free",
+        "payment_methods": [
+          "CREDIT"
+        ]
+      }
+    },
+    {
+      "id": "nrel-6507",
+      "name": "City of Pasadena - Schoolhouse Garage",
+      "type": "charging_station",
+      "lat": 34.145119,
+      "lon": -118.150133,
+      "operator": "LG",
+      "address": {
+        "street": "33 E Green St",
+        "city": "Pasadena",
+        "state": "CA",
+        "postcode": "91105",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "$1 for the first two hours, $2 each additional hour",
+        "payment_methods": [
+          "CREDIT"
+        ]
+      }
+    },
+    {
+      "id": "nrel-6509",
+      "name": "Bristol Farms",
+      "type": "charging_station",
+      "lat": 34.118433,
+      "lon": -118.149597,
+      "operator": "P",
+      "address": {
+        "street": "606 Fair Oaks Ave",
+        "city": "South Pasadena",
+        "state": "CA",
+        "postcode": "91030",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "T"
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-7229",
+      "name": "City of Santa Monica - Airport",
+      "type": "charging_station",
+      "lat": 34.017081,
+      "lon": -118.44704,
+      "operator": "LG",
+      "address": {
+        "street": "3223 Donald Douglas Loop",
+        "city": "Santa Monica",
+        "state": "CA",
+        "postcode": "90405",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-7230",
+      "name": "City of Santa Monica - Pier",
+      "type": "charging_station",
+      "lat": 34.010021,
+      "lon": -118.49583,
+      "operator": "LG",
+      "address": {
+        "street": "200 Santa Monica Pier",
+        "city": "Santa Monica",
+        "state": "CA",
+        "postcode": "90405",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38521",
+      "name": "City of Santa Monica - Civic Parking Garage",
+      "type": "charging_station",
+      "lat": 34.010528,
+      "lon": -118.4898,
+      "operator": "LG",
+      "address": {
+        "street": "333 Civic Center Dr",
+        "city": "Santa Monica",
+        "state": "CA",
+        "postcode": "90401",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 14
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-7242",
+      "name": "Universal City Hilton",
+      "type": "charging_station",
+      "lat": 34.13722,
+      "lon": -118.35835,
+      "operator": "P",
+      "address": {
+        "street": "555 Universal Hollywood Dr",
+        "city": "Universal City",
+        "state": "CA",
+        "postcode": "91608",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot; see valet for access; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 11
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot; see valet for access; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-21395",
+      "name": "California State University - Northridge",
+      "type": "charging_station",
+      "lat": 34.248959,
+      "lon": -118.523887,
+      "operator": "P",
+      "address": {
+        "street": "18111 Nordhoff St",
+        "city": "Northridge",
+        "state": "CA",
+        "postcode": "91330",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; parking permit required",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; parking permit required",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-21396",
+      "name": "California State University - Northridge",
+      "type": "charging_station",
+      "lat": 34.241687,
+      "lon": -118.528543,
+      "operator": "P",
+      "address": {
+        "street": "18111 Nordhoff St",
+        "city": "Northridge",
+        "state": "CA",
+        "postcode": "91330",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; parking permit required",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; parking permit required",
+        "pricing": "Free; parking is $8 per day."
+      }
+    },
+    {
+      "id": "nrel-21397",
+      "name": "California State University - Northridge",
+      "type": "charging_station",
+      "lat": 34.236853,
+      "lon": -118.532588,
+      "operator": "P",
+      "address": {
+        "street": "18111 Nordhoff St",
+        "city": "Northridge",
+        "state": "CA",
+        "postcode": "91330",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; parking permit required",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; parking permit required",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-21419",
+      "name": "Getty Center",
+      "type": "charging_station",
+      "lat": 34.077588,
+      "lon": -118.474585,
+      "operator": "P",
+      "address": {
+        "street": "1200 Getty Center Dr",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90049",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Garage business hours; pay lot; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-20",
+            "kw": 1.9,
+            "count": 1
+          }
+        ],
+        "capacity": 27
+      },
+      "amenities": {
+        "opening_hours": "Garage business hours; pay lot; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free; parking fee"
+      }
+    },
+    {
+      "id": "nrel-21450",
+      "name": "LA County DPR Arboretum",
+      "type": "charging_station",
+      "lat": 34.145528,
+      "lon": -118.050548,
+      "operator": "POWERFLEX",
+      "address": {
+        "street": "301 N Baldwin Ave",
+        "city": "Arcadia",
+        "state": "CA",
+        "postcode": "91007",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": "https://www.powerflex.com",
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "$0.45 per kWh from 4pm-9pm; $0.30 per kWh all other times",
+        "payment_methods": [
+          "Proprietor"
+        ]
+      }
+    },
+    {
+      "id": "nrel-21525",
+      "name": "Helms Bakery Building",
+      "type": "charging_station",
+      "lat": 34.029971,
+      "lon": -118.385231,
+      "operator": "P",
+      "address": {
+        "street": "8800 Venice Blvd",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90034",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "$1.35 per hour for first two hours, $3 per hour thereafter"
+      }
+    },
+    {
+      "id": "nrel-21565",
+      "name": "Home Depot",
+      "type": "charging_station",
+      "lat": 34.192178,
+      "lon": -118.934793,
+      "operator": "P",
+      "address": {
+        "street": "2745 Teller Rd",
+        "city": "Newbury Park",
+        "state": "CA",
+        "postcode": "91320",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "NEMA 5-15",
+            "kw": 1.4,
+            "count": 1
+          }
+        ],
+        "capacity": 6
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; Drivers must bring their own J1772 cordset for Level 1 charging",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-33178",
+      "name": "LADWP - Central District",
+      "type": "charging_station",
+      "lat": 34.033898,
+      "lon": -118.256673,
+      "operator": "LG",
+      "address": {
+        "street": "1350 S Wall St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90015",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 56
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-33179",
+      "name": "LADWP - Lincoln Heights District",
+      "type": "charging_station",
+      "lat": 34.081998,
+      "lon": -118.21713,
+      "operator": "LG",
+      "address": {
+        "street": "3101 Artesian St",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postcode": "90031",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 73
+      },
+      "amenities": {
+        "opening_hours": "For fleet use only"
+      }
+    },
+    {
+      "id": "nrel-33182",
+      "name": "LADWP - Valley Center Admin Lot",
+      "type": "charging_station",
+      "lat": 34.208708,
+      "lon": -118.444358,
+      "operator": "LG",
+      "address": {
+        "street": "14401 Saticoy St",
+        "city": "Van Nuys",
+        "state": "CA",
+        "postcode": "91405",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet and employee use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 90
+      },
+      "amenities": {
+        "opening_hours": "For fleet and employee use only"
+      }
+    },
+    {
+      "id": "nrel-33183",
+      "name": "LADWP - Valley Generating Station",
+      "type": "charging_station",
+      "lat": 34.241928,
+      "lon": -118.390147,
+      "operator": "LG",
+      "address": {
+        "street": "11801 Sheldon St",
+        "city": "Sun Valley",
+        "state": "CA",
+        "postcode": "91352",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "private",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "For fleet and employee use only",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CHAdeMO",
+            "kw": 50,
+            "count": 1
+          },
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          },
+          {
+            "type": "CCS (Type 1)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 42
+      },
+      "amenities": {
+        "opening_hours": "For fleet and employee use only"
+      }
+    },
+    {
+      "id": "nrel-38379",
+      "name": "Toyota of Santa Monica",
+      "type": "charging_station",
+      "lat": 34.019875,
+      "lon": -118.49151,
+      "operator": "P",
+      "address": {
+        "street": "801 Santa Monica Blvd",
+        "city": "Santa Monica",
+        "state": "CA",
+        "postcode": "90401",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "Dealership business hours; priority for customer use",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "Dealership business hours; priority for customer use"
+      }
+    }
+  ]
+}

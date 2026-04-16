@@ -1,0 +1,288 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 43,
+    "lon": 0,
+    "bounds": {
+      "south": 43,
+      "north": 44,
+      "west": 0,
+      "east": 1
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 8,
+  "pois": [
+    {
+      "id": "osm-874915987",
+      "name": "Pau Supercharger",
+      "type": "charging_station",
+      "lat": 43.332243,
+      "lon": -0.358848,
+      "operator": "Tesla",
+      "address": {
+        "street": "Rue Suzanne Lenglen 2",
+        "postcode": "64000",
+        "city": "Pau",
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1235013600",
+      "name": "sydec - sydec",
+      "type": "charging_station",
+      "lat": 43.822247,
+      "lon": -0.418724,
+      "operator": "sydec",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "sydec",
+        "network": "CITEOS Mobive",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Credit Cards"
+        ],
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1393011069",
+      "name": "Izivia - Izivia",
+      "type": "charging_station",
+      "lat": 43.371913,
+      "lon": -0.625411,
+      "operator": "Izivia",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Izivia",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1417528663",
+      "name": "IECharge Os-Marcillon",
+      "type": "charging_station",
+      "lat": 43.388972,
+      "lon": -0.595895,
+      "operator": "IECharge",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 160.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 160.0,
+            "count": 4
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "Account Cards",
+          "App",
+          "Credit Cards"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1453153560",
+      "name": "Superchargeur Aire sur l'Adour",
+      "type": "charging_station",
+      "lat": 43.725118,
+      "lon": -0.26729,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 12
+          }
+        ],
+        "capacity": 12
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Tesla Supercharger",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1497292863",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 43.226041,
+      "lon": -0.885015,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1383743749",
+      "name": "Carrefour Market - Tarbes Claverie",
+      "type": "charging_station",
+      "lat": 43.228249,
+      "lon": 0.088187,
+      "operator": "DRIVECO",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "DRIVECO",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "authentication": "none",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1451933871",
+      "name": "Superchargeur Tarbes Séméac",
+      "type": "charging_station",
+      "lat": 43.228794,
+      "lon": 0.096025,
+      "operator": "Tesla",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 7
+          }
+        ],
+        "capacity": 7
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Tesla Supercharger",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

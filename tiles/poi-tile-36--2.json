@@ -1,0 +1,85 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 36,
+    "lon": -2,
+    "bounds": {
+      "south": 36,
+      "north": 37,
+      "west": -2,
+      "east": -1
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "osm-1311289590",
+      "name": "Eurocharge - Eurocharge",
+      "type": "charging_station",
+      "lat": 36.770961,
+      "lon": -2.613537,
+      "operator": "Eurocharge",
+      "address": {
+        "street": "Carretera de Alicún 31"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "Eurocharge",
+        "network": "Eurocharge",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-1496177911",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 36.766927,
+      "lon": -2.61201,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1327066805",
+      "name": "Iberdrola - IBERDROLA",
+      "type": "charging_station",
+      "lat": 36.775228,
+      "lon": -2.610819,
+      "operator": "Iberdrola",
+      "address": {
+        "street": "Calle Santiago de Compostela",
+        "postcode": "04740",
+        "city": "Roquetas de Mar"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "IBERDROLA",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

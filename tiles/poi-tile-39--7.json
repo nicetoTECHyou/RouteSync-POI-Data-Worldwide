@@ -1,0 +1,637 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 39,
+    "lon": -7,
+    "bounds": {
+      "south": 39,
+      "north": 40,
+      "west": -7,
+      "east": -6
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 23,
+  "pois": [
+    {
+      "id": "osm-1333572768",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 39.409452,
+      "lon": -7.246494,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1346487664",
+      "name": "CTB-?????",
+      "type": "charging_station",
+      "lat": 39.808362,
+      "lon": -7.511415,
+      "operator": "Charging Together",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Iberdrola bp pulse",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1484149922",
+      "name": "CTB-00070/71",
+      "type": "charging_station",
+      "lat": 39.804524,
+      "lon": -7.512219,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "09:00-21:00"
+      },
+      "amenities": {
+        "opening_hours": "09:00-21:00",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1346649522",
+      "name": "Castelo Branco Supercharger",
+      "type": "charging_station",
+      "lat": 39.806503,
+      "lon": -7.515713,
+      "operator": "Tesla",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "max_kw": 250.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 250.0,
+            "count": 8
+          }
+        ],
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "Tesla",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1348289883",
+      "name": "CTB-00041…46",
+      "type": "charging_station",
+      "lat": 39.808738,
+      "lon": -7.51543,
+      "operator": "Mota Engil II",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 8
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Renewing",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1347060866",
+      "name": "IONITY Castelo Branco Oeste",
+      "type": "charging_station",
+      "lat": 39.88771,
+      "lon": -7.488142,
+      "operator": "IONITY",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "IONITY",
+        "network": "Mobi.E;Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1347063189",
+      "name": "IONITY Castelo Branco Leste",
+      "type": "charging_station",
+      "lat": 39.888295,
+      "lon": -7.486834,
+      "operator": "IONITY",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "IONITY",
+        "network": "Mobi.E;Ionity",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1353226678",
+      "name": "Continente Modelo Portalegre",
+      "type": "charging_station",
+      "lat": 39.277395,
+      "lon": -7.431249,
+      "operator": "Continente",
+      "address": {
+        "street": "Rua do Joinal",
+        "postcode": "7300-526",
+        "city": "Portalegre"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Continente Plug&Charge",
+        "network": "Continente Plug&Charge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1414045243",
+      "name": "PTG-00008/9",
+      "type": "charging_station",
+      "lat": 39.278515,
+      "lon": -7.43284,
+      "operator": "Powerdot",
+      "address": {
+        "street": "Rua do Joinal",
+        "city": "Portalegre"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1360121944",
+      "name": "PTG-00027/28",
+      "type": "charging_station",
+      "lat": 39.283098,
+      "lon": -7.4313,
+      "operator": "InstaVolt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "InstaVolt",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1383614718",
+      "name": "Continente Modelo Castelo Branco",
+      "type": "charging_station",
+      "lat": 39.833096,
+      "lon": -7.49607,
+      "operator": "Continente",
+      "address": {
+        "street": "Avenida da Europa",
+        "postcode": "6000-145",
+        "city": "Castelo Branco"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Continente Plug&Charge",
+        "network": "Continente Plug&Charge",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1387830836",
+      "name": "VVR-00004/5",
+      "type": "charging_station",
+      "lat": 39.630475,
+      "lon": -7.751926,
+      "operator": "Atlante",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Atlante",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1417710888",
+      "name": "AVS-00003/4",
+      "type": "charging_station",
+      "lat": 39.050681,
+      "lon": -7.909078,
+      "operator": "Helexia II",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Helexia",
+        "network": "Mobi.E",
+        "opening_hours": "08:00-24:00"
+      },
+      "amenities": {
+        "opening_hours": "08:00-24:00",
+        "fee": true,
+        "parking_fee": true
+      }
+    },
+    {
+      "id": "osm-1420035313",
+      "name": "CTB-00011…13",
+      "type": "charging_station",
+      "lat": 39.815711,
+      "lon": -7.52031,
+      "operator": "Helexia II",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 6
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Helexia",
+        "network": "Mobi.E",
+        "opening_hours": "09:00-22:00"
+      },
+      "amenities": {
+        "opening_hours": "09:00-22:00",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1420260396",
+      "name": "CTB-00058/59",
+      "type": "charging_station",
+      "lat": 39.809018,
+      "lon": -7.52416,
+      "operator": "Helexia II",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Helexia",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1434461206",
+      "name": "CTB-00030",
+      "type": "charging_station",
+      "lat": 39.809561,
+      "lon": -7.525279,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1423018847",
+      "name": "CTB-?????",
+      "type": "charging_station",
+      "lat": 39.856994,
+      "lon": -7.459514,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "Repsol",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1431740693",
+      "name": "CTB-00027",
+      "type": "charging_station",
+      "lat": 39.826076,
+      "lon": -7.498423,
+      "operator": "Powerdot",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Powerdot",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1432505073",
+      "name": "ALT-00002…4/8/9",
+      "type": "charging_station",
+      "lat": 39.222284,
+      "lon": -7.686862,
+      "operator": "EDP",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 7
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1442014921",
+      "name": "PNV-00005/7",
+      "type": "charging_station",
+      "lat": 39.749809,
+      "lon": -7.920488,
+      "operator": "High Green Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "High Green Power",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1442014924",
+      "name": "PNV-00004/6",
+      "type": "charging_station",
+      "lat": 39.771274,
+      "lon": -7.849926,
+      "operator": "High Green Power",
+      "address": {
+        "country": "PT"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "High Green Power",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1455545997",
+      "name": "CMR-00003/4",
+      "type": "charging_station",
+      "lat": 39.020349,
+      "lon": -7.066514,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-1495802735",
+      "name": "EDP - edp Charge",
+      "type": "charging_station",
+      "lat": 39.307318,
+      "lon": -7.648057,
+      "operator": "EDP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "edp Charge",
+        "network": "Mobi.E",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true,
+        "parking_fee": false
+      }
+    }
+  ]
+}

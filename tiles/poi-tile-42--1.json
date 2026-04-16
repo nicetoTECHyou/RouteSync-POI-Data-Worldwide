@@ -1,0 +1,200 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 42,
+    "lon": -1,
+    "bounds": {
+      "south": 42,
+      "north": 43,
+      "west": -1,
+      "east": 0
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 7,
+  "pois": [
+    {
+      "id": "osm-1286703792",
+      "name": "Iberdrola estación de carga",
+      "type": "charging_station",
+      "lat": 42.040734,
+      "lon": -1.5895,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "max_kw": 50.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 43.0,
+            "count": 2
+          },
+          {
+            "type": "CCS (Type 2)",
+            "kw": 50.0,
+            "count": 2
+          },
+          {
+            "type": "CHAdeMO",
+            "kw": 50.0,
+            "count": 2
+          }
+        ],
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "payment_methods": [
+          "App",
+          "Electromaps",
+          "Electroverse",
+          "Plugsurfing",
+          "Recarga Pública Iberdrola",
+          "Rfid Card"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1420370558",
+      "name": "Zunder - Zunder",
+      "type": "charging_station",
+      "lat": 42.801558,
+      "lon": -1.612642,
+      "operator": "Zunder",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Zunder",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1420370564",
+      "name": "Zunder - Zunder",
+      "type": "charging_station",
+      "lat": 42.800436,
+      "lon": -1.611498,
+      "operator": "Zunder",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Zunder",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1441641671",
+      "name": "Navarra Te Recarga - UPNA Green",
+      "type": "charging_station",
+      "lat": 42.801569,
+      "lon": -1.635573,
+      "operator": "Navarra Te Recarga",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "UPNA Green",
+        "network": "Navarra Te Recarga",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-1454124310",
+      "name": "Ladestation Avia",
+      "type": "charging_station",
+      "lat": 42.736233,
+      "lon": -1.63298,
+      "operator": "Avia",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1456739263",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 42.061621,
+      "lon": -1.65043,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "FR"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-1474800470",
+      "name": "AN Energéticos - Olite",
+      "type": "charging_station",
+      "lat": 42.493912,
+      "lon": -1.665209,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "FR"
+      },
+      "power": {
+        "capacity": 4
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Iberdrola",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,1273 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 37,
+    "lon": -6,
+    "bounds": {
+      "south": 37,
+      "north": 38,
+      "west": -6,
+      "east": -5
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 50,
+  "pois": [
+    {
+      "id": "osm-1371238320",
+      "name": "Estación de carga eléctrica Zunder",
+      "type": "charging_station",
+      "lat": 37.375081,
+      "lon": -6.085909,
+      "operator": "Zunder",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 14
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "Zunder",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-6700075887",
+      "name": "TESLA",
+      "type": "charging_station",
+      "lat": 37.371842,
+      "lon": -6.036654,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-6727503117",
+      "name": "Blau Drive - Honest Charging",
+      "type": "charging_station",
+      "lat": 37.888848,
+      "lon": -6.570357,
+      "operator": "Blau Drive",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "Honest Charging",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7052561025",
+      "name": "Campofrío",
+      "type": "charging_station",
+      "lat": 37.765809,
+      "lon": -6.576896,
+      "operator": "Wenea",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7330064857",
+      "name": "Ladestation Endesa",
+      "type": "charging_station",
+      "lat": 37.380482,
+      "lon": -6.083001,
+      "operator": "Endesa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22.0,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "authentication": "app",
+        "fee": true,
+        "parking_fee": false
+      }
+    },
+    {
+      "id": "osm-8581508577",
+      "name": "Ladestation Endesa",
+      "type": "charging_station",
+      "lat": 37.378286,
+      "lon": -6.082587,
+      "operator": "Endesa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-7696259962",
+      "name": "Ladestation Ayuntamiento de Huelva",
+      "type": "charging_station",
+      "lat": 37.257996,
+      "lon": -6.935246,
+      "operator": "Ayuntamiento de Huelva",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7696259963",
+      "name": "Ladestation Ayuntamiento de Huelva",
+      "type": "charging_station",
+      "lat": 37.25931,
+      "lon": -6.948506,
+      "operator": "Ayuntamiento de Huelva",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          },
+          {
+            "type": "Schuko",
+            "kw": 2.3,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-7834616861",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.258003,
+      "lon": -6.952704,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8358666745",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.325405,
+      "lon": -6.840065,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ]
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-8626845555",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.270686,
+      "lon": -6.925266,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9014221689",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.278928,
+      "lon": -6.943692,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9146716716",
+      "name": "Sevilla Supercharger",
+      "type": "charging_station",
+      "lat": 37.392888,
+      "lon": -6.010189,
+      "operator": "Tesla",
+      "address": {
+        "street": "Calle Camino de los Descubrimientos",
+        "postcode": "41092",
+        "city": "Sevilla"
+      },
+      "power": {
+        "max_kw": 150.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 150.0,
+            "count": 10
+          },
+          {
+            "type": "Tesla Supercharger",
+            "kw": 150.0,
+            "count": 10
+          }
+        ],
+        "capacity": 10
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Tesla Supercharger",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9876012420",
+      "name": "Iberdrola Clientes Charging Station",
+      "type": "charging_station",
+      "lat": 37.385557,
+      "lon": -6.002895,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-9951775489",
+      "name": "Ladestation Endesa",
+      "type": "charging_station",
+      "lat": 37.381142,
+      "lon": -6.082346,
+      "operator": "Endesa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9951775491",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.381687,
+      "lon": -6.068308,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "customers",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9951775492",
+      "name": "Ladestation Wenea",
+      "type": "charging_station",
+      "lat": 37.383797,
+      "lon": -6.050718,
+      "operator": "Wenea",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-9951785297",
+      "name": "Ladestation BP",
+      "type": "charging_station",
+      "lat": 37.384258,
+      "lon": -6.04765,
+      "operator": "BP",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 3
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "no",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      },
+      "amenities": {
+        "fee": false
+      }
+    },
+    {
+      "id": "osm-10566202002",
+      "name": "Ionity Trigueros Norte",
+      "type": "charging_station",
+      "lat": 37.334153,
+      "lon": -6.789398,
+      "operator": "IONITY",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10566226721",
+      "name": "Ionity Trigueros Sur",
+      "type": "charging_station",
+      "lat": 37.331689,
+      "lon": -6.802187,
+      "operator": "IONITY",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 350.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 350.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "yes",
+        "fee": "yes",
+        "brand": "Ionity",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "payment_methods": [
+          "App",
+          "Contactless"
+        ],
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-10568694193",
+      "name": "Ladestation Carrefour",
+      "type": "charging_station",
+      "lat": 37.391463,
+      "lon": -6.030842,
+      "operator": "Carrefour",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11898347212",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.904143,
+      "lon": -6.221055,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11898349770",
+      "name": "Ladestation Porsche",
+      "type": "charging_station",
+      "lat": 37.420847,
+      "lon": -6.030442,
+      "operator": "Porsche",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11921833168",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.360294,
+      "lon": -6.542841,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11921837269",
+      "name": "Eranovum - Eranovum",
+      "type": "charging_station",
+      "lat": 37.332888,
+      "lon": -6.539825,
+      "operator": "Eranovum",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Eranovum",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11921837270",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.23315,
+      "lon": -6.512095,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11921837271",
+      "name": "Ladestation Repsol",
+      "type": "charging_station",
+      "lat": 37.348481,
+      "lon": -6.422832,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-11921837272",
+      "name": "Ladestation Repsol",
+      "type": "charging_station",
+      "lat": 37.347057,
+      "lon": -6.423072,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12104233128",
+      "name": "Eranovum - Eranovum",
+      "type": "charging_station",
+      "lat": 37.455531,
+      "lon": -6.055403,
+      "operator": "Eranovum",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Eranovum",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12124279724",
+      "name": "Ladestation Iberdrola",
+      "type": "charging_station",
+      "lat": 37.360163,
+      "lon": -6.199732,
+      "operator": "Iberdrola",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12507005721",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.384948,
+      "lon": -6.192372,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12509224019",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.396998,
+      "lon": -6.475846,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12509274780",
+      "name": "Ladestation Endesa",
+      "type": "charging_station",
+      "lat": 37.389813,
+      "lon": -6.540645,
+      "operator": "Endesa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12509789432",
+      "name": "Ladestation Endesa",
+      "type": "charging_station",
+      "lat": 37.362809,
+      "lon": -6.678344,
+      "operator": "Endesa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12512139873",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.314353,
+      "lon": -6.834225,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12543833550",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.315042,
+      "lon": -6.838678,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12514081250",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.266455,
+      "lon": -6.961357,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    },
+    {
+      "id": "osm-12514102483",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.274765,
+      "lon": -6.990729,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "id": "osm-12529314947",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.368148,
+      "lon": -6.035391,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12541566982",
+      "name": "Ladestation Repsol",
+      "type": "charging_station",
+      "lat": 37.263692,
+      "lon": -6.523628,
+      "operator": "Repsol",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-12543766142",
+      "name": "Ladeeinrichtung",
+      "type": "charging_station",
+      "lat": 37.315281,
+      "lon": -6.84466,
+      "operator": "Unbekannt",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13286006556",
+      "name": "Wenea - Wenea",
+      "type": "charging_station",
+      "lat": 37.387988,
+      "lon": -6.006589,
+      "operator": "Wenea",
+      "address": {
+        "country": "ES"
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Wenea",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13300267367",
+      "name": "Eranovum - Eranovum",
+      "type": "charging_station",
+      "lat": 37.40657,
+      "lon": -6.004231,
+      "operator": "Eranovum",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Eranovum",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13300267377",
+      "name": "Endesa X - Endesa X",
+      "type": "charging_station",
+      "lat": 37.406818,
+      "lon": -6.006539,
+      "operator": "Endesa X",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Endesa X",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13300267384",
+      "name": "Eranovum - Eranovum",
+      "type": "charging_station",
+      "lat": 37.404961,
+      "lon": -6.007035,
+      "operator": "Eranovum",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Eranovum",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13300267395",
+      "name": "Ladestation Veiasa",
+      "type": "charging_station",
+      "lat": 37.403194,
+      "lon": -6.006552,
+      "operator": "Veiasa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13300267396",
+      "name": "Ladestation Veiasa",
+      "type": "charging_station",
+      "lat": 37.403202,
+      "lon": -6.006613,
+      "operator": "Veiasa",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13300267398",
+      "name": "Eranovum - Eranovum",
+      "type": "charging_station",
+      "lat": 37.403006,
+      "lon": -6.007416,
+      "operator": "Eranovum",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Eranovum",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13300267368",
+      "name": "Eranovum - Eranovum",
+      "type": "charging_station",
+      "lat": 37.408854,
+      "lon": -6.003612,
+      "operator": "Eranovum",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Eranovum",
+        "network": "",
+        "opening_hours": ""
+      }
+    },
+    {
+      "id": "osm-13300267371",
+      "name": "Eranovum - Eranovum",
+      "type": "charging_station",
+      "lat": 37.408843,
+      "lon": -6.006004,
+      "operator": "Eranovum",
+      "address": {
+        "country": "ES"
+      },
+      "power": {
+        "max_kw": 120.0,
+        "sockets": [
+          {
+            "type": "CCS (Type 2)",
+            "kw": 120.0,
+            "count": 2
+          }
+        ],
+        "capacity": 2
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "",
+        "brand": "Eranovum",
+        "network": "",
+        "opening_hours": ""
+      }
+    }
+  ]
+}

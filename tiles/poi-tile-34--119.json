@@ -1,0 +1,282 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 34,
+    "lon": -119,
+    "bounds": {
+      "south": 34,
+      "north": 35,
+      "west": -119,
+      "east": -118
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 7,
+  "pois": [
+    {
+      "id": "nrel-7195",
+      "name": "Courtyard Marriott - Oxnard Ventura",
+      "type": "charging_station",
+      "lat": 34.228315,
+      "lon": -119.170865,
+      "operator": "P",
+      "address": {
+        "street": "600 E Esplanade Dr",
+        "city": "Oxnard",
+        "state": "CA",
+        "postcode": "93030",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; guest use only; 2 hour limit",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; guest use only; 2 hour limit",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-21559",
+      "name": "California State University - Channel Islands",
+      "type": "charging_station",
+      "lat": 34.166576,
+      "lon": -119.045855,
+      "operator": "P",
+      "address": {
+        "street": "1 University Dr",
+        "city": "Camarillo",
+        "state": "CA",
+        "postcode": "93012",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; parking pass required or day pass available for purchase",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 5
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; parking pass required or day pass available for purchase",
+        "pricing": "Free; $6 for parking day pass for non-permit holders"
+      }
+    },
+    {
+      "id": "nrel-21566",
+      "name": "Lake Casitas Municipal Water District - Recreational Area",
+      "type": "charging_station",
+      "lat": 34.418322,
+      "lon": -119.3368,
+      "operator": "P",
+      "address": {
+        "street": "Casitas Pass Rd & Baldwin Rd",
+        "city": "Oak View",
+        "state": "CA",
+        "postcode": "93022",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "8am-5pm daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "8am-5pm daily",
+        "pricing": "$20 parking fee"
+      }
+    },
+    {
+      "id": "nrel-21606",
+      "name": "Ventura County Government Center",
+      "type": "charging_station",
+      "lat": 34.267352,
+      "lon": -119.2124,
+      "operator": "LG",
+      "address": {
+        "street": "800 S Victoria Ave",
+        "city": "Ventura",
+        "state": "CA",
+        "postcode": "93009",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "8am-5pm daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "8am-5pm daily"
+      }
+    },
+    {
+      "id": "nrel-21607",
+      "name": "Ventura County Air Pollution Control District",
+      "type": "charging_station",
+      "lat": 34.268756,
+      "lon": -119.2154,
+      "operator": "LG",
+      "address": {
+        "street": "669 County Square Dr",
+        "city": "Ventura",
+        "state": "CA",
+        "postcode": "93003",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "8am-5pm daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "8am-5pm daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-21608",
+      "name": "Pacific View Mall",
+      "type": "charging_station",
+      "lat": 34.268,
+      "lon": -119.2492,
+      "operator": "P",
+      "address": {
+        "street": "3295 E Main St",
+        "city": "Ventura",
+        "state": "CA",
+        "postcode": "93003",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "T"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-36610",
+      "name": "Goleta Mechanics Bank",
+      "type": "charging_station",
+      "lat": 34.44198,
+      "lon": -119.829553,
+      "operator": "P",
+      "address": {
+        "street": "5956 Calle Real",
+        "city": "Goleta",
+        "state": "CA",
+        "postcode": "93117",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "T"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

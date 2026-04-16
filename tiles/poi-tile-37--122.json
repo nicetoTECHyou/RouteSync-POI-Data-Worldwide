@@ -1,0 +1,247 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 37,
+    "lon": -122,
+    "bounds": {
+      "south": 37,
+      "north": 38,
+      "west": -122,
+      "east": -121
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 6,
+  "pois": [
+    {
+      "id": "nrel-7280",
+      "name": "Hyatt at Fisherman's Wharf",
+      "type": "charging_station",
+      "lat": 37.80619,
+      "lon": -122.4152,
+      "operator": "P",
+      "address": {
+        "street": "555 N Point St",
+        "city": "San Francisco",
+        "state": "CA",
+        "postcode": "94133",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; for guest use only; see valet for access",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; for guest use only; see valet for access",
+        "pricing": "Free; parking fee",
+        "payment_methods": [
+          "A ANDROID_PAY APPLE_PAY CREDIT D Debit M V"
+        ]
+      }
+    },
+    {
+      "id": "nrel-21358",
+      "name": "Palace Hotel",
+      "type": "charging_station",
+      "lat": 37.78881,
+      "lon": -122.401,
+      "operator": "P",
+      "address": {
+        "street": "2 New Montgomery St",
+        "city": "San Francisco",
+        "state": "CA",
+        "postcode": "94105",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "$10 per session"
+      }
+    },
+    {
+      "id": "nrel-21360",
+      "name": "Mark Hopkins InterContinental Hotel",
+      "type": "charging_station",
+      "lat": 37.791791,
+      "lon": -122.411265,
+      "operator": "P",
+      "address": {
+        "street": "999 California St",
+        "city": "San Francisco",
+        "state": "CA",
+        "postcode": "94108",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; for guest use only; see valet for access",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; for guest use only; see valet for access"
+      }
+    },
+    {
+      "id": "nrel-33690",
+      "name": "Golden Gate Ferry Terminal",
+      "type": "charging_station",
+      "lat": 37.94495,
+      "lon": -122.5096,
+      "operator": "P",
+      "address": {
+        "street": "101 E Sir Francis Drake Blvd",
+        "city": "Larkspur",
+        "state": "CA",
+        "postcode": "94939",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-33695",
+      "name": "Oakland International Airport - Daily Lot",
+      "type": "charging_station",
+      "lat": 37.7136,
+      "lon": -122.2087,
+      "operator": "LG",
+      "address": {
+        "street": "1 Airport Dr",
+        "city": "Oakland",
+        "state": "CA",
+        "postcode": "94621",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38517",
+      "name": "Parc 55 Hotel",
+      "type": "charging_station",
+      "lat": 37.784871,
+      "lon": -122.408991,
+      "operator": "P",
+      "address": {
+        "street": "55 Cyril Magnin",
+        "city": "San Francisco",
+        "state": "CA",
+        "postcode": "94102",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot; see valet for more information",
+        "status": "T"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot; see valet for more information",
+        "pricing": "Free"
+      }
+    }
+  ]
+}

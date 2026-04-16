@@ -1,0 +1,49 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 37,
+    "lon": 43,
+    "bounds": {
+      "south": 37,
+      "north": 38,
+      "west": 43,
+      "east": 44
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 1,
+  "pois": [
+    {
+      "id": "osm-8910552469",
+      "name": "ZES - Kadoil Özek Petrol",
+      "type": "charging_station",
+      "lat": 37.570133,
+      "lon": 43.743643,
+      "operator": "ZES - Kadoil Özek Petrol",
+      "address": {},
+      "power": {
+        "max_kw": 22,
+        "sockets": [
+          {
+            "type": "Type 2",
+            "kw": 22,
+            "count": 1
+          }
+        ],
+        "capacity": 1
+      },
+      "source": "osm",
+      "tags": {
+        "access": "",
+        "fee": "yes",
+        "brand": "",
+        "network": "",
+        "opening_hours": "24/7"
+      },
+      "amenities": {
+        "opening_hours": "24/7",
+        "fee": true
+      }
+    }
+  ]
+}

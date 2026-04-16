@@ -1,0 +1,131 @@
+{
+  "format": "routesync-poi-v1.5.0",
+  "tile": {
+    "lat": 40,
+    "lon": -88,
+    "bounds": {
+      "south": 40,
+      "north": 41,
+      "west": -88,
+      "east": -87
+    }
+  },
+  "generated": "2026-04-16T14:52:46Z",
+  "count": 3,
+  "pois": [
+    {
+      "id": "nrel-33921",
+      "name": "City of Champaign - Hill Street Parking Deck",
+      "type": "charging_station",
+      "lat": 40.119161,
+      "lon": -88.244185,
+      "operator": "LG",
+      "address": {
+        "street": "123 W Hill St",
+        "city": "Champaign",
+        "state": "IL",
+        "postcode": "61820",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; pay lot",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 4
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; pay lot",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38855",
+      "name": "City Hall Annex - Town of Normal",
+      "type": "charging_station",
+      "lat": 40.507796,
+      "lon": -88.982897,
+      "operator": "LG",
+      "address": {
+        "street": "100 E Phoenix Ave",
+        "city": "Normal",
+        "state": "IL",
+        "postcode": "61761",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 2
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily",
+        "pricing": "Free"
+      }
+    },
+    {
+      "id": "nrel-38856",
+      "name": "College Avenue Parking Deck",
+      "type": "charging_station",
+      "lat": 40.511172,
+      "lon": -88.984985,
+      "operator": "LG",
+      "address": {
+        "street": "101 W Mulberry St",
+        "city": "Normal",
+        "state": "IL",
+        "postcode": "61761",
+        "country": "US"
+      },
+      "source": "nrel",
+      "tags": {
+        "access": "public",
+        "fee": "yes",
+        "network": null,
+        "opening_hours": "24 hours daily; parking fee",
+        "status": "E"
+      },
+      "power": {
+        "max_kw": 7.2,
+        "sockets": [
+          {
+            "type": "Type 1 (J1772)",
+            "kw": 7.2,
+            "count": 1
+          }
+        ],
+        "capacity": 3
+      },
+      "amenities": {
+        "opening_hours": "24 hours daily; parking fee",
+        "pricing": "Free"
+      }
+    }
+  ]
+}
